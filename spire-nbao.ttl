@@ -23,8 +23,8 @@
 :hasAwayTeam rdf:type owl:ObjectProperty .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/hasCouchStat
-:hasCouchStat rdf:type owl:ObjectProperty .
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/hasCoachStat
+:hasCoachStat rdf:type owl:ObjectProperty .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/hasHomeTeam
@@ -63,8 +63,8 @@
 :withAcquiredPlayer rdf:type owl:ObjectProperty .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/withCouchedTeam
-:withCouchedTeam rdf:type owl:ObjectProperty .
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/withCoachedTeam
+:withCoachedTeam rdf:type owl:ObjectProperty .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/withRelinquishedPlayer
@@ -83,19 +83,19 @@
 :Award rdf:type owl:Class .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/Couch
-:Couch rdf:type owl:Class ;
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/Coach
+:Coach rdf:type owl:Class ;
        rdfs:subClassOf :Person .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/CouchAward
-:CouchAward rdf:type owl:Class ;
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/CoachAward
+:CoachAward rdf:type owl:Class ;
             rdfs:subClassOf :Award ;
             owl:disjointWith :PlayerAward .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/CouchStat
-:CouchStat rdf:type owl:Class .
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/CoachStat
+:CoachStat rdf:type owl:Class .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/Draft
@@ -176,7 +176,7 @@
 [ rdf:type owl:AllDisjointClasses ;
   owl:members ( :AllStarGame
                 :Award
-                :CouchStat
+                :CoachStat
                 :Draft
                 :DraftRanks
                 :Game
@@ -190,7 +190,7 @@
 
 
 [ rdf:type owl:AllDisjointClasses ;
-  owl:members ( :Couch
+  owl:members ( :Coach
                 :Official
                 :Player
               )
