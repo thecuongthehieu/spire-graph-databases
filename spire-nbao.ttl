@@ -7,7 +7,8 @@
 @base <http://www.semanticweb.org/~gdb/ontology/spire/nbao/> .
 
 <http://www.semanticweb.org/~gdb/ontology/spire/nbao> rdf:type owl:Ontology ;
-                                                       rdfs:comment "This is NBA ontology of group SPIRE"@en ;
+                                                       rdfs:comment "Ontologia NBA gruppo SPIRE"@it ,
+                                                                    "This is NBA ontology of group SPIRE"@en ;
                                                        rdfs:label "NBA Ontology"@en .
 
 #################################################################
