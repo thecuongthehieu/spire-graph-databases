@@ -1,0 +1,199 @@
+@prefix : <http://www.semanticweb.org/~gdb/ontology/spire/nbao/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/~gdb/ontology/spire/nbao/> .
+
+<http://www.semanticweb.org/~gdb/ontology/spire/nbao> rdf:type owl:Ontology ;
+                                                       rdfs:comment "This is NBA ontology of group SPIRE"@en ;
+                                                       rdfs:label "NBA Ontology"@en .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/handledGame
+:handledGame rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/hasAwayTeam
+:hasAwayTeam rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/hasCouchStat
+:hasCouchStat rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/hasHomeTeam
+:hasHomeTeam rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/hasMainTeam
+:hasMainTeam rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/isAwardedTo
+:isAwardedTo rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/isDraftedWith
+:isDraftedWith rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/occurredInTeam
+:occurredInTeam rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/ofDraft
+:ofDraft rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/ofLeague
+:ofLeague rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/participatedInAllStarGame
+:participatedInAllStarGame rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/withAcquiredPlayer
+:withAcquiredPlayer rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/withCouchedTeam
+:withCouchedTeam rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/withRelinquishedPlayer
+:withRelinquishedPlayer rdf:type owl:ObjectProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/AllStarGame
+:AllStarGame rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/Award
+:Award rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/Couch
+:Couch rdf:type owl:Class ;
+       rdfs:subClassOf :Person .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/CouchAward
+:CouchAward rdf:type owl:Class ;
+            rdfs:subClassOf :Award ;
+            owl:disjointWith :PlayerAward .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/CouchStat
+:CouchStat rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/Draft
+:Draft rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/DraftRanks
+:DraftRanks rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/Game
+:Game rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/InjuryStat
+:InjuryStat rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/League
+:League rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/Official
+:Official rdf:type owl:Class ;
+          rdfs:subClassOf :Person .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/Person
+:Person rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/Player
+:Player rdf:type owl:Class ;
+        rdfs:subClassOf :Person .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/PlayerAward
+:PlayerAward rdf:type owl:Class ;
+             rdfs:subClassOf :Award .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/Position
+:Position rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/Team
+:Team rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/ABA
+:ABA rdf:type owl:NamedIndividual ,
+              :League .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/Center
+:Center rdf:type owl:NamedIndividual ,
+                 :Position .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/Forward
+:Forward rdf:type owl:NamedIndividual ,
+                  :Position .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/NBA
+:NBA rdf:type owl:NamedIndividual ,
+              :League .
+
+
+#################################################################
+#    General axioms
+#################################################################
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :AllStarGame
+                :Award
+                :CouchStat
+                :Draft
+                :DraftRanks
+                :Game
+                :InjuryStat
+                :League
+                :Person
+                :Position
+                :Team
+              )
+] .
+
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :Couch
+                :Official
+                :Player
+              )
+] .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi
