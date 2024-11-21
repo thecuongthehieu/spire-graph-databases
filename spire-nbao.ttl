@@ -16,59 +16,99 @@
 #################################################################
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#handledGame
-:handledGame rdf:type owl:ObjectProperty .
+:handledGame rdf:type owl:ObjectProperty ;
+             rdfs:domain :Official ;
+             rdfs:range :Game .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#hasAwayTeam
-:hasAwayTeam rdf:type owl:ObjectProperty .
+:hasAwayTeam rdf:type owl:ObjectProperty ,
+                      owl:FunctionalProperty ;
+             rdfs:domain :Game ;
+             rdfs:range :Team .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#hasCouchStat
-:hasCouchStat rdf:type owl:ObjectProperty .
+:hasCouchStat rdf:type owl:ObjectProperty ;
+              rdfs:domain :Coach ;
+              rdfs:range :CoachStat .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#hasHomeTeam
-:hasHomeTeam rdf:type owl:ObjectProperty .
+:hasHomeTeam rdf:type owl:ObjectProperty ,
+                      owl:FunctionalProperty ;
+             rdfs:domain :Game ;
+             rdfs:range :Team .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#hasMainTeam
-:hasMainTeam rdf:type owl:ObjectProperty .
+:hasMainTeam rdf:type owl:ObjectProperty ;
+             rdfs:domain :Player ;
+             rdfs:range :Team .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#isAwardedTo
-:isAwardedTo rdf:type owl:ObjectProperty .
+:isAwardedTo rdf:type owl:ObjectProperty ;
+             rdfs:domain :Award ;
+             rdfs:range [ rdf:type owl:Class ;
+                          owl:unionOf ( :Coach
+                                        :Player
+                                      )
+                        ] .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#isDraftedWith
-:isDraftedWith rdf:type owl:ObjectProperty .
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#isDraftedAs
+:isDraftedAs rdf:type owl:ObjectProperty ;
+             rdfs:domain :Player ;
+             rdfs:range :DraftRanks .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#occurredInTeam
-:occurredInTeam rdf:type owl:ObjectProperty .
+:occurredInTeam rdf:type owl:ObjectProperty ;
+                rdfs:domain :InjuryStat ;
+                rdfs:range :Team .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#ofDraft
-:ofDraft rdf:type owl:ObjectProperty .
+:ofDraft rdf:type owl:ObjectProperty ,
+                  owl:FunctionalProperty ;
+         rdfs:domain :DraftRanks ;
+         rdfs:range :Draft .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#ofLeague
-:ofLeague rdf:type owl:ObjectProperty .
+:ofLeague rdf:type owl:ObjectProperty ;
+          rdfs:domain [ rdf:type owl:Class ;
+                        owl:unionOf ( :AllStarGame
+                                      :Award
+                                    )
+                      ] ;
+          rdfs:range :League .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#participatedInAllStarGame
-:participatedInAllStarGame rdf:type owl:ObjectProperty .
+:participatedInAllStarGame rdf:type owl:ObjectProperty ;
+                           rdfs:domain :Player ;
+                           rdfs:range :AllStarGame .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#withAcquiredPlayer
-:withAcquiredPlayer rdf:type owl:ObjectProperty .
+:withAcquiredPlayer rdf:type owl:ObjectProperty ;
+                    rdfs:domain :InjuryStat ;
+                    rdfs:range :Player .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#withCouchedTeam
-:withCouchedTeam rdf:type owl:ObjectProperty .
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#withCoachedTeam
+:withCoachedTeam rdf:type owl:ObjectProperty ,
+                          owl:FunctionalProperty ;
+                 rdfs:domain :CoachStat ;
+                 rdfs:range :Team .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#withRelinquishedPlayer
-:withRelinquishedPlayer rdf:type owl:ObjectProperty .
+:withRelinquishedPlayer rdf:type owl:ObjectProperty ;
+                        rdfs:domain :InjuryStat ;
+                        rdfs:range :Player .
 
 
 #################################################################
@@ -88,14 +128,18 @@
        rdfs:subClassOf <http://www.w3.org/2000/10/swap/pim/contact#Person> .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#CouchAward
-:CouchAward rdf:type owl:Class ;
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#CoachAward
+:CoachAward rdf:type owl:Class ;
+            owl:equivalentClass [ rdf:type owl:Restriction ;
+                                  owl:onProperty :isAwardedTo ;
+                                  owl:someValuesFrom :Coach
+                                ] ;
             rdfs:subClassOf :Award ;
             owl:disjointWith :PlayerAward .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#CouchStat
-:CouchStat rdf:type owl:Class .
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#CoachStat
+:CoachStat rdf:type owl:Class .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Draft
@@ -107,7 +151,20 @@
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Game
-:Game rdf:type owl:Class .
+:Game rdf:type owl:Class ;
+      owl:equivalentClass [ owl:intersectionOf ( [ rdf:type owl:Restriction ;
+                                                   owl:onProperty :hasAwayTeam ;
+                                                   owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                                   owl:onClass :Team
+                                                 ]
+                                                 [ rdf:type owl:Restriction ;
+                                                   owl:onProperty :hasHomeTeam ;
+                                                   owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                                   owl:onClass :Team
+                                                 ]
+                                               ) ;
+                            rdf:type owl:Class
+                          ] .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#InjuryStat
@@ -115,7 +172,12 @@
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#League
-:League rdf:type owl:Class .
+:League rdf:type owl:Class ;
+        owl:equivalentClass [ rdf:type owl:Class ;
+                              owl:oneOf ( <http://www.semanticweb.org/~gdb/ontology/spire/nbao/ABA>
+                                          <http://www.semanticweb.org/~gdb/ontology/spire/nbao/NBA>
+                                        )
+                            ] .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Official
@@ -130,11 +192,25 @@
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#PlayerAward
 :PlayerAward rdf:type owl:Class ;
+             owl:equivalentClass [ rdf:type owl:Restriction ;
+                                   owl:onProperty :isAwardedTo ;
+                                   owl:someValuesFrom :Player
+                                 ] ;
              rdfs:subClassOf :Award .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Position
-:Position rdf:type owl:Class .
+:Position rdf:type owl:Class ;
+          owl:equivalentClass [ rdf:type owl:Class ;
+                                owl:oneOf ( :Center-Forward
+                                            :Forward-Center
+                                            :Forward-Guard
+                                            :Guard
+                                            :Guard-Forward
+                                            <http://www.semanticweb.org/~gdb/ontology/spire/nbao/Center>
+                                            <http://www.semanticweb.org/~gdb/ontology/spire/nbao/Forward>
+                                          )
+                              ] .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Team
@@ -144,6 +220,31 @@
 #################################################################
 #    Individuals
 #################################################################
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Center-Forward
+:Center-Forward rdf:type owl:NamedIndividual ,
+                         :Position .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Forward-Center
+:Forward-Center rdf:type owl:NamedIndividual ,
+                         :Position .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Forward-Guard
+:Forward-Guard rdf:type owl:NamedIndividual ,
+                        :Position .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Guard
+:Guard rdf:type owl:NamedIndividual ,
+                :Position .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Guard-Forward
+:Guard-Forward rdf:type owl:NamedIndividual ,
+                        :Position .
+
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/ABA
 <http://www.semanticweb.org/~gdb/ontology/spire/nbao/ABA> rdf:type owl:NamedIndividual ,
