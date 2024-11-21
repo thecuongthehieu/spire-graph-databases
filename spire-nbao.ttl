@@ -286,10 +286,6 @@ xsd:gYear rdf:type rdfs:Datatype .
              rdfs:range xsd:gYear .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/position
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/position> rdf:type owl:DatatypeProperty .
-
-
 #################################################################
 #    Classes
 #################################################################
