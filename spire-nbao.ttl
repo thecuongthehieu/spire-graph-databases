@@ -15,6 +15,10 @@
 #    Datatypes
 #################################################################
 
+###  http://www.w3.org/2001/XMLSchema#date
+xsd:date rdf:type rdfs:Datatype .
+
+
 ###  http://www.w3.org/2001/XMLSchema#gYear
 xsd:gYear rdf:type rdfs:Datatype .
 
@@ -53,6 +57,13 @@ xsd:gYear rdf:type rdfs:Datatype .
 :hasMainTeam rdf:type owl:ObjectProperty ;
              rdfs:domain :Player ;
              rdfs:range :Team .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#hasPosition
+:hasPosition rdf:type owl:ObjectProperty ,
+                      owl:FunctionalProperty ;
+             rdfs:domain :Player ;
+             rdfs:range :Position .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#isAwardedTo
@@ -119,103 +130,100 @@ xsd:gYear rdf:type rdfs:Datatype .
                         rdfs:range :Player .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/hasPosition
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/hasPosition> rdf:type owl:ObjectProperty ,
-                                                                           owl:FunctionalProperty ;
-                                                                  rdfs:domain :Player ;
-                                                                  rdfs:range :Position .
-
-
 #################################################################
 #    Data properties
 #################################################################
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/awardTitle
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/awardTitle> rdf:type owl:DatatypeProperty ;
-                                                                 rdfs:domain :Award ;
-                                                                 rdfs:range xsd:string .
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#awardTitle
+:awardTitle rdf:type owl:DatatypeProperty ;
+            rdfs:domain :Award ;
+            rdfs:range xsd:string .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/awardYear
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/awardYear> rdf:type owl:DatatypeProperty ;
-                                                                rdfs:domain :Award ;
-                                                                rdfs:range xsd:gYear .
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#awardYear
+:awardYear rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Award ;
+           rdfs:range xsd:gYear .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/birthDate
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/birthDate> rdf:type owl:DatatypeProperty ;
-                                                                rdfs:domain :Player ;
-                                                                rdfs:range xsd:dateTime .
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#birthDate
+:birthDate rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Player ;
+           rdfs:range xsd:dateTime .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/careerEndYear
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/careerEndYear> rdf:type owl:DatatypeProperty ;
-                                                                    rdfs:domain :Player ;
-                                                                    rdfs:range xsd:gYear .
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#careerEndYear
+:careerEndYear rdf:type owl:DatatypeProperty ;
+               rdfs:domain :Player ;
+               rdfs:range xsd:gYear .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/careerStartYear
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/careerStartYear> rdf:type owl:DatatypeProperty ;
-                                                                      rdfs:domain :Player ;
-                                                                      rdfs:range xsd:gYear .
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#careerStartYear
+:careerStartYear rdf:type owl:DatatypeProperty ;
+                 rdfs:domain :Player ;
+                 rdfs:range xsd:gYear .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/dateOfOccurrence
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/dateOfOccurrence> rdf:type owl:DatatypeProperty ;
-                                                                       rdfs:domain :InjuryStat ;
-                                                                       rdfs:range xsd:dateTime .
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#dateOfOccurrence
+:dateOfOccurrence rdf:type owl:DatatypeProperty ;
+                  rdfs:domain :InjuryStat ;
+                  rdfs:range xsd:date .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/draftOverallPick
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/draftOverallPick> rdf:type owl:DatatypeProperty ;
-                                                                       rdfs:domain :DraftRanks ;
-                                                                       rdfs:range xsd:int .
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#draftOverallPick
+:draftOverallPick rdf:type owl:DatatypeProperty ;
+                  rdfs:domain :DraftRanks ;
+                  rdfs:range xsd:int .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/draftRoundNumber
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/draftRoundNumber> rdf:type owl:DatatypeProperty ;
-                                                                       rdfs:domain :DraftRanks ;
-                                                                       rdfs:range xsd:int .
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#draftRoundNumber
+:draftRoundNumber rdf:type owl:DatatypeProperty ;
+                  rdfs:domain :DraftRanks ;
+                  rdfs:range xsd:int .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/draftYear
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/draftYear> rdf:type owl:DatatypeProperty ;
-                                                                rdfs:domain :Draft ;
-                                                                rdfs:range xsd:gYear .
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#draftYear
+:draftYear rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Draft ;
+           rdfs:range xsd:gYear .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/injuryNote
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/injuryNote> rdf:type owl:DatatypeProperty ;
-                                                                 rdfs:domain :InjuryStat ;
-                                                                 rdfs:range xsd:string .
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#injuryNote
+:injuryNote rdf:type owl:DatatypeProperty ;
+            rdfs:domain :InjuryStat ;
+            rdfs:range xsd:string .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/jerseyNum
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/jerseyNum> rdf:type owl:DatatypeProperty ;
-                                                                rdfs:domain :Player ;
-                                                                rdfs:range xsd:int .
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#jerseyNum
+:jerseyNum rdf:type owl:DatatypeProperty ;
+           rdfs:domain [ rdf:type owl:Class ;
+                         owl:unionOf ( :Official
+                                       :Player
+                                     )
+                       ] ;
+           rdfs:range xsd:int .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/pointsAway
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/pointsAway> rdf:type owl:DatatypeProperty ;
-                                                                 rdfs:domain :Game ;
-                                                                 rdfs:range xsd:int .
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#pointsAway
+:pointsAway rdf:type owl:DatatypeProperty ;
+            rdfs:domain :Game ;
+            rdfs:range xsd:int .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/pointsHome
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/pointsHome> rdf:type owl:DatatypeProperty ;
-                                                                 rdfs:domain :Game ;
-                                                                 rdfs:range xsd:int .
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#pointsHome
+:pointsHome rdf:type owl:DatatypeProperty ;
+            rdfs:domain :Game ;
+            rdfs:range xsd:int .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#yearFounded
+:yearFounded rdf:type owl:DatatypeProperty ;
+             rdfs:domain :Team ;
+             rdfs:range xsd:gYear .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/position
 <http://www.semanticweb.org/~gdb/ontology/spire/nbao/position> rdf:type owl:DatatypeProperty .
-
-
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/yearFounded
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/yearFounded> rdf:type owl:DatatypeProperty ;
-                                                                  rdfs:domain :Team ;
-                                                                  rdfs:range xsd:gYear .
 
 
 #################################################################
@@ -281,8 +289,8 @@ xsd:gYear rdf:type rdfs:Datatype .
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#League
 :League rdf:type owl:Class ;
         owl:equivalentClass [ rdf:type owl:Class ;
-                              owl:oneOf ( <http://www.semanticweb.org/~gdb/ontology/spire/nbao/ABA>
-                                          <http://www.semanticweb.org/~gdb/ontology/spire/nbao/NBA>
+                              owl:oneOf ( :ABA
+                                          :NBA
                                         )
                             ] .
 
@@ -309,13 +317,13 @@ xsd:gYear rdf:type rdfs:Datatype .
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Position
 :Position rdf:type owl:Class ;
           owl:equivalentClass [ rdf:type owl:Class ;
-                                owl:oneOf ( :Center-Forward
+                                owl:oneOf ( :Center
+                                            :Center-Forward
+                                            :Forward
                                             :Forward-Center
                                             :Forward-Guard
                                             :Guard
                                             :Guard-Forward
-                                            <http://www.semanticweb.org/~gdb/ontology/spire/nbao/Center>
-                                            <http://www.semanticweb.org/~gdb/ontology/spire/nbao/Forward>
                                           )
                               ] .
 
@@ -328,9 +336,29 @@ xsd:gYear rdf:type rdfs:Datatype .
 #    Individuals
 #################################################################
 
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#ABA
+:ABA rdf:type owl:NamedIndividual ,
+              :League .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Award1
+:Award1 rdf:type owl:NamedIndividual ;
+        :awardYear "2011"^^xsd:gYear .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Center
+:Center rdf:type owl:NamedIndividual ,
+                 :Position .
+
+
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Center-Forward
 :Center-Forward rdf:type owl:NamedIndividual ,
                          :Position .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Forward
+:Forward rdf:type owl:NamedIndividual ,
+                  :Position .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Forward-Center
@@ -353,29 +381,9 @@ xsd:gYear rdf:type rdfs:Datatype .
                         :Position .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/ABA
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/ABA> rdf:type owl:NamedIndividual ,
-                                                                   :League .
-
-
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/Award1
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/Award1> rdf:type owl:NamedIndividual ;
-                                                             <http://www.semanticweb.org/~gdb/ontology/spire/nbao/awardYear> "2011"^^xsd:gYear .
-
-
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/Center
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/Center> rdf:type owl:NamedIndividual ,
-                                                                      :Position .
-
-
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/Forward
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/Forward> rdf:type owl:NamedIndividual ,
-                                                                       :Position .
-
-
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao/NBA
-<http://www.semanticweb.org/~gdb/ontology/spire/nbao/NBA> rdf:type owl:NamedIndividual ,
-                                                                   :League .
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#NBA
+:NBA rdf:type owl:NamedIndividual ,
+              :League .
 
 
 ###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi
