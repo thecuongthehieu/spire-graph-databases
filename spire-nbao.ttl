@@ -30,7 +30,8 @@ xsd:gYear rdf:type rdfs:Datatype .
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#handledGame
 :handledGame rdf:type owl:ObjectProperty ;
              rdfs:domain :Official ;
-             rdfs:range :Game .
+             rdfs:range :Game ;
+             rdfs:comment "This predicate defines which Officials handled, refereed which games"@en .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#hasAwayTeam
@@ -38,7 +39,8 @@ xsd:gYear rdf:type rdfs:Datatype .
              owl:inverseOf :isAwayTeam ;
              rdf:type owl:FunctionalProperty ;
              rdfs:domain :Game ;
-             rdfs:range :Team .
+             rdfs:range :Team ;
+             rdfs:comment "This predicate explain which is the team that is playing as away team in a match"@en .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#hasCoachStat
@@ -52,20 +54,23 @@ xsd:gYear rdf:type rdfs:Datatype .
              owl:inverseOf :isHomeTeam ;
              rdf:type owl:FunctionalProperty ;
              rdfs:domain :Game ;
-             rdfs:range :Team .
+             rdfs:range :Team ;
+             rdfs:comment "This predicate explain which is the team that is playing as home team in a match"@en .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#hasMainTeam
 :hasMainTeam rdf:type owl:ObjectProperty ;
              rdfs:domain :Player ;
-             rdfs:range :Team .
+             rdfs:range :Team ;
+             rdfs:comment "This predicate explains which is the main team in which a player has played the most in his career"@en .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#hasPosition
 :hasPosition rdf:type owl:ObjectProperty ,
                       owl:FunctionalProperty ;
              rdfs:domain :Player ;
-             rdfs:range :Position .
+             rdfs:range :Position ;
+             rdfs:comment "This predicate explains which is the main game position of a player" .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#isAwardedTo
@@ -76,34 +81,40 @@ xsd:gYear rdf:type rdfs:Datatype .
                           owl:unionOf ( :Coach
                                         :Player
                                       )
-                        ] .
+                        ] ;
+             rdfs:comment "This predicate explains at which player is awarded the award"@en .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#isAwayTeam
-:isAwayTeam rdf:type owl:ObjectProperty .
+:isAwayTeam rdf:type owl:ObjectProperty ;
+            rdfs:comment "This predicate explains that the team has played as away team in a match"@en .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#isDraftedAs
 :isDraftedAs rdf:type owl:ObjectProperty ;
              rdfs:domain :Player ;
-             rdfs:range :DraftRanks .
+             rdfs:range :DraftRanks ;
+             rdfs:comment "This predicate explains in which draft rank the player has been drafted"@en .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#isHomeTeam
-:isHomeTeam rdf:type owl:ObjectProperty .
+:isHomeTeam rdf:type owl:ObjectProperty ;
+            rdfs:comment "This predicate explains that the current team has played as home team in a match" .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#occurredInTeam
 :occurredInTeam rdf:type owl:ObjectProperty ;
                 rdfs:domain :InjuryStat ;
-                rdfs:range :Team .
+                rdfs:range :Team ;
+                rdfs:comment "This predicate explains that an injury has happened to a player related to this team"@en .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#ofDraft
 :ofDraft rdf:type owl:ObjectProperty ,
                   owl:FunctionalProperty ;
          rdfs:domain :DraftRanks ;
-         rdfs:range :Draft .
+         rdfs:range :Draft ;
+         rdfs:comment "This predicate explains that a DraftRank is part of a specific year's draft"@en .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#ofLeague
@@ -113,41 +124,48 @@ xsd:gYear rdf:type rdfs:Datatype .
                                       :Award
                                     )
                       ] ;
-          rdfs:range :League .
+          rdfs:range :League ;
+          rdfs:comment "This predicate explains that a class belongs to a specific League"@en .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#participatedInAllStarGame
 :participatedInAllStarGame rdf:type owl:ObjectProperty ;
                            owl:inverseOf :withParticipatedPlayer ;
                            rdfs:domain :Player ;
-                           rdfs:range :AllStarGame .
+                           rdfs:range :AllStarGame ;
+                           rdfs:comment "This predicate explains if the current player has partecipated in an AllStarGame"@en .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#receivedAward
-:receivedAward rdf:type owl:ObjectProperty .
+:receivedAward rdf:type owl:ObjectProperty ;
+               rdfs:comment "This predicate explains that a person has received a specific award"@en .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#withAcquiredPlayer
 :withAcquiredPlayer rdf:type owl:ObjectProperty ;
                     rdfs:domain :InjuryStat ;
-                    rdfs:range :Player .
+                    rdfs:range :Player ;
+                    rdfs:comment "This predicate explains that a player is coming back from an injury"@en .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#withCoachedTeam
 :withCoachedTeam rdf:type owl:ObjectProperty ,
                           owl:FunctionalProperty ;
                  rdfs:domain :CoachStat ;
-                 rdfs:range :Team .
+                 rdfs:range :Team ;
+                 rdfs:comment "This predicate explains that a CoachStat, relative to a Coach in a specific year, is related to a specific team"@en .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#withParticipatedPlayer
-:withParticipatedPlayer rdf:type owl:ObjectProperty .
+:withParticipatedPlayer rdf:type owl:ObjectProperty ;
+                        rdfs:comment "This predicate explains that a player has played in the current AllStarGame" .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#withRelinquishedPlayer
 :withRelinquishedPlayer rdf:type owl:ObjectProperty ;
                         rdfs:domain :InjuryStat ;
-                        rdfs:range :Player .
+                        rdfs:range :Player ;
+                        rdfs:comment "This predicate explains that a player is being placed on the IL"@en .
 
 
 #################################################################
