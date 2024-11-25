@@ -41,8 +41,8 @@ xsd:gYear rdf:type rdfs:Datatype .
              rdfs:range :Team .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#hasCouchStat
-:hasCouchStat rdf:type owl:ObjectProperty ;
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#hasCoachStat
+:hasCoachStat rdf:type owl:ObjectProperty ;
               rdfs:domain :Coach ;
               rdfs:range :CoachStat .
 
