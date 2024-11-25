@@ -311,11 +311,15 @@ xsd:gYear rdf:type rdfs:Datatype .
 #################################################################
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#AllStarGame
-:AllStarGame rdf:type owl:Class .
+:AllStarGame rdf:type owl:Class ;
+             rdfs:comment "This is the class that represents the All Star Game" ;
+             rdfs:label "AllStarGame" .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Award
-:Award rdf:type owl:Class .
+:Award rdf:type owl:Class ;
+       rdfs:comment "This is the class that represents the awards" ;
+       rdfs:label "Award" .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Coach
@@ -325,7 +329,8 @@ xsd:gYear rdf:type rdfs:Datatype .
                          owl:onProperty :jerseyNum ;
                          owl:maxQualifiedCardinality "0"^^xsd:nonNegativeInteger ;
                          owl:onDataRange xsd:int
-                       ] .
+                       ] ;
+       rdfs:comment "This is the class that represents the NBA Coach" .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#CoachAward
@@ -335,19 +340,27 @@ xsd:gYear rdf:type rdfs:Datatype .
                                   owl:someValuesFrom :Coach
                                 ] ;
             rdfs:subClassOf :Award ;
-            owl:disjointWith :PlayerAward .
+            owl:disjointWith :PlayerAward ;
+            rdfs:comment "This is the class that represents the coach award" ;
+            rdfs:label "CoachAward" .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#CoachStat
-:CoachStat rdf:type owl:Class .
+:CoachStat rdf:type owl:Class ;
+           rdfs:comment "This is the class that represents the statistics of the coach" ;
+           rdfs:label "CoachStat" .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Draft
-:Draft rdf:type owl:Class .
+:Draft rdf:type owl:Class ;
+       rdfs:comment "This is the class that represents the NBA Draft" ;
+       rdfs:label "Draft" .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#DraftRanks
-:DraftRanks rdf:type owl:Class .
+:DraftRanks rdf:type owl:Class ;
+            rdfs:comment "This is the class that represents the NBA Draft Ranks" ;
+            rdfs:label "DraftRanks" .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Game
@@ -364,11 +377,15 @@ xsd:gYear rdf:type rdfs:Datatype .
                                                  ]
                                                ) ;
                             rdf:type owl:Class
-                          ] .
+                          ] ;
+      rdfs:comment "This is the class that represents the NBA Game" ;
+      rdfs:label "Game" .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#InjuryStat
-:InjuryStat rdf:type owl:Class .
+:InjuryStat rdf:type owl:Class ;
+            rdfs:comment "This is the class that represents the statistic of a Injury" ;
+            rdfs:label "InjuryStat" .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#League
@@ -377,17 +394,21 @@ xsd:gYear rdf:type rdfs:Datatype .
                               owl:oneOf ( :ABA
                                           :NBA
                                         )
-                            ] .
+                            ] ;
+        rdfs:comment "This is the class that represents the NBA Leagues" ;
+        rdfs:label "League" .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Official
 :Official rdf:type owl:Class ;
-          rdfs:subClassOf <http://www.w3.org/2000/10/swap/pim/contact#Person> .
+          rdfs:subClassOf <http://www.w3.org/2000/10/swap/pim/contact#Person> ;
+          rdfs:comment "This is the class that represents the NBA Official" .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Player
 :Player rdf:type owl:Class ;
-        rdfs:subClassOf <http://www.w3.org/2000/10/swap/pim/contact#Person> .
+        rdfs:subClassOf <http://www.w3.org/2000/10/swap/pim/contact#Person> ;
+        rdfs:comment "This is the class that represents the NBA Player" .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#PlayerAward
@@ -396,7 +417,9 @@ xsd:gYear rdf:type rdfs:Datatype .
                                    owl:onProperty :isAwardedTo ;
                                    owl:someValuesFrom :Player
                                  ] ;
-             rdfs:subClassOf :Award .
+             rdfs:subClassOf :Award ;
+             rdfs:comment "This is the class that represents the player award" ;
+             rdfs:label "PlayerAward" .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Position
@@ -410,11 +433,15 @@ xsd:gYear rdf:type rdfs:Datatype .
                                             :Guard
                                             :Guard-Forward
                                           )
-                              ] .
+                              ] ;
+          rdfs:comment "This is the class that represents the player's positions" ;
+          rdfs:label "Position" .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Team
-:Team rdf:type owl:Class .
+:Team rdf:type owl:Class ;
+      rdfs:comment "This is the class that represents the NBA Team" ;
+      rdfs:label "Team" .
 
 
 #################################################################
