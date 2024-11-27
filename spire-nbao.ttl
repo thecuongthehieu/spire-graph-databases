@@ -330,64 +330,147 @@ xsd:gYear rdf:type rdfs:Datatype .
 #################################################################
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#AllStarGame
-:AllStarGame rdf:type owl:Class .
+:AllStarGame rdf:type owl:Class ;
+             owl:equivalentClass [ owl:intersectionOf ( [ rdf:type owl:Restriction ;
+                                                          owl:onProperty :ofLeague ;
+                                                          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                                          owl:onClass :League
+                                                        ]
+                                                        [ rdf:type owl:Restriction ;
+                                                          owl:onProperty :ofSeason ;
+                                                          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                                          owl:onDataRange xsd:gYear
+                                                        ]
+                                                      ) ;
+                                   rdf:type owl:Class
+                                 ] .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Award
-:Award rdf:type owl:Class .
+:Award rdf:type owl:Class ;
+       rdfs:subClassOf [ rdf:type owl:Restriction ;
+                         owl:onProperty :ofLeague ;
+                         owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                         owl:onClass :League
+                       ] ,
+                       [ rdf:type owl:Restriction ;
+                         owl:onProperty :awardTitle ;
+                         owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                         owl:onDataRange xsd:string
+                       ] ,
+                       [ rdf:type owl:Restriction ;
+                         owl:onProperty :awardYear ;
+                         owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                         owl:onDataRange xsd:gYear
+                       ] .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Coach
 :Coach rdf:type owl:Class ;
-       rdfs:subClassOf <http://www.w3.org/2000/10/swap/pim/contact#Person> ,
-                       [ rdf:type owl:Restriction ;
-                         owl:onProperty :jerseyNum ;
-                         owl:maxQualifiedCardinality "0"^^xsd:nonNegativeInteger ;
-                         owl:onDataRange xsd:int
-                       ] .
+       rdfs:subClassOf <http://www.w3.org/2000/10/swap/pim/contact#Person> .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#CoachAward
 :CoachAward rdf:type owl:Class ;
-            owl:equivalentClass [ rdf:type owl:Restriction ;
-                                  owl:onProperty :isAwardedTo ;
-                                  owl:someValuesFrom :Coach
-                                ] ;
-            rdfs:subClassOf :Award ;
+            rdfs:subClassOf :Award ,
+                            [ rdf:type owl:Restriction ;
+                              owl:onProperty :isAwardedTo ;
+                              owl:someValuesFrom :Coach
+                            ] ;
             owl:disjointWith :PlayerAward .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#CoachStat
-:CoachStat rdf:type owl:Class .
+:CoachStat rdf:type owl:Class ;
+           rdfs:subClassOf [ rdf:type owl:Restriction ;
+                             owl:onProperty :withCoachedTeam ;
+                             owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                             owl:onClass :Team
+                           ] ,
+                           [ rdf:type owl:Restriction ;
+                             owl:onProperty :coachYear ;
+                             owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                             owl:onDataRange xsd:gYear
+                           ] ,
+                           [ rdf:type owl:Restriction ;
+                             owl:onProperty :lostNum ;
+                             owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                             owl:onDataRange xsd:int
+                           ] ,
+                           [ rdf:type owl:Restriction ;
+                             owl:onProperty :wonNum ;
+                             owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                             owl:onDataRange xsd:int
+                           ] .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Draft
-:Draft rdf:type owl:Class .
+:Draft rdf:type owl:Class ;
+       owl:equivalentClass [ rdf:type owl:Restriction ;
+                             owl:onProperty :draftYear ;
+                             owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                             owl:onDataRange xsd:gYear
+                           ] .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#DraftRanks
-:DraftRanks rdf:type owl:Class .
+:DraftRanks rdf:type owl:Class ;
+            rdfs:subClassOf [ rdf:type owl:Restriction ;
+                              owl:onProperty :ofDraft ;
+                              owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                              owl:onClass :Draft
+                            ] ,
+                            [ rdf:type owl:Restriction ;
+                              owl:onProperty :draftOverallPick ;
+                              owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                              owl:onDataRange xsd:int
+                            ] ,
+                            [ rdf:type owl:Restriction ;
+                              owl:onProperty :draftRoundNumber ;
+                              owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                              owl:onDataRange xsd:int
+                            ] .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Game
 :Game rdf:type owl:Class ;
-      owl:equivalentClass [ owl:intersectionOf ( [ rdf:type owl:Restriction ;
-                                                   owl:onProperty :hasAwayTeam ;
-                                                   owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
-                                                   owl:onClass :Team
-                                                 ]
-                                                 [ rdf:type owl:Restriction ;
-                                                   owl:onProperty :hasHomeTeam ;
-                                                   owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
-                                                   owl:onClass :Team
-                                                 ]
-                                               ) ;
-                            rdf:type owl:Class
-                          ] .
+      rdfs:subClassOf [ rdf:type owl:Restriction ;
+                        owl:onProperty :hasAwayTeam ;
+                        owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                        owl:onClass :Team
+                      ] ,
+                      [ rdf:type owl:Restriction ;
+                        owl:onProperty :hasHomeTeam ;
+                        owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                        owl:onClass :Team
+                      ] ,
+                      [ rdf:type owl:Restriction ;
+                        owl:onProperty :pointsAway ;
+                        owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                        owl:onDataRange xsd:int
+                      ] ,
+                      [ rdf:type owl:Restriction ;
+                        owl:onProperty :pointsHome ;
+                        owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                        owl:onDataRange xsd:int
+                      ] .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#InjuryStat
-:InjuryStat rdf:type owl:Class .
+:InjuryStat rdf:type owl:Class ;
+            rdfs:subClassOf [ rdf:type owl:Restriction ;
+                              owl:onProperty :withAcquiredPlayer ;
+                              owl:someValuesFrom :Player
+                            ] ,
+                            [ rdf:type owl:Restriction ;
+                              owl:onProperty :withRelinquishedPlayer ;
+                              owl:someValuesFrom :Player
+                            ] ,
+                            [ rdf:type owl:Restriction ;
+                              owl:onProperty :occurredInTeam ;
+                              owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                              owl:onClass :Team
+                            ] .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#League
@@ -411,11 +494,11 @@ xsd:gYear rdf:type rdfs:Datatype .
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#PlayerAward
 :PlayerAward rdf:type owl:Class ;
-             owl:equivalentClass [ rdf:type owl:Restriction ;
-                                   owl:onProperty :isAwardedTo ;
-                                   owl:someValuesFrom :Player
-                                 ] ;
-             rdfs:subClassOf :Award .
+             rdfs:subClassOf :Award ,
+                             [ rdf:type owl:Restriction ;
+                               owl:onProperty :isAwardedTo ;
+                               owl:someValuesFrom :Player
+                             ] .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Position
@@ -433,7 +516,17 @@ xsd:gYear rdf:type rdfs:Datatype .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Team
-:Team rdf:type owl:Class .
+:Team rdf:type owl:Class ;
+      rdfs:subClassOf [ rdf:type owl:Restriction ;
+                        owl:onProperty :teamName ;
+                        owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                        owl:onDataRange xsd:string
+                      ] ,
+                      [ rdf:type owl:Restriction ;
+                        owl:onProperty :teamNickname ;
+                        owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                        owl:onDataRange xsd:string
+                      ] .
 
 
 #################################################################
@@ -483,6 +576,31 @@ xsd:gYear rdf:type rdfs:Datatype .
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#NBA
 :NBA rdf:type owl:NamedIndividual ,
               :League .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#coach1
+:coach1 rdf:type owl:NamedIndividual ,
+                 :Coach ;
+        owl:sameAs :player1 .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#player1
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#coachAward1
+:coachAward1 rdf:type owl:NamedIndividual ,
+                      :CoachAward ;
+             :isAwardedTo :coach1 .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#player1
+:player1 rdf:type owl:NamedIndividual ,
+                  :Player .
+
+
+###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#playerAward1
+:playerAward1 rdf:type owl:NamedIndividual ,
+                       :PlayerAward ;
+              :isAwardedTo :player1 .
 
 
 ###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi
