@@ -458,13 +458,16 @@ xsd:gYear rdf:type rdfs:Datatype .
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#InjuryStat
 :InjuryStat rdf:type owl:Class ;
-            rdfs:subClassOf [ rdf:type owl:Restriction ;
-                              owl:onProperty :withAcquiredPlayer ;
-                              owl:someValuesFrom :Player
-                            ] ,
-                            [ rdf:type owl:Restriction ;
-                              owl:onProperty :withRelinquishedPlayer ;
-                              owl:someValuesFrom :Player
+            rdfs:subClassOf [ rdf:type owl:Class ;
+                              owl:unionOf ( [ rdf:type owl:Restriction ;
+                                              owl:onProperty :withAcquiredPlayer ;
+                                              owl:someValuesFrom :Player
+                                            ]
+                                            [ rdf:type owl:Restriction ;
+                                              owl:onProperty :withRelinquishedPlayer ;
+                                              owl:someValuesFrom :Player
+                                            ]
+                                          )
                             ] ,
                             [ rdf:type owl:Restriction ;
                               owl:onProperty :occurredInTeam ;
