@@ -389,7 +389,7 @@ xsd:gYear rdf:type rdfs:Datatype .
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Coach
 :Coach rdf:type owl:Class ;
-       rdfs:subClassOf <http://www.w3.org/2000/10/swap/pim/contact#Person> ;
+       rdfs:subClassOf <http://xmlns.com/foaf/0.1/Person> ;
        rdfs:comment "This is the class that represents the NBA Coach" .
 
 
@@ -524,13 +524,13 @@ xsd:gYear rdf:type rdfs:Datatype .
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Official
 :Official rdf:type owl:Class ;
-          rdfs:subClassOf <http://www.w3.org/2000/10/swap/pim/contact#Person> ;
+          rdfs:subClassOf <http://xmlns.com/foaf/0.1/Person> ;
           rdfs:comment "This is the class that represents the NBA Official" .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Player
 :Player rdf:type owl:Class ;
-        rdfs:subClassOf <http://www.w3.org/2000/10/swap/pim/contact#Person> ;
+        rdfs:subClassOf <http://xmlns.com/foaf/0.1/Person> ;
         rdfs:comment "This is the class that represents the NBA Player" .
 
 
@@ -541,8 +541,8 @@ xsd:gYear rdf:type rdfs:Datatype .
                                owl:onProperty :isAwardedTo ;
                                owl:someValuesFrom :Player
                              ] ;
-              rdfs:comment "This is the class that represents the player award" ;
-              rdfs:label "PlayerAward" .
+             rdfs:comment "This is the class that represents the player award" ;
+             rdfs:label "PlayerAward" .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Position
