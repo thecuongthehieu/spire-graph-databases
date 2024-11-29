@@ -4,7 +4,7 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@base <http://www.semanticweb.org/~gdb/ontology/spire/nbao> .
+@base <http://www.semanticweb.org/~gdb/ontology/spire/nbao#> .
 
 <http://www.semanticweb.org/~gdb/ontology/spire/nbao> rdf:type owl:Ontology ;
                                                        owl:imports <http://xmlns.com/foaf/0.1/> ;
@@ -46,7 +46,8 @@ xsd:gYear rdf:type rdfs:Datatype .
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#hasCoachStat
 :hasCoachStat rdf:type owl:ObjectProperty ;
               rdfs:domain :Coach ;
-              rdfs:range :CoachStat .
+              rdfs:range :CoachStat ;
+              rdfs:comment "This predicate explains which coach statistic a coach possessed" .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#hasHomeTeam
@@ -66,8 +67,7 @@ xsd:gYear rdf:type rdfs:Datatype .
 
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#hasPosition
-:hasPosition rdf:type owl:ObjectProperty ,
-                      owl:FunctionalProperty ;
+:hasPosition rdf:type owl:ObjectProperty ;
              rdfs:domain :Player ;
              rdfs:range :Position ;
              rdfs:comment "This predicate explains which is the main game position of a player" .
@@ -191,11 +191,7 @@ xsd:gYear rdf:type rdfs:Datatype .
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#birthDate
 :birthDate rdf:type owl:DatatypeProperty ,
                     owl:FunctionalProperty ;
-           rdfs:domain [ rdf:type owl:Class ;
-                         owl:unionOf ( :Coach
-                                       :Player
-                                     )
-                       ] ;
+           rdfs:domain <http://xmlns.com/foaf/0.1/Person> ;
            rdfs:range xsd:date ;
            rdfs:comment "This property describes the date of birth of a person."@en .
 
@@ -373,19 +369,16 @@ xsd:gYear rdf:type rdfs:Datatype .
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#AllStarGame
 :AllStarGame rdf:type owl:Class ;
-             owl:equivalentClass [ owl:intersectionOf ( [ rdf:type owl:Restriction ;
-                                                          owl:onProperty :ofLeague ;
-                                                          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
-                                                          owl:onClass :League
-                                                        ]
-                                                        [ rdf:type owl:Restriction ;
-                                                          owl:onProperty :ofSeason ;
-                                                          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
-                                                          owl:onDataRange xsd:gYear
-                                                        ]
-                                                      ) ;
-                                   rdf:type owl:Class
-                                 ] ;
+             rdfs:subClassOf [ rdf:type owl:Restriction ;
+                               owl:onProperty :ofLeague ;
+                               owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                               owl:onClass :League
+                             ] ,
+                             [ rdf:type owl:Restriction ;
+                               owl:onProperty :ofSeason ;
+                               owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                               owl:onDataRange xsd:gYear
+                             ] ;
              rdfs:comment "This is the class that represents the All Star Game" ;
              rdfs:label "AllStarGame" .
 
@@ -457,11 +450,11 @@ xsd:gYear rdf:type rdfs:Datatype .
 
 ###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#Draft
 :Draft rdf:type owl:Class ;
-       owl:equivalentClass [ rdf:type owl:Restriction ;
-                             owl:onProperty :draftYear ;
-                             owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
-                             owl:onDataRange xsd:gYear
-                           ] ;
+       rdfs:subClassOf [ rdf:type owl:Restriction ;
+                         owl:onProperty :draftYear ;
+                         owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                         owl:onDataRange xsd:gYear
+                       ] ;
        rdfs:comment "This is the class that represents the NBA Draft" ;
        rdfs:label "Draft" .
 
@@ -650,27 +643,24 @@ xsd:gYear rdf:type rdfs:Datatype .
               :League .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#coach1
-:coach1 rdf:type owl:NamedIndividual ,
-                 :Coach ;
-        owl:sameAs :player1 .
+#################################################################
+#    General axioms
+#################################################################
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :AllStarGame
+                :Award
+                :CoachStat
+                :Draft
+                :DraftRanks
+                :Game
+                :InjuryStat
+                :League
+                :Position
+                :Team
+                <http://xmlns.com/foaf/0.1/Person>
+              )
+] .
 
 
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#coachAward1
-:coachAward1 rdf:type owl:NamedIndividual ,
-                      :CoachAward ;
-             :isAwardedTo :coach1 .
-
-
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#player1
-:player1 rdf:type owl:NamedIndividual ,
-                  :Player .
-
-
-###  http://www.semanticweb.org/~gdb/ontology/spire/nbao#playerAward1
-:playerAward1 rdf:type owl:NamedIndividual ,
-                       :PlayerAward ;
-              :isAwardedTo :player1 .
-
-
-###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi
