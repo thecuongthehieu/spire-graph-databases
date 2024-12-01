@@ -1,0 +1,1872 @@
+@prefix nbao: <http://www.semanticweb.org/~gdb/ontology/spire/nbao#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+nbao:player_100263 nbao:participatedInAllStarGame nbao:allstargame_season1982,
+        nbao:allstargame_season1983,
+        nbao:allstargame_season1984,
+        nbao:allstargame_season1986 .
+
+nbao:player_101108 nbao:participatedInAllStarGame nbao:allstargame_season2007,
+        nbao:allstargame_season2008 .
+
+nbao:player_101114 nbao:participatedInAllStarGame nbao:allstargame_season2009 .
+
+nbao:player_101122 nbao:participatedInAllStarGame nbao:allstargame_season2008 .
+
+nbao:player_101135 nbao:participatedInAllStarGame nbao:allstargame_season2009 .
+
+nbao:player_105 nbao:participatedInAllStarGame nbao:allstargame_season1991,
+        nbao:allstargame_season1992,
+        nbao:allstargame_season1993,
+        nbao:allstargame_season1994 .
+
+nbao:player_107 nbao:participatedInAllStarGame nbao:allstargame_season1988 .
+
+nbao:player_1122 nbao:participatedInAllStarGame nbao:allstargame_season1985,
+        nbao:allstargame_season1986,
+        nbao:allstargame_season1987,
+        nbao:allstargame_season1988,
+        nbao:allstargame_season1989,
+        nbao:allstargame_season1990,
+        nbao:allstargame_season1991,
+        nbao:allstargame_season1992,
+        nbao:allstargame_season1993 .
+
+nbao:player_117 nbao:participatedInAllStarGame nbao:allstargame_season1985,
+        nbao:allstargame_season1986 .
+
+nbao:player_124 nbao:participatedInAllStarGame nbao:allstargame_season2000 .
+
+nbao:player_134 nbao:participatedInAllStarGame nbao:allstargame_season1989,
+        nbao:allstargame_season1990,
+        nbao:allstargame_season1993 .
+
+nbao:player_1365 nbao:participatedInAllStarGame nbao:allstargame_season1987 .
+
+nbao:player_1449 nbao:participatedInAllStarGame nbao:allstargame_season1979,
+        nbao:allstargame_season1980,
+        nbao:allstargame_season1981,
+        nbao:allstargame_season1982,
+        nbao:allstargame_season1983,
+        nbao:allstargame_season1984,
+        nbao:allstargame_season1985,
+        nbao:allstargame_season1986,
+        nbao:allstargame_season1987,
+        nbao:allstargame_season1989,
+        nbao:allstargame_season1990,
+        nbao:allstargame_season1991 .
+
+nbao:player_1450 nbao:participatedInAllStarGame nbao:allstargame_season1983,
+        nbao:allstargame_season1985,
+        nbao:allstargame_season1986,
+        nbao:allstargame_season1987,
+        nbao:allstargame_season1988,
+        nbao:allstargame_season1989,
+        nbao:allstargame_season1990 .
+
+nbao:player_1453 nbao:participatedInAllStarGame nbao:allstargame_season1977,
+        nbao:allstargame_season1978,
+        nbao:allstargame_season1979,
+        nbao:allstargame_season1980,
+        nbao:allstargame_season1983,
+        nbao:allstargame_season1986 .
+
+nbao:player_1460 nbao:participatedInAllStarGame nbao:allstargame_season1985,
+        nbao:allstargame_season1986,
+        nbao:allstargame_season1987,
+        nbao:allstargame_season1988,
+        nbao:allstargame_season1989,
+        nbao:allstargame_season1990,
+        nbao:allstargame_season1991 .
+
+nbao:player_1472 nbao:participatedInAllStarGame nbao:allstargame_season1986,
+        nbao:allstargame_season1988,
+        nbao:allstargame_season1989,
+        nbao:allstargame_season1990 .
+
+nbao:player_149 nbao:participatedInAllStarGame nbao:allstargame_season1991 .
+
+nbao:player_1495 nbao:participatedInAllStarGame nbao:allstargame_season1997,
+        nbao:allstargame_season1999,
+        nbao:allstargame_season2000,
+        nbao:allstargame_season2001,
+        nbao:allstargame_season2002,
+        nbao:allstargame_season2003,
+        nbao:allstargame_season2004,
+        nbao:allstargame_season2005,
+        nbao:allstargame_season2006,
+        nbao:allstargame_season2007,
+        nbao:allstargame_season2008,
+        nbao:allstargame_season2009 .
+
+nbao:player_1497 nbao:participatedInAllStarGame nbao:allstargame_season2005,
+        nbao:allstargame_season2006,
+        nbao:allstargame_season2007,
+        nbao:allstargame_season2008,
+        nbao:allstargame_season2009 .
+
+nbao:player_165 nbao:participatedInAllStarGame nbao:allstargame_season1984,
+        nbao:allstargame_season1985,
+        nbao:allstargame_season1986,
+        nbao:allstargame_season1987,
+        nbao:allstargame_season1988,
+        nbao:allstargame_season1989,
+        nbao:allstargame_season1991,
+        nbao:allstargame_season1992,
+        nbao:allstargame_season1993,
+        nbao:allstargame_season1994,
+        nbao:allstargame_season1995,
+        nbao:allstargame_season1996 .
+
+nbao:player_17 nbao:participatedInAllStarGame nbao:allstargame_season1985,
+        nbao:allstargame_season1987,
+        nbao:allstargame_season1988,
+        nbao:allstargame_season1989,
+        nbao:allstargame_season1990,
+        nbao:allstargame_season1991,
+        nbao:allstargame_season1992,
+        nbao:allstargame_season1993,
+        nbao:allstargame_season1995,
+        nbao:allstargame_season1996 .
+
+nbao:player_1717 nbao:participatedInAllStarGame nbao:allstargame_season2001,
+        nbao:allstargame_season2002,
+        nbao:allstargame_season2003,
+        nbao:allstargame_season2004,
+        nbao:allstargame_season2005,
+        nbao:allstargame_season2006,
+        nbao:allstargame_season2007,
+        nbao:allstargame_season2008,
+        nbao:allstargame_season2009 .
+
+nbao:player_1718 nbao:participatedInAllStarGame nbao:allstargame_season2001,
+        nbao:allstargame_season2002,
+        nbao:allstargame_season2003,
+        nbao:allstargame_season2004,
+        nbao:allstargame_season2005,
+        nbao:allstargame_season2007,
+        nbao:allstargame_season2008,
+        nbao:allstargame_season2009 .
+
+nbao:player_1740 nbao:participatedInAllStarGame nbao:allstargame_season2004,
+        nbao:allstargame_season2008 .
+
+nbao:player_1802 nbao:participatedInAllStarGame nbao:allstargame_season2002,
+        nbao:allstargame_season2003 .
+
+nbao:player_185 nbao:participatedInAllStarGame nbao:allstargame_season1996,
+        nbao:allstargame_season1999,
+        nbao:allstargame_season2000,
+        nbao:allstargame_season2001,
+        nbao:allstargame_season2002 .
+
+nbao:player_187 nbao:participatedInAllStarGame nbao:allstargame_season1984,
+        nbao:allstargame_season1988 .
+
+nbao:player_1883 nbao:participatedInAllStarGame nbao:allstargame_season2001,
+        nbao:allstargame_season2002,
+        nbao:allstargame_season2003 .
+
+nbao:player_1884 nbao:participatedInAllStarGame nbao:allstargame_season2001,
+        nbao:allstargame_season2003 .
+
+nbao:player_1887 nbao:participatedInAllStarGame nbao:allstargame_season2001 .
+
+nbao:player_1890 nbao:participatedInAllStarGame nbao:allstargame_season2002,
+        nbao:allstargame_season2004,
+        nbao:allstargame_season2005,
+        nbao:allstargame_season2006 .
+
+nbao:player_1905 nbao:participatedInAllStarGame nbao:allstargame_season2003 .
+
+nbao:player_193 nbao:participatedInAllStarGame nbao:allstargame_season2000 .
+
+nbao:player_1938 nbao:participatedInAllStarGame nbao:allstargame_season2004 .
+
+nbao:player_200750 nbao:participatedInAllStarGame nbao:allstargame_season2007,
+        nbao:allstargame_season2008 .
+
+nbao:player_200765 nbao:participatedInAllStarGame nbao:allstargame_season2009 .
+
+nbao:player_201142 nbao:participatedInAllStarGame nbao:allstargame_season2009 .
+
+nbao:player_201143 nbao:participatedInAllStarGame nbao:allstargame_season2009 .
+
+nbao:player_201607 nbao:participatedInAllStarGame nbao:allstargame_season1985,
+        nbao:allstargame_season1987,
+        nbao:allstargame_season1988,
+        nbao:allstargame_season1989,
+        nbao:allstargame_season1990,
+        nbao:allstargame_season1991,
+        nbao:allstargame_season1992,
+        nbao:allstargame_season1993,
+        nbao:allstargame_season1994,
+        nbao:allstargame_season1995,
+        nbao:allstargame_season1996 .
+
+nbao:player_2030 nbao:participatedInAllStarGame nbao:allstargame_season2003 .
+
+nbao:player_2072 nbao:participatedInAllStarGame nbao:allstargame_season2003 .
+
+nbao:player_210 nbao:participatedInAllStarGame nbao:allstargame_season1995,
+        nbao:allstargame_season1996 .
+
+nbao:player_213 nbao:participatedInAllStarGame nbao:allstargame_season2000 .
+
+nbao:player_2200 nbao:participatedInAllStarGame nbao:allstargame_season2005,
+        nbao:allstargame_season2008,
+        nbao:allstargame_season2009 .
+
+nbao:player_2207 nbao:participatedInAllStarGame nbao:allstargame_season2006,
+        nbao:allstargame_season2007,
+        nbao:allstargame_season2008,
+        nbao:allstargame_season2009 .
+
+nbao:player_2216 nbao:participatedInAllStarGame nbao:allstargame_season2009 .
+
+nbao:player_2222 nbao:participatedInAllStarGame nbao:allstargame_season2009 .
+
+nbao:player_2225 nbao:participatedInAllStarGame nbao:allstargame_season2005,
+        nbao:allstargame_season2006,
+        nbao:allstargame_season2008 .
+
+nbao:player_224 nbao:participatedInAllStarGame nbao:allstargame_season1996,
+        nbao:allstargame_season1997,
+        nbao:allstargame_season1999 .
+
+nbao:player_2240 nbao:participatedInAllStarGame nbao:allstargame_season2004,
+        nbao:allstargame_season2005,
+        nbao:allstargame_season2006 .
+
+nbao:player_2246 nbao:participatedInAllStarGame nbao:allstargame_season2006 .
+
+nbao:player_23 nbao:participatedInAllStarGame nbao:allstargame_season1989,
+        nbao:allstargame_season1991 .
+
+nbao:player_238 nbao:participatedInAllStarGame nbao:allstargame_season1994 .
+
+nbao:player_2397 nbao:participatedInAllStarGame nbao:allstargame_season2002,
+        nbao:allstargame_season2003,
+        nbao:allstargame_season2004,
+        nbao:allstargame_season2005,
+        nbao:allstargame_season2007,
+        nbao:allstargame_season2008 .
+
+nbao:player_2406 nbao:participatedInAllStarGame nbao:allstargame_season2006 .
+
+nbao:player_2430 nbao:participatedInAllStarGame nbao:allstargame_season2007 .
+
+nbao:player_251 nbao:participatedInAllStarGame nbao:allstargame_season1995 .
+
+nbao:player_252 nbao:participatedInAllStarGame nbao:allstargame_season1987,
+        nbao:allstargame_season1988,
+        nbao:allstargame_season1989,
+        nbao:allstargame_season1990,
+        nbao:allstargame_season1991,
+        nbao:allstargame_season1992,
+        nbao:allstargame_season1993,
+        nbao:allstargame_season1994,
+        nbao:allstargame_season1995,
+        nbao:allstargame_season1996,
+        nbao:allstargame_season1997,
+        nbao:allstargame_season1999,
+        nbao:allstargame_season2000 .
+
+nbao:player_2544 nbao:participatedInAllStarGame nbao:allstargame_season2004,
+        nbao:allstargame_season2005,
+        nbao:allstargame_season2006,
+        nbao:allstargame_season2007,
+        nbao:allstargame_season2008,
+        nbao:allstargame_season2009 .
+
+nbao:player_2546 nbao:participatedInAllStarGame nbao:allstargame_season2006,
+        nbao:allstargame_season2007,
+        nbao:allstargame_season2009 .
+
+nbao:player_2547 nbao:participatedInAllStarGame nbao:allstargame_season2005,
+        nbao:allstargame_season2006,
+        nbao:allstargame_season2007,
+        nbao:allstargame_season2009 .
+
+nbao:player_2549 nbao:participatedInAllStarGame nbao:allstargame_season2009 .
+
+nbao:player_255 nbao:participatedInAllStarGame nbao:allstargame_season1994,
+        nbao:allstargame_season1995,
+        nbao:allstargame_season1996,
+        nbao:allstargame_season1997,
+        nbao:allstargame_season1999,
+        nbao:allstargame_season2000,
+        nbao:allstargame_season2004 .
+
+nbao:player_2561 nbao:participatedInAllStarGame nbao:allstargame_season2007,
+        nbao:allstargame_season2008 .
+
+nbao:player_2572 nbao:participatedInAllStarGame nbao:allstargame_season2006 .
+
+nbao:player_2590 nbao:participatedInAllStarGame nbao:allstargame_season2008 .
+
+nbao:player_2730 nbao:participatedInAllStarGame nbao:allstargame_season2006,
+        nbao:allstargame_season2007,
+        nbao:allstargame_season2008,
+        nbao:allstargame_season2009 .
+
+nbao:player_2734 nbao:participatedInAllStarGame nbao:allstargame_season2008 .
+
+nbao:player_275 nbao:participatedInAllStarGame nbao:allstargame_season1999,
+        nbao:allstargame_season2000 .
+
+nbao:player_297 nbao:participatedInAllStarGame nbao:allstargame_season1993,
+        nbao:allstargame_season1994,
+        nbao:allstargame_season1995,
+        nbao:allstargame_season1996,
+        nbao:allstargame_season1999,
+        nbao:allstargame_season2000,
+        nbao:allstargame_season2001 .
+
+nbao:player_299 nbao:participatedInAllStarGame nbao:allstargame_season1999,
+        nbao:allstargame_season2000 .
+
+nbao:player_302 nbao:participatedInAllStarGame nbao:allstargame_season1993 .
+
+nbao:player_304 nbao:participatedInAllStarGame nbao:allstargame_season1988,
+        nbao:allstargame_season1989,
+        nbao:allstargame_season1990,
+        nbao:allstargame_season1991,
+        nbao:allstargame_season1992,
+        nbao:allstargame_season1993,
+        nbao:allstargame_season1994,
+        nbao:allstargame_season1995,
+        nbao:allstargame_season1996,
+        nbao:allstargame_season1999 .
+
+nbao:player_305 nbao:participatedInAllStarGame nbao:allstargame_season1980,
+        nbao:allstargame_season1981,
+        nbao:allstargame_season1982,
+        nbao:allstargame_season1983,
+        nbao:allstargame_season1984,
+        nbao:allstargame_season1985,
+        nbao:allstargame_season1986,
+        nbao:allstargame_season1989,
+        nbao:allstargame_season1990 .
+
+nbao:player_317 nbao:participatedInAllStarGame nbao:allstargame_season1993 .
+
+nbao:player_330 nbao:participatedInAllStarGame nbao:allstargame_season1992,
+        nbao:allstargame_season1993 .
+
+nbao:player_339 nbao:participatedInAllStarGame nbao:allstargame_season1996 .
+
+nbao:player_344 nbao:participatedInAllStarGame nbao:allstargame_season1994 .
+
+nbao:player_345 nbao:participatedInAllStarGame nbao:allstargame_season1990,
+        nbao:allstargame_season1992 .
+
+nbao:player_349 nbao:participatedInAllStarGame nbao:allstargame_season1988 .
+
+nbao:player_358 nbao:participatedInAllStarGame nbao:allstargame_season1994,
+        nbao:allstargame_season1995,
+        nbao:allstargame_season1996,
+        nbao:allstargame_season1997 .
+
+nbao:player_361 nbao:participatedInAllStarGame nbao:allstargame_season1993 .
+
+nbao:player_363 nbao:participatedInAllStarGame nbao:allstargame_season1996 .
+
+nbao:player_404 nbao:participatedInAllStarGame nbao:allstargame_season1988,
+        nbao:allstargame_season1990 .
+
+nbao:player_406 nbao:participatedInAllStarGame nbao:allstargame_season1992,
+        nbao:allstargame_season1993,
+        nbao:allstargame_season1994,
+        nbao:allstargame_season1995,
+        nbao:allstargame_season1996,
+        nbao:allstargame_season1997,
+        nbao:allstargame_season1999,
+        nbao:allstargame_season2000,
+        nbao:allstargame_season2001,
+        nbao:allstargame_season2002,
+        nbao:allstargame_season2003,
+        nbao:allstargame_season2004,
+        nbao:allstargame_season2005,
+        nbao:allstargame_season2006,
+        nbao:allstargame_season2008 .
+
+nbao:player_420 nbao:participatedInAllStarGame nbao:allstargame_season1997 .
+
+nbao:player_423 nbao:participatedInAllStarGame nbao:allstargame_season1996 .
+
+nbao:player_431 nbao:participatedInAllStarGame nbao:allstargame_season1992,
+        nbao:allstargame_season1993,
+        nbao:allstargame_season1994,
+        nbao:allstargame_season1995,
+        nbao:allstargame_season1996,
+        nbao:allstargame_season1997 .
+
+nbao:player_433 nbao:participatedInAllStarGame nbao:allstargame_season1981,
+        nbao:allstargame_season1982,
+        nbao:allstargame_season1985 .
+
+nbao:player_436 nbao:participatedInAllStarGame nbao:allstargame_season1995 .
+
+nbao:player_452 nbao:participatedInAllStarGame nbao:allstargame_season1994,
+        nbao:allstargame_season1995,
+        nbao:allstargame_season1996,
+        nbao:allstargame_season1997 .
+
+nbao:player_467 nbao:participatedInAllStarGame nbao:allstargame_season1995,
+        nbao:allstargame_season1997,
+        nbao:allstargame_season1999,
+        nbao:allstargame_season2000,
+        nbao:allstargame_season2001,
+        nbao:allstargame_season2002,
+        nbao:allstargame_season2003,
+        nbao:allstargame_season2007,
+        nbao:allstargame_season2009 .
+
+nbao:player_469 nbao:participatedInAllStarGame nbao:allstargame_season2002 .
+
+nbao:player_56 nbao:participatedInAllStarGame nbao:allstargame_season1993,
+        nbao:allstargame_season1994,
+        nbao:allstargame_season1995,
+        nbao:allstargame_season1996,
+        nbao:allstargame_season1997,
+        nbao:allstargame_season1999,
+        nbao:allstargame_season2000,
+        nbao:allstargame_season2001,
+        nbao:allstargame_season2002 .
+
+nbao:player_600001 nbao:participatedInAllStarGame nbao:allstargame_season1964,
+        nbao:allstargame_season1965,
+        nbao:allstargame_season1966,
+        nbao:allstargame_season1967,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1972,
+        nbao:allstargame_season1973 .
+
+nbao:player_600003 nbao:participatedInAllStarGame nbao:allstargame_season1950,
+        nbao:allstargame_season1951,
+        nbao:allstargame_season1952,
+        nbao:allstargame_season1953,
+        nbao:allstargame_season1954,
+        nbao:allstargame_season1955,
+        nbao:allstargame_season1956,
+        nbao:allstargame_season1957,
+        nbao:allstargame_season1958,
+        nbao:allstargame_season1959,
+        nbao:allstargame_season1960,
+        nbao:allstargame_season1961,
+        nbao:allstargame_season1962 .
+
+nbao:player_600012 nbao:participatedInAllStarGame nbao:allstargame_season1950,
+        nbao:allstargame_season1951,
+        nbao:allstargame_season1952,
+        nbao:allstargame_season1953 .
+
+nbao:player_600013 nbao:participatedInAllStarGame nbao:allstargame_season1965,
+        nbao:allstargame_season1966,
+        nbao:allstargame_season1968,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1971,
+        nbao:allstargame_season1972,
+        nbao:allstargame_season1973,
+        nbao:allstargame_season1974,
+        nbao:allstargame_season1975,
+        nbao:allstargame_season1976,
+        nbao:allstargame_season1977 .
+
+nbao:player_600014 nbao:participatedInAllStarGame nbao:allstargame_season1971,
+        nbao:allstargame_season1972,
+        nbao:allstargame_season1973,
+        nbao:allstargame_season1974,
+        nbao:allstargame_season1975,
+        nbao:allstargame_season1977,
+        nbao:allstargame_season1978,
+        nbao:allstargame_season1980,
+        nbao:allstargame_season1981,
+        nbao:allstargame_season1982,
+        nbao:allstargame_season1985 .
+
+nbao:player_600015 nbao:participatedInAllStarGame nbao:allstargame_season1960,
+        nbao:allstargame_season1961,
+        nbao:allstargame_season1962,
+        nbao:allstargame_season1963,
+        nbao:allstargame_season1964,
+        nbao:allstargame_season1965,
+        nbao:allstargame_season1966,
+        nbao:allstargame_season1967,
+        nbao:allstargame_season1968,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1971 .
+
+nbao:player_600016 nbao:participatedInAllStarGame nbao:allstargame_season1955,
+        nbao:allstargame_season1956,
+        nbao:allstargame_season1957 .
+
+nbao:player_686 nbao:participatedInAllStarGame nbao:allstargame_season2000 .
+
+nbao:player_689 nbao:participatedInAllStarGame nbao:allstargame_season2000 .
+
+nbao:player_698 nbao:participatedInAllStarGame nbao:allstargame_season1979,
+        nbao:allstargame_season1980 .
+
+nbao:player_708 nbao:participatedInAllStarGame nbao:allstargame_season1996,
+        nbao:allstargame_season1997,
+        nbao:allstargame_season1999,
+        nbao:allstargame_season2000,
+        nbao:allstargame_season2001,
+        nbao:allstargame_season2002,
+        nbao:allstargame_season2003,
+        nbao:allstargame_season2004,
+        nbao:allstargame_season2005,
+        nbao:allstargame_season2006,
+        nbao:allstargame_season2008,
+        nbao:allstargame_season2009 .
+
+nbao:player_711 nbao:participatedInAllStarGame nbao:allstargame_season1999,
+        nbao:allstargame_season2000 .
+
+nbao:player_714 nbao:participatedInAllStarGame nbao:allstargame_season1999,
+        nbao:allstargame_season2000 .
+
+nbao:player_72 nbao:participatedInAllStarGame nbao:allstargame_season1993 .
+
+nbao:player_739 nbao:participatedInAllStarGame nbao:allstargame_season1999,
+        nbao:allstargame_season2000,
+        nbao:allstargame_season2005,
+        nbao:allstargame_season2007 .
+
+nbao:player_76003 nbao:participatedInAllStarGame nbao:allstargame_season1969,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1971,
+        nbao:allstargame_season1972,
+        nbao:allstargame_season1973,
+        nbao:allstargame_season1974,
+        nbao:allstargame_season1975,
+        nbao:allstargame_season1976,
+        nbao:allstargame_season1978,
+        nbao:allstargame_season1979,
+        nbao:allstargame_season1980,
+        nbao:allstargame_season1981,
+        nbao:allstargame_season1982,
+        nbao:allstargame_season1983,
+        nbao:allstargame_season1984,
+        nbao:allstargame_season1985,
+        nbao:allstargame_season1986,
+        nbao:allstargame_season1987,
+        nbao:allstargame_season1988 .
+
+nbao:player_76011 nbao:participatedInAllStarGame nbao:allstargame_season1975 .
+
+nbao:player_76016 nbao:participatedInAllStarGame nbao:allstargame_season1983,
+        nbao:allstargame_season1986,
+        nbao:allstargame_season1987 .
+
+nbao:player_76054 nbao:participatedInAllStarGame nbao:allstargame_season1972,
+        nbao:allstargame_season1974,
+        nbao:allstargame_season1975,
+        nbao:allstargame_season1979,
+        nbao:allstargame_season1980,
+        nbao:allstargame_season1981 .
+
+nbao:player_76056 nbao:participatedInAllStarGame nbao:allstargame_season1950,
+        nbao:allstargame_season1951,
+        nbao:allstargame_season1954,
+        nbao:allstargame_season1955,
+        nbao:allstargame_season1956,
+        nbao:allstargame_season1957,
+        nbao:allstargame_season1958,
+        nbao:allstargame_season1959,
+        nbao:allstargame_season1960,
+        nbao:allstargame_season1961 .
+
+nbao:player_76102 nbao:participatedInAllStarGame nbao:allstargame_season1952 .
+
+nbao:player_76104 nbao:participatedInAllStarGame nbao:allstargame_season1974,
+        nbao:allstargame_season1975 .
+
+nbao:player_76110 nbao:participatedInAllStarGame nbao:allstargame_season1951,
+        nbao:allstargame_season1952 .
+
+nbao:player_76127 nbao:participatedInAllStarGame nbao:allstargame_season1958,
+        nbao:allstargame_season1959,
+        nbao:allstargame_season1960,
+        nbao:allstargame_season1961,
+        nbao:allstargame_season1962,
+        nbao:allstargame_season1963,
+        nbao:allstargame_season1964,
+        nbao:allstargame_season1966,
+        nbao:allstargame_season1967,
+        nbao:allstargame_season1968,
+        nbao:allstargame_season1969 .
+
+nbao:player_76130 nbao:participatedInAllStarGame nbao:allstargame_season1971 .
+
+nbao:player_76131 nbao:participatedInAllStarGame nbao:allstargame_season1950 .
+
+nbao:player_76134 nbao:participatedInAllStarGame nbao:allstargame_season1968,
+        nbao:allstargame_season1975 .
+
+nbao:player_76144 nbao:participatedInAllStarGame nbao:allstargame_season1961,
+        nbao:allstargame_season1962,
+        nbao:allstargame_season1963,
+        nbao:allstargame_season1964 .
+
+nbao:player_76170 nbao:participatedInAllStarGame nbao:allstargame_season1978,
+        nbao:allstargame_season1979,
+        nbao:allstargame_season1980,
+        nbao:allstargame_season1983 .
+
+nbao:player_76187 nbao:participatedInAllStarGame nbao:allstargame_season1972 .
+
+nbao:player_76204 nbao:participatedInAllStarGame nbao:allstargame_season1970,
+        nbao:allstargame_season1973,
+        nbao:allstargame_season1974,
+        nbao:allstargame_season1975 .
+
+nbao:player_76206 nbao:participatedInAllStarGame nbao:allstargame_season1967 .
+
+nbao:player_76210 nbao:participatedInAllStarGame nbao:allstargame_season1950 .
+
+nbao:player_76233 nbao:participatedInAllStarGame nbao:allstargame_season1972 .
+
+nbao:player_76243 nbao:participatedInAllStarGame nbao:allstargame_season1952,
+        nbao:allstargame_season1953,
+        nbao:allstargame_season1954,
+        nbao:allstargame_season1955,
+        nbao:allstargame_season1956 .
+
+nbao:player_76250 nbao:participatedInAllStarGame nbao:allstargame_season1950,
+        nbao:allstargame_season1951 .
+
+nbao:player_76256 nbao:participatedInAllStarGame nbao:allstargame_season1970,
+        nbao:allstargame_season1971 .
+
+nbao:player_76272 nbao:participatedInAllStarGame nbao:allstargame_season1975 .
+
+nbao:player_76317 nbao:participatedInAllStarGame nbao:allstargame_season1975,
+        nbao:allstargame_season1976 .
+
+nbao:player_76329 nbao:participatedInAllStarGame nbao:allstargame_season1968,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1972 .
+
+nbao:player_76336 nbao:participatedInAllStarGame nbao:allstargame_season1970,
+        nbao:allstargame_season1971,
+        nbao:allstargame_season1972,
+        nbao:allstargame_season1973,
+        nbao:allstargame_season1974 .
+
+nbao:player_76348 nbao:participatedInAllStarGame nbao:allstargame_season1973 .
+
+nbao:player_76362 nbao:participatedInAllStarGame nbao:allstargame_season1979 .
+
+nbao:player_76375 nbao:participatedInAllStarGame nbao:allstargame_season1959,
+        nbao:allstargame_season1960,
+        nbao:allstargame_season1961,
+        nbao:allstargame_season1962,
+        nbao:allstargame_season1963,
+        nbao:allstargame_season1964,
+        nbao:allstargame_season1965,
+        nbao:allstargame_season1966,
+        nbao:allstargame_season1967,
+        nbao:allstargame_season1968,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1971,
+        nbao:allstargame_season1972 .
+
+nbao:player_76382 nbao:participatedInAllStarGame nbao:allstargame_season1963 .
+
+nbao:player_76385 nbao:participatedInAllStarGame nbao:allstargame_season1982,
+        nbao:allstargame_season1985,
+        nbao:allstargame_season1986 .
+
+nbao:player_76397 nbao:participatedInAllStarGame nbao:allstargame_season1967,
+        nbao:allstargame_season1971 .
+
+nbao:player_764 nbao:participatedInAllStarGame nbao:allstargame_season1989,
+        nbao:allstargame_season1990,
+        nbao:allstargame_season1991,
+        nbao:allstargame_season1992,
+        nbao:allstargame_season1993,
+        nbao:allstargame_season1994,
+        nbao:allstargame_season1995,
+        nbao:allstargame_season1997,
+        nbao:allstargame_season1999,
+        nbao:allstargame_season2000 .
+
+nbao:player_76404 nbao:participatedInAllStarGame nbao:allstargame_season1956 .
+
+nbao:player_76414 nbao:participatedInAllStarGame nbao:allstargame_season1954 .
+
+nbao:player_76421 nbao:participatedInAllStarGame nbao:allstargame_season1975,
+        nbao:allstargame_season1976,
+        nbao:allstargame_season1977,
+        nbao:allstargame_season1978 .
+
+nbao:player_76454 nbao:participatedInAllStarGame nbao:allstargame_season1957,
+        nbao:allstargame_season1958,
+        nbao:allstargame_season1959,
+        nbao:allstargame_season1960,
+        nbao:allstargame_season1961,
+        nbao:allstargame_season1964 .
+
+nbao:player_76462 nbao:participatedInAllStarGame nbao:allstargame_season1971,
+        nbao:allstargame_season1972,
+        nbao:allstargame_season1973,
+        nbao:allstargame_season1974,
+        nbao:allstargame_season1975,
+        nbao:allstargame_season1976,
+        nbao:allstargame_season1977 .
+
+nbao:player_76487 nbao:participatedInAllStarGame nbao:allstargame_season1968,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1971,
+        nbao:allstargame_season1972 .
+
+nbao:player_765 nbao:participatedInAllStarGame nbao:allstargame_season1990 .
+
+nbao:player_76500 nbao:participatedInAllStarGame nbao:allstargame_season1972,
+        nbao:allstargame_season1974,
+        nbao:allstargame_season1975,
+        nbao:allstargame_season1978 .
+
+nbao:player_76502 nbao:participatedInAllStarGame nbao:allstargame_season1967,
+        nbao:allstargame_season1968,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1971,
+        nbao:allstargame_season1972,
+        nbao:allstargame_season1973 .
+
+nbao:player_76504 nbao:participatedInAllStarGame nbao:allstargame_season1979,
+        nbao:allstargame_season1980,
+        nbao:allstargame_season1981,
+        nbao:allstargame_season1983,
+        nbao:allstargame_season1984,
+        nbao:allstargame_season1985 .
+
+nbao:player_76514 nbao:participatedInAllStarGame nbao:allstargame_season1950,
+        nbao:allstargame_season1951,
+        nbao:allstargame_season1952,
+        nbao:allstargame_season1953 .
+
+nbao:player_76545 nbao:participatedInAllStarGame nbao:allstargame_season1965,
+        nbao:allstargame_season1966,
+        nbao:allstargame_season1967,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1971,
+        nbao:allstargame_season1972,
+        nbao:allstargame_season1973 .
+
+nbao:player_76577 nbao:participatedInAllStarGame nbao:allstargame_season1962,
+        nbao:allstargame_season1963,
+        nbao:allstargame_season1964 .
+
+nbao:player_76583 nbao:participatedInAllStarGame nbao:allstargame_season1987 .
+
+nbao:player_76598 nbao:participatedInAllStarGame nbao:allstargame_season1975,
+        nbao:allstargame_season1979 .
+
+nbao:player_76611 nbao:participatedInAllStarGame nbao:allstargame_season1959,
+        nbao:allstargame_season1960 .
+
+nbao:player_76628 nbao:participatedInAllStarGame nbao:allstargame_season1973 .
+
+nbao:player_76668 nbao:participatedInAllStarGame nbao:allstargame_season1960,
+        nbao:allstargame_season1961,
+        nbao:allstargame_season1962,
+        nbao:allstargame_season1963,
+        nbao:allstargame_season1964 .
+
+nbao:player_76673 nbao:participatedInAllStarGame nbao:allstargame_season1981,
+        nbao:allstargame_season1982,
+        nbao:allstargame_season1983,
+        nbao:allstargame_season1984,
+        nbao:allstargame_season1985,
+        nbao:allstargame_season1986,
+        nbao:allstargame_season1987,
+        nbao:allstargame_season1988 .
+
+nbao:player_76681 nbao:participatedInAllStarGame nbao:allstargame_season1971,
+        nbao:allstargame_season1972,
+        nbao:allstargame_season1973,
+        nbao:allstargame_season1974,
+        nbao:allstargame_season1975,
+        nbao:allstargame_season1976,
+        nbao:allstargame_season1977,
+        nbao:allstargame_season1978,
+        nbao:allstargame_season1979,
+        nbao:allstargame_season1980,
+        nbao:allstargame_season1981,
+        nbao:allstargame_season1982,
+        nbao:allstargame_season1983,
+        nbao:allstargame_season1984,
+        nbao:allstargame_season1985,
+        nbao:allstargame_season1986 .
+
+nbao:player_76704 nbao:participatedInAllStarGame nbao:allstargame_season1953 .
+
+nbao:player_76744 nbao:participatedInAllStarGame nbao:allstargame_season1950,
+        nbao:allstargame_season1951,
+        nbao:allstargame_season1952,
+        nbao:allstargame_season1953,
+        nbao:allstargame_season1954,
+        nbao:allstargame_season1955,
+        nbao:allstargame_season1957,
+        nbao:allstargame_season1958 .
+
+nbao:player_76750 nbao:participatedInAllStarGame nbao:allstargame_season1969,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1971,
+        nbao:allstargame_season1972,
+        nbao:allstargame_season1973,
+        nbao:allstargame_season1974,
+        nbao:allstargame_season1975 .
+
+nbao:player_76754 nbao:participatedInAllStarGame nbao:allstargame_season1967,
+        nbao:allstargame_season1968,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1971 .
+
+nbao:player_76764 nbao:participatedInAllStarGame nbao:allstargame_season1950,
+        nbao:allstargame_season1951 .
+
+nbao:player_76768 nbao:participatedInAllStarGame nbao:allstargame_season1952 .
+
+nbao:player_76773 nbao:participatedInAllStarGame nbao:allstargame_season1950,
+        nbao:allstargame_season1951,
+        nbao:allstargame_season1952,
+        nbao:allstargame_season1953,
+        nbao:allstargame_season1954,
+        nbao:allstargame_season1955,
+        nbao:allstargame_season1956 .
+
+nbao:player_76783 nbao:participatedInAllStarGame nbao:allstargame_season1956,
+        nbao:allstargame_season1957,
+        nbao:allstargame_season1958,
+        nbao:allstargame_season1959 .
+
+nbao:player_76800 nbao:participatedInAllStarGame nbao:allstargame_season1955,
+        nbao:allstargame_season1956 .
+
+nbao:player_76802 nbao:participatedInAllStarGame nbao:allstargame_season1975 .
+
+nbao:player_76804 nbao:participatedInAllStarGame nbao:allstargame_season1973,
+        nbao:allstargame_season1974,
+        nbao:allstargame_season1975,
+        nbao:allstargame_season1976,
+        nbao:allstargame_season1977,
+        nbao:allstargame_season1978,
+        nbao:allstargame_season1979,
+        nbao:allstargame_season1980,
+        nbao:allstargame_season1981,
+        nbao:allstargame_season1982,
+        nbao:allstargame_season1983,
+        nbao:allstargame_season1984 .
+
+nbao:player_76828 nbao:participatedInAllStarGame nbao:allstargame_season1959,
+        nbao:allstargame_season1960,
+        nbao:allstargame_season1961,
+        nbao:allstargame_season1962,
+        nbao:allstargame_season1963 .
+
+nbao:player_76832 nbao:participatedInAllStarGame nbao:allstargame_season1968,
+        nbao:allstargame_season1971,
+        nbao:allstargame_season1972,
+        nbao:allstargame_season1973,
+        nbao:allstargame_season1974 .
+
+nbao:player_76873 nbao:participatedInAllStarGame nbao:allstargame_season1974 .
+
+nbao:player_76874 nbao:participatedInAllStarGame nbao:allstargame_season1983 .
+
+nbao:player_769 nbao:participatedInAllStarGame nbao:allstargame_season1993 .
+
+nbao:player_76902 nbao:participatedInAllStarGame nbao:allstargame_season1957,
+        nbao:allstargame_season1958,
+        nbao:allstargame_season1959,
+        nbao:allstargame_season1960,
+        nbao:allstargame_season1961,
+        nbao:allstargame_season1962 .
+
+nbao:player_76912 nbao:participatedInAllStarGame nbao:allstargame_season1957,
+        nbao:allstargame_season1958,
+        nbao:allstargame_season1959,
+        nbao:allstargame_season1960,
+        nbao:allstargame_season1961,
+        nbao:allstargame_season1967 .
+
+nbao:player_76962 nbao:participatedInAllStarGame nbao:allstargame_season1955 .
+
+nbao:player_76970 nbao:participatedInAllStarGame nbao:allstargame_season1965,
+        nbao:allstargame_season1966,
+        nbao:allstargame_season1967,
+        nbao:allstargame_season1968,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1971,
+        nbao:allstargame_season1972,
+        nbao:allstargame_season1973,
+        nbao:allstargame_season1974,
+        nbao:allstargame_season1975,
+        nbao:allstargame_season1976,
+        nbao:allstargame_season1977 .
+
+nbao:player_76972 nbao:participatedInAllStarGame nbao:allstargame_season1967,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1971,
+        nbao:allstargame_season1972 .
+
+nbao:player_76979 nbao:participatedInAllStarGame nbao:allstargame_season1968,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1971,
+        nbao:allstargame_season1972,
+        nbao:allstargame_season1973,
+        nbao:allstargame_season1974,
+        nbao:allstargame_season1975,
+        nbao:allstargame_season1976,
+        nbao:allstargame_season1977,
+        nbao:allstargame_season1978,
+        nbao:allstargame_season1979 .
+
+nbao:player_76981 nbao:participatedInAllStarGame nbao:allstargame_season1969,
+        nbao:allstargame_season1971,
+        nbao:allstargame_season1972,
+        nbao:allstargame_season1973,
+        nbao:allstargame_season1974 .
+
+nbao:player_76983 nbao:participatedInAllStarGame nbao:allstargame_season1967 .
+
+nbao:player_76988 nbao:participatedInAllStarGame nbao:allstargame_season1956,
+        nbao:allstargame_season1961,
+        nbao:allstargame_season1962,
+        nbao:allstargame_season1963,
+        nbao:allstargame_season1964 .
+
+nbao:player_77023 nbao:participatedInAllStarGame nbao:allstargame_season1968 .
+
+nbao:player_77043 nbao:participatedInAllStarGame nbao:allstargame_season1977 .
+
+nbao:player_77070 nbao:participatedInAllStarGame nbao:allstargame_season1960,
+        nbao:allstargame_season1961,
+        nbao:allstargame_season1962,
+        nbao:allstargame_season1963,
+        nbao:allstargame_season1965,
+        nbao:allstargame_season1966 .
+
+nbao:player_77074 nbao:participatedInAllStarGame nbao:allstargame_season1968,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1971,
+        nbao:allstargame_season1972,
+        nbao:allstargame_season1973 .
+
+nbao:player_77082 nbao:participatedInAllStarGame nbao:allstargame_season1960 .
+
+nbao:player_77084 nbao:participatedInAllStarGame nbao:allstargame_season1967,
+        nbao:allstargame_season1968 .
+
+nbao:player_77089 nbao:participatedInAllStarGame nbao:allstargame_season1952,
+        nbao:allstargame_season1953,
+        nbao:allstargame_season1955,
+        nbao:allstargame_season1956 .
+
+nbao:player_77093 nbao:participatedInAllStarGame nbao:allstargame_season1966 .
+
+nbao:player_77100 nbao:participatedInAllStarGame nbao:allstargame_season1967 .
+
+nbao:player_77103 nbao:participatedInAllStarGame nbao:allstargame_season1964 .
+
+nbao:player_77141 nbao:participatedInAllStarGame nbao:allstargame_season1978,
+        nbao:allstargame_season1979,
+        nbao:allstargame_season1980,
+        nbao:allstargame_season1981,
+        nbao:allstargame_season1984 .
+
+nbao:player_77142 nbao:participatedInAllStarGame nbao:allstargame_season1979,
+        nbao:allstargame_season1981,
+        nbao:allstargame_season1982,
+        nbao:allstargame_season1983,
+        nbao:allstargame_season1984,
+        nbao:allstargame_season1985,
+        nbao:allstargame_season1986,
+        nbao:allstargame_season1987,
+        nbao:allstargame_season1988,
+        nbao:allstargame_season1989,
+        nbao:allstargame_season1990,
+        nbao:allstargame_season1991 .
+
+nbao:player_77150 nbao:participatedInAllStarGame nbao:allstargame_season1964,
+        nbao:allstargame_season1967,
+        nbao:allstargame_season1968,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1970 .
+
+nbao:player_77152 nbao:participatedInAllStarGame nbao:allstargame_season1970,
+        nbao:allstargame_season1971 .
+
+nbao:player_77160 nbao:participatedInAllStarGame nbao:allstargame_season1978,
+        nbao:allstargame_season1979,
+        nbao:allstargame_season1980,
+        nbao:allstargame_season1982,
+        nbao:allstargame_season1985 .
+
+nbao:player_77161 nbao:participatedInAllStarGame nbao:allstargame_season1970 .
+
+nbao:player_77169 nbao:participatedInAllStarGame nbao:allstargame_season1952,
+        nbao:allstargame_season1953,
+        nbao:allstargame_season1954,
+        nbao:allstargame_season1955,
+        nbao:allstargame_season1956,
+        nbao:allstargame_season1957 .
+
+nbao:player_77186 nbao:participatedInAllStarGame nbao:allstargame_season1967,
+        nbao:allstargame_season1968,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1972,
+        nbao:allstargame_season1973 .
+
+nbao:player_77192 nbao:participatedInAllStarGame nbao:allstargame_season1972,
+        nbao:allstargame_season1973 .
+
+nbao:player_77193 nbao:participatedInAllStarGame nbao:allstargame_season1975,
+        nbao:allstargame_season1976,
+        nbao:allstargame_season1977,
+        nbao:allstargame_season1980,
+        nbao:allstargame_season1981 .
+
+nbao:player_77197 nbao:participatedInAllStarGame nbao:allstargame_season1969,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1971 .
+
+nbao:player_77200 nbao:participatedInAllStarGame nbao:allstargame_season1967,
+        nbao:allstargame_season1968,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1970 .
+
+nbao:player_77201 nbao:participatedInAllStarGame nbao:allstargame_season1971 .
+
+nbao:player_77227 nbao:participatedInAllStarGame nbao:allstargame_season1970,
+        nbao:allstargame_season1971,
+        nbao:allstargame_season1972 .
+
+nbao:player_77264 nbao:participatedInAllStarGame nbao:allstargame_season1981,
+        nbao:allstargame_season1983,
+        nbao:allstargame_season1984,
+        nbao:allstargame_season1990 .
+
+nbao:player_77270 nbao:participatedInAllStarGame nbao:allstargame_season1967 .
+
+nbao:player_77295 nbao:participatedInAllStarGame nbao:allstargame_season1967,
+        nbao:allstargame_season1968 .
+
+nbao:player_77340 nbao:participatedInAllStarGame nbao:allstargame_season1961,
+        nbao:allstargame_season1962,
+        nbao:allstargame_season1965,
+        nbao:allstargame_season1967,
+        nbao:allstargame_season1968 .
+
+nbao:player_77357 nbao:participatedInAllStarGame nbao:allstargame_season1967 .
+
+nbao:player_77376 nbao:participatedInAllStarGame nbao:allstargame_season1987,
+        nbao:allstargame_season1989 .
+
+nbao:player_77380 nbao:participatedInAllStarGame nbao:allstargame_season1967,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1971,
+        nbao:allstargame_season1974 .
+
+nbao:player_77384 nbao:participatedInAllStarGame nbao:allstargame_season1991 .
+
+nbao:player_77412 nbao:participatedInAllStarGame nbao:allstargame_season1970,
+        nbao:allstargame_season1971,
+        nbao:allstargame_season1972 .
+
+nbao:player_77414 nbao:participatedInAllStarGame nbao:allstargame_season1955,
+        nbao:allstargame_season1959,
+        nbao:allstargame_season1960 .
+
+nbao:player_77420 nbao:participatedInAllStarGame nbao:allstargame_season1975,
+        nbao:allstargame_season1976,
+        nbao:allstargame_season1977,
+        nbao:allstargame_season1978,
+        nbao:allstargame_season1982 .
+
+nbao:player_77429 nbao:participatedInAllStarGame nbao:allstargame_season1950,
+        nbao:allstargame_season1951,
+        nbao:allstargame_season1952,
+        nbao:allstargame_season1953,
+        nbao:allstargame_season1954,
+        nbao:allstargame_season1955,
+        nbao:allstargame_season1956 .
+
+nbao:player_77449 nbao:participatedInAllStarGame nbao:allstargame_season1974,
+        nbao:allstargame_season1977,
+        nbao:allstargame_season1978,
+        nbao:allstargame_season1979,
+        nbao:allstargame_season1980,
+        nbao:allstargame_season1981,
+        nbao:allstargame_season1982,
+        nbao:allstargame_season1984,
+        nbao:allstargame_season1985,
+        nbao:allstargame_season1986,
+        nbao:allstargame_season1987,
+        nbao:allstargame_season1988 .
+
+nbao:player_77480 nbao:participatedInAllStarGame nbao:allstargame_season1952,
+        nbao:allstargame_season1953,
+        nbao:allstargame_season1954,
+        nbao:allstargame_season1955,
+        nbao:allstargame_season1956,
+        nbao:allstargame_season1957,
+        nbao:allstargame_season1958 .
+
+nbao:player_77498 nbao:participatedInAllStarGame nbao:allstargame_season1973,
+        nbao:allstargame_season1974,
+        nbao:allstargame_season1975,
+        nbao:allstargame_season1976,
+        nbao:allstargame_season1977 .
+
+nbao:player_77523 nbao:participatedInAllStarGame nbao:allstargame_season1971 .
+
+nbao:player_77532 nbao:participatedInAllStarGame nbao:allstargame_season1972,
+        nbao:allstargame_season1973,
+        nbao:allstargame_season1974,
+        nbao:allstargame_season1975,
+        nbao:allstargame_season1976,
+        nbao:allstargame_season1978 .
+
+nbao:player_77537 nbao:participatedInAllStarGame nbao:allstargame_season1950,
+        nbao:allstargame_season1951,
+        nbao:allstargame_season1953,
+        nbao:allstargame_season1954,
+        nbao:allstargame_season1955,
+        nbao:allstargame_season1957,
+        nbao:allstargame_season1958 .
+
+nbao:player_77576 nbao:participatedInAllStarGame nbao:allstargame_season1970,
+        nbao:allstargame_season1971,
+        nbao:allstargame_season1972 .
+
+nbao:player_77584 nbao:participatedInAllStarGame nbao:allstargame_season1962 .
+
+nbao:player_77593 nbao:participatedInAllStarGame nbao:allstargame_season1950,
+        nbao:allstargame_season1951,
+        nbao:allstargame_season1952,
+        nbao:allstargame_season1954,
+        nbao:allstargame_season1955,
+        nbao:allstargame_season1956 .
+
+nbao:player_77596 nbao:participatedInAllStarGame nbao:allstargame_season1965 .
+
+nbao:player_77615 nbao:participatedInAllStarGame nbao:allstargame_season1980 .
+
+nbao:player_77618 nbao:participatedInAllStarGame nbao:allstargame_season1974 .
+
+nbao:player_77626 nbao:participatedInAllStarGame nbao:allstargame_season1981,
+        nbao:allstargame_season1982,
+        nbao:allstargame_season1983,
+        nbao:allstargame_season1984,
+        nbao:allstargame_season1985 .
+
+nbao:player_77669 nbao:participatedInAllStarGame nbao:allstargame_season1978 .
+
+nbao:player_77689 nbao:participatedInAllStarGame nbao:allstargame_season1973,
+        nbao:allstargame_season1974 .
+
+nbao:player_77693 nbao:participatedInAllStarGame nbao:allstargame_season1957,
+        nbao:allstargame_season1959,
+        nbao:allstargame_season1960,
+        nbao:allstargame_season1961 .
+
+nbao:player_77721 nbao:participatedInAllStarGame nbao:allstargame_season1981,
+        nbao:allstargame_season1984 .
+
+nbao:player_77722 nbao:participatedInAllStarGame nbao:allstargame_season1959 .
+
+nbao:player_77751 nbao:participatedInAllStarGame nbao:allstargame_season1962,
+        nbao:allstargame_season1963,
+        nbao:allstargame_season1964,
+        nbao:allstargame_season1965,
+        nbao:allstargame_season1966 .
+
+nbao:player_77817 nbao:participatedInAllStarGame nbao:allstargame_season1972,
+        nbao:allstargame_season1974,
+        nbao:allstargame_season1975 .
+
+nbao:player_77818 nbao:participatedInAllStarGame nbao:allstargame_season1982,
+        nbao:allstargame_season1983 .
+
+nbao:player_77844 nbao:participatedInAllStarGame nbao:allstargame_season1970,
+        nbao:allstargame_season1973 .
+
+nbao:player_77847 nbao:participatedInAllStarGame nbao:allstargame_season1954,
+        nbao:allstargame_season1955,
+        nbao:allstargame_season1956,
+        nbao:allstargame_season1957,
+        nbao:allstargame_season1958,
+        nbao:allstargame_season1959,
+        nbao:allstargame_season1960,
+        nbao:allstargame_season1961,
+        nbao:allstargame_season1962,
+        nbao:allstargame_season1963,
+        nbao:allstargame_season1964 .
+
+nbao:player_779 nbao:participatedInAllStarGame nbao:allstargame_season1995,
+        nbao:allstargame_season1996,
+        nbao:allstargame_season1997 .
+
+nbao:player_77929 nbao:participatedInAllStarGame nbao:allstargame_season1964,
+        nbao:allstargame_season1965,
+        nbao:allstargame_season1966,
+        nbao:allstargame_season1967,
+        nbao:allstargame_season1968,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1970 .
+
+nbao:player_77952 nbao:participatedInAllStarGame nbao:allstargame_season1981 .
+
+nbao:player_77967 nbao:participatedInAllStarGame nbao:allstargame_season1951,
+        nbao:allstargame_season1952,
+        nbao:allstargame_season1953,
+        nbao:allstargame_season1954 .
+
+nbao:player_77988 nbao:participatedInAllStarGame nbao:allstargame_season1969 .
+
+nbao:player_77993 nbao:participatedInAllStarGame nbao:allstargame_season1977 .
+
+nbao:player_77999 nbao:participatedInAllStarGame nbao:allstargame_season1950,
+        nbao:allstargame_season1951 .
+
+nbao:player_78025 nbao:participatedInAllStarGame nbao:allstargame_season1979,
+        nbao:allstargame_season1980 .
+
+nbao:player_78028 nbao:participatedInAllStarGame nbao:allstargame_season1975 .
+
+nbao:player_78042 nbao:participatedInAllStarGame nbao:allstargame_season1969 .
+
+nbao:player_78045 nbao:participatedInAllStarGame nbao:allstargame_season1971 .
+
+nbao:player_78047 nbao:participatedInAllStarGame nbao:allstargame_season1978 .
+
+nbao:player_78049 nbao:participatedInAllStarGame nbao:allstargame_season1957,
+        nbao:allstargame_season1958,
+        nbao:allstargame_season1959,
+        nbao:allstargame_season1960,
+        nbao:allstargame_season1961,
+        nbao:allstargame_season1962,
+        nbao:allstargame_season1963,
+        nbao:allstargame_season1964,
+        nbao:allstargame_season1965,
+        nbao:allstargame_season1966,
+        nbao:allstargame_season1967,
+        nbao:allstargame_season1968 .
+
+nbao:player_78076 nbao:participatedInAllStarGame nbao:allstargame_season1950,
+        nbao:allstargame_season1951,
+        nbao:allstargame_season1952,
+        nbao:allstargame_season1953,
+        nbao:allstargame_season1954,
+        nbao:allstargame_season1955,
+        nbao:allstargame_season1956,
+        nbao:allstargame_season1957,
+        nbao:allstargame_season1958,
+        nbao:allstargame_season1959,
+        nbao:allstargame_season1960,
+        nbao:allstargame_season1961 .
+
+nbao:player_78106 nbao:participatedInAllStarGame nbao:allstargame_season1957,
+        nbao:allstargame_season1958 .
+
+nbao:player_78113 nbao:participatedInAllStarGame nbao:allstargame_season1954,
+        nbao:allstargame_season1961 .
+
+nbao:player_78117 nbao:participatedInAllStarGame nbao:allstargame_season1952,
+        nbao:allstargame_season1953,
+        nbao:allstargame_season1954 .
+
+nbao:player_78121 nbao:participatedInAllStarGame nbao:allstargame_season1962 .
+
+nbao:player_78126 nbao:participatedInAllStarGame nbao:allstargame_season1952,
+        nbao:allstargame_season1953,
+        nbao:allstargame_season1954,
+        nbao:allstargame_season1955,
+        nbao:allstargame_season1956,
+        nbao:allstargame_season1957,
+        nbao:allstargame_season1958,
+        nbao:allstargame_season1959 .
+
+nbao:player_78133 nbao:participatedInAllStarGame nbao:allstargame_season1981 .
+
+nbao:player_78150 nbao:participatedInAllStarGame nbao:allstargame_season1974,
+        nbao:allstargame_season1975 .
+
+nbao:player_78151 nbao:participatedInAllStarGame nbao:allstargame_season1971,
+        nbao:allstargame_season1974 .
+
+nbao:player_78157 nbao:participatedInAllStarGame nbao:allstargame_season1971,
+        nbao:allstargame_season1972,
+        nbao:allstargame_season1973,
+        nbao:allstargame_season1974,
+        nbao:allstargame_season1975 .
+
+nbao:player_78173 nbao:participatedInAllStarGame nbao:allstargame_season1966,
+        nbao:allstargame_season1968 .
+
+nbao:player_78178 nbao:participatedInAllStarGame nbao:allstargame_season1965 .
+
+nbao:player_78199 nbao:participatedInAllStarGame nbao:allstargame_season1975,
+        nbao:allstargame_season1976 .
+
+nbao:player_782 nbao:participatedInAllStarGame nbao:allstargame_season1992,
+        nbao:allstargame_season1993,
+        nbao:allstargame_season1994,
+        nbao:allstargame_season1995,
+        nbao:allstargame_season1996,
+        nbao:allstargame_season1997 .
+
+nbao:player_78219 nbao:participatedInAllStarGame nbao:allstargame_season1968 .
+
+nbao:player_78278 nbao:participatedInAllStarGame nbao:allstargame_season1953 .
+
+nbao:player_78296 nbao:participatedInAllStarGame nbao:allstargame_season1974,
+        nbao:allstargame_season1975 .
+
+nbao:player_78308 nbao:participatedInAllStarGame nbao:allstargame_season1975 .
+
+nbao:player_78310 nbao:participatedInAllStarGame nbao:allstargame_season1980,
+        nbao:allstargame_season1982 .
+
+nbao:player_78318 nbao:participatedInAllStarGame nbao:allstargame_season1981,
+        nbao:allstargame_season1982,
+        nbao:allstargame_season1983,
+        nbao:allstargame_season1984,
+        nbao:allstargame_season1985,
+        nbao:allstargame_season1986,
+        nbao:allstargame_season1987,
+        nbao:allstargame_season1988,
+        nbao:allstargame_season1989,
+        nbao:allstargame_season1991,
+        nbao:allstargame_season1992 .
+
+nbao:player_78326 nbao:participatedInAllStarGame nbao:allstargame_season1975,
+        nbao:allstargame_season1976,
+        nbao:allstargame_season1977,
+        nbao:allstargame_season1978,
+        nbao:allstargame_season1982 .
+
+nbao:player_78350 nbao:participatedInAllStarGame nbao:allstargame_season1973,
+        nbao:allstargame_season1974,
+        nbao:allstargame_season1975,
+        nbao:allstargame_season1976,
+        nbao:allstargame_season1978 .
+
+nbao:player_78351 nbao:participatedInAllStarGame nbao:allstargame_season1982,
+        nbao:allstargame_season1983 .
+
+nbao:player_78369 nbao:participatedInAllStarGame nbao:allstargame_season1981,
+        nbao:allstargame_season1983 .
+
+nbao:player_78387 nbao:participatedInAllStarGame nbao:allstargame_season1974 .
+
+nbao:player_78388 nbao:participatedInAllStarGame nbao:allstargame_season1956,
+        nbao:allstargame_season1957,
+        nbao:allstargame_season1958,
+        nbao:allstargame_season1959,
+        nbao:allstargame_season1961,
+        nbao:allstargame_season1962 .
+
+nbao:player_78392 nbao:participatedInAllStarGame nbao:allstargame_season1968,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1971,
+        nbao:allstargame_season1972,
+        nbao:allstargame_season1974 .
+
+nbao:player_78398 nbao:participatedInAllStarGame nbao:allstargame_season1968,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1970 .
+
+nbao:player_78399 nbao:participatedInAllStarGame nbao:allstargame_season1969,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1971 .
+
+nbao:player_78404 nbao:participatedInAllStarGame nbao:allstargame_season1982,
+        nbao:allstargame_season1983 .
+
+nbao:player_78406 nbao:participatedInAllStarGame nbao:allstargame_season1973,
+        nbao:allstargame_season1975,
+        nbao:allstargame_season1976 .
+
+nbao:player_78413 nbao:participatedInAllStarGame nbao:allstargame_season1969 .
+
+nbao:player_78435 nbao:participatedInAllStarGame nbao:allstargame_season1963,
+        nbao:allstargame_season1965,
+        nbao:allstargame_season1966,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1972,
+        nbao:allstargame_season1973 .
+
+nbao:player_78439 nbao:participatedInAllStarGame nbao:allstargame_season1969,
+        nbao:allstargame_season1971 .
+
+nbao:player_78458 nbao:participatedInAllStarGame nbao:allstargame_season1967 .
+
+nbao:player_78467 nbao:participatedInAllStarGame nbao:allstargame_season1979 .
+
+nbao:player_78482 nbao:participatedInAllStarGame nbao:allstargame_season1975 .
+
+nbao:player_78497 nbao:participatedInAllStarGame nbao:allstargame_season1960,
+        nbao:allstargame_season1961,
+        nbao:allstargame_season1962,
+        nbao:allstargame_season1963,
+        nbao:allstargame_season1964,
+        nbao:allstargame_season1965,
+        nbao:allstargame_season1966,
+        nbao:allstargame_season1967,
+        nbao:allstargame_season1968,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1971,
+        nbao:allstargame_season1972 .
+
+nbao:player_78500 nbao:participatedInAllStarGame nbao:allstargame_season1976,
+        nbao:allstargame_season1977,
+        nbao:allstargame_season1978,
+        nbao:allstargame_season1979,
+        nbao:allstargame_season1980 .
+
+nbao:player_78530 nbao:participatedInAllStarGame nbao:allstargame_season1962,
+        nbao:allstargame_season1969,
+        nbao:allstargame_season1970,
+        nbao:allstargame_season1972 .
+
+nbao:player_78532 nbao:participatedInAllStarGame nbao:allstargame_season1975,
+        nbao:allstargame_season1980,
+        nbao:allstargame_season1982 .
+
+nbao:player_78547 nbao:participatedInAllStarGame nbao:allstargame_season1972,
+        nbao:allstargame_season1975 .
+
+nbao:player_78549 nbao:participatedInAllStarGame nbao:allstargame_season1981,
+        nbao:allstargame_season1982 .
+
+nbao:player_78600 nbao:participatedInAllStarGame nbao:allstargame_season1975,
+        nbao:allstargame_season1977 .
+
+nbao:player_78602 nbao:participatedInAllStarGame nbao:allstargame_season1971,
+        nbao:allstargame_season1972,
+        nbao:allstargame_season1973 .
+
+nbao:player_78628 nbao:participatedInAllStarGame nbao:allstargame_season1954,
+        nbao:allstargame_season1955,
+        nbao:allstargame_season1956,
+        nbao:allstargame_season1957,
+        nbao:allstargame_season1958,
+        nbao:allstargame_season1959 .
+
+nbao:player_78638 nbao:participatedInAllStarGame nbao:allstargame_season1951 .
+
+nbao:player_787 nbao:participatedInAllStarGame nbao:allstargame_season1986,
+        nbao:allstargame_season1987,
+        nbao:allstargame_season1988,
+        nbao:allstargame_season1989,
+        nbao:allstargame_season1990,
+        nbao:allstargame_season1991,
+        nbao:allstargame_season1992,
+        nbao:allstargame_season1994,
+        nbao:allstargame_season1995,
+        nbao:allstargame_season1996 .
+
+nbao:player_788 nbao:participatedInAllStarGame nbao:allstargame_season1991 .
+
+nbao:player_84 nbao:participatedInAllStarGame nbao:allstargame_season1993,
+        nbao:allstargame_season1994,
+        nbao:allstargame_season1996,
+        nbao:allstargame_season2000 .
+
+nbao:player_87 nbao:participatedInAllStarGame nbao:allstargame_season1991,
+        nbao:allstargame_season1994,
+        nbao:allstargame_season1995,
+        nbao:allstargame_season1996,
+        nbao:allstargame_season1997,
+        nbao:allstargame_season1999,
+        nbao:allstargame_season2000,
+        nbao:allstargame_season2001 .
+
+nbao:player_89 nbao:participatedInAllStarGame nbao:allstargame_season1997 .
+
+nbao:player_891 nbao:participatedInAllStarGame nbao:allstargame_season1993 .
+
+nbao:player_893 nbao:participatedInAllStarGame nbao:allstargame_season1984,
+        nbao:allstargame_season1985,
+        nbao:allstargame_season1986,
+        nbao:allstargame_season1987,
+        nbao:allstargame_season1988,
+        nbao:allstargame_season1989,
+        nbao:allstargame_season1990,
+        nbao:allstargame_season1991,
+        nbao:allstargame_season1992,
+        nbao:allstargame_season1995,
+        nbao:allstargame_season1996,
+        nbao:allstargame_season1997,
+        nbao:allstargame_season2001,
+        nbao:allstargame_season2002 .
+
+nbao:player_894 nbao:participatedInAllStarGame nbao:allstargame_season1990 .
+
+nbao:player_896 nbao:participatedInAllStarGame nbao:allstargame_season1990,
+        nbao:allstargame_season1991,
+        nbao:allstargame_season1992,
+        nbao:allstargame_season1996,
+        nbao:allstargame_season1997 .
+
+nbao:player_899 nbao:participatedInAllStarGame nbao:allstargame_season1988,
+        nbao:allstargame_season1991,
+        nbao:allstargame_season1992,
+        nbao:allstargame_season1993 .
+
+nbao:player_901 nbao:participatedInAllStarGame nbao:allstargame_season1991 .
+
+nbao:player_904 nbao:participatedInAllStarGame nbao:allstargame_season1988,
+        nbao:allstargame_season1989,
+        nbao:allstargame_season1990,
+        nbao:allstargame_season1991,
+        nbao:allstargame_season1992 .
+
+nbao:player_905 nbao:participatedInAllStarGame nbao:allstargame_season1999 .
+
+nbao:player_913 nbao:participatedInAllStarGame nbao:allstargame_season1992,
+        nbao:allstargame_season1994 .
+
+nbao:player_920 nbao:participatedInAllStarGame nbao:allstargame_season1989 .
+
+nbao:player_921 nbao:participatedInAllStarGame nbao:allstargame_season1987,
+        nbao:allstargame_season1988,
+        nbao:allstargame_season1990,
+        nbao:allstargame_season1991,
+        nbao:allstargame_season1992 .
+
+nbao:player_926 nbao:participatedInAllStarGame nbao:allstargame_season1985,
+        nbao:allstargame_season1986,
+        nbao:allstargame_season1987,
+        nbao:allstargame_season1990 .
+
+nbao:player_934 nbao:participatedInAllStarGame nbao:allstargame_season1993 .
+
+nbao:player_937 nbao:participatedInAllStarGame nbao:allstargame_season1989,
+        nbao:allstargame_season1991,
+        nbao:allstargame_season1992,
+        nbao:allstargame_season1993,
+        nbao:allstargame_season1994,
+        nbao:allstargame_season1995,
+        nbao:allstargame_season1996 .
+
+nbao:player_947 nbao:participatedInAllStarGame nbao:allstargame_season1999,
+        nbao:allstargame_season2000,
+        nbao:allstargame_season2001,
+        nbao:allstargame_season2002,
+        nbao:allstargame_season2003,
+        nbao:allstargame_season2004,
+        nbao:allstargame_season2005,
+        nbao:allstargame_season2007,
+        nbao:allstargame_season2008 .
+
+nbao:player_950 nbao:participatedInAllStarGame nbao:allstargame_season2000,
+        nbao:allstargame_season2002 .
+
+nbao:player_952 nbao:participatedInAllStarGame nbao:allstargame_season1997,
+        nbao:allstargame_season2001,
+        nbao:allstargame_season2002 .
+
+nbao:player_959 nbao:participatedInAllStarGame nbao:allstargame_season2001,
+        nbao:allstargame_season2002,
+        nbao:allstargame_season2004,
+        nbao:allstargame_season2005,
+        nbao:allstargame_season2007,
+        nbao:allstargame_season2009 .
+
+nbao:player_96 nbao:participatedInAllStarGame nbao:allstargame_season1992,
+        nbao:allstargame_season1994,
+        nbao:allstargame_season1996 .
+
+nbao:player_977 nbao:participatedInAllStarGame nbao:allstargame_season1997,
+        nbao:allstargame_season1999,
+        nbao:allstargame_season2000,
+        nbao:allstargame_season2001,
+        nbao:allstargame_season2002,
+        nbao:allstargame_season2003,
+        nbao:allstargame_season2004,
+        nbao:allstargame_season2005,
+        nbao:allstargame_season2006,
+        nbao:allstargame_season2007,
+        nbao:allstargame_season2008 .
+
+nbao:player_978 nbao:participatedInAllStarGame nbao:allstargame_season2001,
+        nbao:allstargame_season2002,
+        nbao:allstargame_season2003 .
+
+nbao:player_979 nbao:participatedInAllStarGame nbao:allstargame_season2001,
+        nbao:allstargame_season2002,
+        nbao:allstargame_season2003,
+        nbao:allstargame_season2004,
+        nbao:allstargame_season2005,
+        nbao:allstargame_season2006 .
+
+nbao:player_980 nbao:participatedInAllStarGame nbao:allstargame_season2002,
+        nbao:allstargame_season2004 .
+
+nbao:allstargame_season1950 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1950"^^xsd:gYear .
+
+nbao:allstargame_season1963 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1963"^^xsd:gYear .
+
+nbao:allstargame_season1965 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1965"^^xsd:gYear .
+
+nbao:allstargame_season1966 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1966"^^xsd:gYear .
+
+nbao:allstargame_season1951 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1951"^^xsd:gYear .
+
+nbao:allstargame_season1964 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1964"^^xsd:gYear .
+
+nbao:allstargame_season1953 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1953"^^xsd:gYear .
+
+nbao:allstargame_season1958 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1958"^^xsd:gYear .
+
+nbao:allstargame_season2003 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "2003"^^xsd:gYear .
+
+nbao:allstargame_season2004 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "2004"^^xsd:gYear .
+
+nbao:allstargame_season1952 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1952"^^xsd:gYear .
+
+nbao:allstargame_season1954 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1954"^^xsd:gYear .
+
+nbao:allstargame_season1976 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1976"^^xsd:gYear .
+
+nbao:allstargame_season1977 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1977"^^xsd:gYear .
+
+nbao:allstargame_season1984 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1984"^^xsd:gYear .
+
+nbao:allstargame_season2005 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "2005"^^xsd:gYear .
+
+nbao:allstargame_season2006 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "2006"^^xsd:gYear .
+
+nbao:allstargame_season1955 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1955"^^xsd:gYear .
+
+nbao:allstargame_season1956 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1956"^^xsd:gYear .
+
+nbao:allstargame_season1957 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1957"^^xsd:gYear .
+
+nbao:allstargame_season1959 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1959"^^xsd:gYear .
+
+nbao:allstargame_season1960 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1960"^^xsd:gYear .
+
+nbao:allstargame_season1978 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1978"^^xsd:gYear .
+
+nbao:allstargame_season1979 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1979"^^xsd:gYear .
+
+nbao:allstargame_season2007 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "2007"^^xsd:gYear .
+
+nbao:allstargame_season1962 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1962"^^xsd:gYear .
+
+nbao:allstargame_season1980 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1980"^^xsd:gYear .
+
+nbao:allstargame_season2001 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "2001"^^xsd:gYear .
+
+nbao:allstargame_season1961 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1961"^^xsd:gYear .
+
+nbao:allstargame_season1983 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1983"^^xsd:gYear .
+
+nbao:allstargame_season1986 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1986"^^xsd:gYear .
+
+nbao:allstargame_season1987 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1987"^^xsd:gYear .
+
+nbao:allstargame_season1997 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1997"^^xsd:gYear .
+
+nbao:allstargame_season1999 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1999"^^xsd:gYear .
+
+nbao:allstargame_season2008 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "2008"^^xsd:gYear .
+
+nbao:allstargame_season2009 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "2009"^^xsd:gYear .
+
+nbao:allstargame_season1981 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1981"^^xsd:gYear .
+
+nbao:allstargame_season1989 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1989"^^xsd:gYear .
+
+nbao:allstargame_season1994 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1994"^^xsd:gYear .
+
+nbao:allstargame_season2002 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "2002"^^xsd:gYear .
+
+nbao:allstargame_season1982 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1982"^^xsd:gYear .
+
+nbao:allstargame_season1985 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1985"^^xsd:gYear .
+
+nbao:allstargame_season1988 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1988"^^xsd:gYear .
+
+nbao:allstargame_season1992 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1992"^^xsd:gYear .
+
+nbao:allstargame_season1995 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1995"^^xsd:gYear .
+
+nbao:allstargame_season1990 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1990"^^xsd:gYear .
+
+nbao:allstargame_season1991 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1991"^^xsd:gYear .
+
+nbao:allstargame_season1993 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1993"^^xsd:gYear .
+
+nbao:allstargame_season2000 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "2000"^^xsd:gYear .
+
+nbao:allstargame_season1967 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:ABA,
+        nbao:NBA ;
+    nbao:ofSeason "1967"^^xsd:gYear .
+
+nbao:allstargame_season1968 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:ABA,
+        nbao:NBA ;
+    nbao:ofSeason "1968"^^xsd:gYear .
+
+nbao:allstargame_season1996 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:NBA ;
+    nbao:ofSeason "1996"^^xsd:gYear .
+
+nbao:allstargame_season1973 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:ABA,
+        nbao:NBA ;
+    nbao:ofSeason "1973"^^xsd:gYear .
+
+nbao:allstargame_season1969 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:ABA,
+        nbao:NBA ;
+    nbao:ofSeason "1969"^^xsd:gYear .
+
+nbao:allstargame_season1974 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:ABA,
+        nbao:NBA ;
+    nbao:ofSeason "1974"^^xsd:gYear .
+
+nbao:allstargame_season1970 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:ABA,
+        nbao:NBA ;
+    nbao:ofSeason "1970"^^xsd:gYear .
+
+nbao:allstargame_season1972 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:ABA,
+        nbao:NBA ;
+    nbao:ofSeason "1972"^^xsd:gYear .
+
+nbao:allstargame_season1971 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:ABA,
+        nbao:NBA ;
+    nbao:ofSeason "1971"^^xsd:gYear .
+
+nbao:allstargame_season1975 a nbao:AllStarGame ;
+    nbao:ofLeague nbao:ABA,
+        nbao:NBA ;
+    nbao:ofSeason "1975"^^xsd:gYear .
+

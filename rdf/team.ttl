@@ -1,0 +1,228 @@
+@prefix nbao: <http://www.semanticweb.org/~gdb/ontology/spire/nbao#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+nbao:team_1610612737 a nbao:Team ;
+    nbao:teamAbbreviation "ATL"^^xsd:string ;
+    nbao:teamArena "State Farm Arena"^^xsd:string ;
+    nbao:teamCity "Atlanta"^^xsd:string ;
+    nbao:teamName "Atlanta Hawks"^^xsd:string ;
+    nbao:teamNickname "Hawks"^^xsd:string ;
+    nbao:teamState "Atlanta"^^xsd:string ;
+    nbao:yearFounded "1949"^^xsd:gYear .
+
+nbao:team_1610612741 a nbao:Team ;
+    nbao:teamAbbreviation "CHI"^^xsd:string ;
+    nbao:teamArena "United Center"^^xsd:string ;
+    nbao:teamCity "Chicago"^^xsd:string ;
+    nbao:teamName "Chicago Bulls"^^xsd:string ;
+    nbao:teamNickname "Bulls"^^xsd:string ;
+    nbao:teamState "Illinois"^^xsd:string ;
+    nbao:yearFounded "1966"^^xsd:gYear .
+
+nbao:team_1610612742 a nbao:Team ;
+    nbao:teamAbbreviation "DAL"^^xsd:string ;
+    nbao:teamArena "American Airlines Center"^^xsd:string ;
+    nbao:teamCity "Dallas"^^xsd:string ;
+    nbao:teamName "Dallas Mavericks"^^xsd:string ;
+    nbao:teamNickname "Mavericks"^^xsd:string ;
+    nbao:teamState "Texas"^^xsd:string ;
+    nbao:yearFounded "1980"^^xsd:gYear .
+
+nbao:team_1610612743 a nbao:Team ;
+    nbao:teamAbbreviation "DEN"^^xsd:string ;
+    nbao:teamArena "Ball Arena"^^xsd:string ;
+    nbao:teamCity "Denver"^^xsd:string ;
+    nbao:teamName "Denver Nuggets"^^xsd:string ;
+    nbao:teamNickname "Nuggets"^^xsd:string ;
+    nbao:teamState "Colorado"^^xsd:string ;
+    nbao:yearFounded "1976"^^xsd:gYear .
+
+nbao:team_1610612744 a nbao:Team ;
+    nbao:teamAbbreviation "GSW"^^xsd:string ;
+    nbao:teamArena "Chase Center"^^xsd:string ;
+    nbao:teamCity "Golden State"^^xsd:string ;
+    nbao:teamName "Golden State Warriors"^^xsd:string ;
+    nbao:teamNickname "Warriors"^^xsd:string ;
+    nbao:teamState "California"^^xsd:string ;
+    nbao:yearFounded "1946"^^xsd:gYear .
+
+nbao:team_1610612745 a nbao:Team ;
+    nbao:teamAbbreviation "HOU"^^xsd:string ;
+    nbao:teamArena "Toyota Center"^^xsd:string ;
+    nbao:teamCity "Houston"^^xsd:string ;
+    nbao:teamName "Houston Rockets"^^xsd:string ;
+    nbao:teamNickname "Rockets"^^xsd:string ;
+    nbao:teamState "Texas"^^xsd:string ;
+    nbao:yearFounded "1967"^^xsd:gYear .
+
+nbao:team_1610612746 a nbao:Team ;
+    nbao:teamAbbreviation "LAC"^^xsd:string ;
+    nbao:teamArena "Crypto.com Arena"^^xsd:string ;
+    nbao:teamCity "Los Angeles"^^xsd:string ;
+    nbao:teamName "Los Angeles Clippers"^^xsd:string ;
+    nbao:teamNickname "Clippers"^^xsd:string ;
+    nbao:teamState "California"^^xsd:string ;
+    nbao:yearFounded "1970"^^xsd:gYear .
+
+nbao:team_1610612747 a nbao:Team ;
+    nbao:teamAbbreviation "LAL"^^xsd:string ;
+    nbao:teamArena "Crypto.com Arena"^^xsd:string ;
+    nbao:teamCity "Los Angeles"^^xsd:string ;
+    nbao:teamName "Los Angeles Lakers"^^xsd:string ;
+    nbao:teamNickname "Lakers"^^xsd:string ;
+    nbao:teamState "California"^^xsd:string ;
+    nbao:yearFounded "1948"^^xsd:gYear .
+
+nbao:team_1610612748 a nbao:Team ;
+    nbao:teamAbbreviation "MIA"^^xsd:string ;
+    nbao:teamArena "Kaseya Center"^^xsd:string ;
+    nbao:teamCity "Miami"^^xsd:string ;
+    nbao:teamName "Miami Heat"^^xsd:string ;
+    nbao:teamNickname "Heat"^^xsd:string ;
+    nbao:teamState "Florida"^^xsd:string ;
+    nbao:yearFounded "1988"^^xsd:gYear .
+
+nbao:team_1610612749 a nbao:Team ;
+    nbao:teamAbbreviation "MIL"^^xsd:string ;
+    nbao:teamArena "Fiserv Forum"^^xsd:string ;
+    nbao:teamCity "Milwaukee"^^xsd:string ;
+    nbao:teamName "Milwaukee Bucks"^^xsd:string ;
+    nbao:teamNickname "Bucks"^^xsd:string ;
+    nbao:teamState "Wisconsin"^^xsd:string ;
+    nbao:yearFounded "1968"^^xsd:gYear .
+
+nbao:team_1610612750 a nbao:Team ;
+    nbao:teamAbbreviation "MIN"^^xsd:string ;
+    nbao:teamArena "Target Center"^^xsd:string ;
+    nbao:teamCity "Minnesota"^^xsd:string ;
+    nbao:teamName "Minnesota Timberwolves"^^xsd:string ;
+    nbao:teamNickname "Timberwolves"^^xsd:string ;
+    nbao:teamState "Minnesota"^^xsd:string ;
+    nbao:yearFounded "1989"^^xsd:gYear .
+
+nbao:team_1610612751 a nbao:Team ;
+    nbao:teamAbbreviation "BKN"^^xsd:string ;
+    nbao:teamArena "Barclays Center"^^xsd:string ;
+    nbao:teamCity "Brooklyn"^^xsd:string ;
+    nbao:teamName "Brooklyn Nets"^^xsd:string ;
+    nbao:teamNickname "Nets"^^xsd:string ;
+    nbao:teamState "New York"^^xsd:string ;
+    nbao:yearFounded "1976"^^xsd:gYear .
+
+nbao:team_1610612754 a nbao:Team ;
+    nbao:teamAbbreviation "IND"^^xsd:string ;
+    nbao:teamArena "Gainbridge Fieldhouse "^^xsd:string ;
+    nbao:teamCity "Indiana"^^xsd:string ;
+    nbao:teamName "Indiana Pacers"^^xsd:string ;
+    nbao:teamNickname "Pacers"^^xsd:string ;
+    nbao:teamState "Indiana"^^xsd:string ;
+    nbao:yearFounded "1976"^^xsd:gYear .
+
+nbao:team_1610612755 a nbao:Team ;
+    nbao:teamAbbreviation "PHI"^^xsd:string ;
+    nbao:teamArena "Wells Fargo Center"^^xsd:string ;
+    nbao:teamCity "Philadelphia"^^xsd:string ;
+    nbao:teamName "Philadelphia 76ers"^^xsd:string ;
+    nbao:teamNickname "76ers"^^xsd:string ;
+    nbao:teamState "Pennsylvania"^^xsd:string ;
+    nbao:yearFounded "1949"^^xsd:gYear .
+
+nbao:team_1610612756 a nbao:Team ;
+    nbao:teamAbbreviation "PHX"^^xsd:string ;
+    nbao:teamArena "Footprint Center"^^xsd:string ;
+    nbao:teamCity "Phoenix"^^xsd:string ;
+    nbao:teamName "Phoenix Suns"^^xsd:string ;
+    nbao:teamNickname "Suns"^^xsd:string ;
+    nbao:teamState "Arizona"^^xsd:string ;
+    nbao:yearFounded "1968"^^xsd:gYear .
+
+nbao:team_1610612757 a nbao:Team ;
+    nbao:teamAbbreviation "POR"^^xsd:string ;
+    nbao:teamArena "Moda Center"^^xsd:string ;
+    nbao:teamCity "Portland"^^xsd:string ;
+    nbao:teamName "Portland Trail Blazers"^^xsd:string ;
+    nbao:teamNickname "Trail Blazers"^^xsd:string ;
+    nbao:teamState "Oregon"^^xsd:string ;
+    nbao:yearFounded "1970"^^xsd:gYear .
+
+nbao:team_1610612758 a nbao:Team ;
+    nbao:teamAbbreviation "SAC"^^xsd:string ;
+    nbao:teamArena "Golden 1 Center"^^xsd:string ;
+    nbao:teamCity "Sacramento"^^xsd:string ;
+    nbao:teamName "Sacramento Kings"^^xsd:string ;
+    nbao:teamNickname "Kings"^^xsd:string ;
+    nbao:teamState "California"^^xsd:string ;
+    nbao:yearFounded "1948"^^xsd:gYear .
+
+nbao:team_1610612759 a nbao:Team ;
+    nbao:teamAbbreviation "SAS"^^xsd:string ;
+    nbao:teamArena "AT&T Center"^^xsd:string ;
+    nbao:teamCity "San Antonio"^^xsd:string ;
+    nbao:teamName "San Antonio Spurs"^^xsd:string ;
+    nbao:teamNickname "Spurs"^^xsd:string ;
+    nbao:teamState "Texas"^^xsd:string ;
+    nbao:yearFounded "1976"^^xsd:gYear .
+
+nbao:team_1610612760 a nbao:Team ;
+    nbao:teamAbbreviation "OKC"^^xsd:string ;
+    nbao:teamArena "Paycom Center"^^xsd:string ;
+    nbao:teamCity "Oklahoma City"^^xsd:string ;
+    nbao:teamName "Oklahoma City Thunder"^^xsd:string ;
+    nbao:teamNickname "Thunder"^^xsd:string ;
+    nbao:teamState "Oklahoma"^^xsd:string ;
+    nbao:yearFounded "1967"^^xsd:gYear .
+
+nbao:team_1610612761 a nbao:Team ;
+    nbao:teamAbbreviation "TOR"^^xsd:string ;
+    nbao:teamArena "Scotiabank Arena"^^xsd:string ;
+    nbao:teamCity "Toronto"^^xsd:string ;
+    nbao:teamName "Toronto Raptors"^^xsd:string ;
+    nbao:teamNickname "Raptors"^^xsd:string ;
+    nbao:teamState "Ontario"^^xsd:string ;
+    nbao:yearFounded "1995"^^xsd:gYear .
+
+nbao:team_1610612762 a nbao:Team ;
+    nbao:teamAbbreviation "UTA"^^xsd:string ;
+    nbao:teamArena "Delta Center"^^xsd:string ;
+    nbao:teamCity "Utah"^^xsd:string ;
+    nbao:teamName "Utah Jazz"^^xsd:string ;
+    nbao:teamNickname "Jazz"^^xsd:string ;
+    nbao:teamState "Utah"^^xsd:string ;
+    nbao:yearFounded "1974"^^xsd:gYear .
+
+nbao:team_1610612763 a nbao:Team ;
+    nbao:teamAbbreviation "MEM"^^xsd:string ;
+    nbao:teamArena "FedExForum"^^xsd:string ;
+    nbao:teamCity "Memphis"^^xsd:string ;
+    nbao:teamName "Memphis Grizzlies"^^xsd:string ;
+    nbao:teamNickname "Grizzlies"^^xsd:string ;
+    nbao:teamState "Tennessee"^^xsd:string ;
+    nbao:yearFounded "1995"^^xsd:gYear .
+
+nbao:team_1610612764 a nbao:Team ;
+    nbao:teamAbbreviation "WAS"^^xsd:string ;
+    nbao:teamArena "Capital One Arena"^^xsd:string ;
+    nbao:teamCity "Washington"^^xsd:string ;
+    nbao:teamName "Washington Wizards"^^xsd:string ;
+    nbao:teamNickname "Wizards"^^xsd:string ;
+    nbao:teamState "District of Columbia"^^xsd:string ;
+    nbao:yearFounded "1961"^^xsd:gYear .
+
+nbao:team_1610612765 a nbao:Team ;
+    nbao:teamAbbreviation "DET"^^xsd:string ;
+    nbao:teamArena "Little Caesars Arena"^^xsd:string ;
+    nbao:teamCity "Detroit"^^xsd:string ;
+    nbao:teamName "Detroit Pistons"^^xsd:string ;
+    nbao:teamNickname "Pistons"^^xsd:string ;
+    nbao:teamState "Michigan"^^xsd:string ;
+    nbao:yearFounded "1948"^^xsd:gYear .
+
+nbao:team_1610612766 a nbao:Team ;
+    nbao:teamAbbreviation "CHA"^^xsd:string ;
+    nbao:teamArena "Spectrum Center"^^xsd:string ;
+    nbao:teamCity "Charlotte"^^xsd:string ;
+    nbao:teamName "Charlotte Hornets"^^xsd:string ;
+    nbao:teamNickname "Hornets"^^xsd:string ;
+    nbao:teamState "North Carolina"^^xsd:string ;
+    nbao:yearFounded "1988"^^xsd:gYear .
+
