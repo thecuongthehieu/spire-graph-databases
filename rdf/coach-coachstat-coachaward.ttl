@@ -1,0 +1,5388 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix nbao: <http://www.semanticweb.org/~gdb/ontology/spire/nbao#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+nbao:award_year1962_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1962"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76773 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1963_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1963"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_hannual01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1964_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1964"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_auerbre01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1965_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1965"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_schaydo01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1966_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1966"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_kerrjo01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1967_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1967"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_gueriri01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1968_titleABACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "ABA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1968"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_hannual01 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1968_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1968"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_shuege01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1969_titleABACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "ABA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1969"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_sharmbi01 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1969_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1969"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_holzmre01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1970_titleABACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "ABA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1970"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_biancal01 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1970_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1970"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_mottadi01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1971_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1971"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_sharmbi01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1972_titleABACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "ABA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1972"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_brownla01 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1972_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1972"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_heinsto01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1973_titleABACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "ABA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1973"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_mullajo01 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1973_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1973"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_scottra01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1974_titleABACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "ABA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1974"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_brownla01 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1975_titleABACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "ABA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1975"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_brownla01 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1975_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1975"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_fitchbi01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1977_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1977"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_brownhu01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1978_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1978"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_fitzsco01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1979_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1979"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_fitchbi01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1981_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1981"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_shuege01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1982_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1982"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_nelsodo01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1984_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1984"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_nelsodo01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1985_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1985"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_fratemi01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1987_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1987"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_moedo01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1988_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1988"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_fitzsco01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1989_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1989"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_rileypa01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1990_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1990"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_chanedo01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1991_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1991"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_nelsodo01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1992_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1992"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_rileypa01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1993_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1993"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_wilkele01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1994_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1994"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2734 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1995_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1995"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_jacksph01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1996_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1996"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_rileypa01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1997_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1997"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1449 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1998_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1998"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_dunlemi01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1999_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "1999"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_riverdo01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2000_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "2000"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_brownla01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2001_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "2001"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_carliri01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2003_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "2003"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_brownhu01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2004_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "2004"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_dantomi01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2005_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "2005"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_422 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2006_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "2006"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:coach_mitchsa01 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2007_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "2007"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2008_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "2008"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1479 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2009_titleNBACoachoftheYear a nbao:Award ;
+    nbao:awardTitle "NBA Coach of the Year"^^xsd:string ;
+    nbao:awardYear "2009"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_418 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:coach_adelmri01 a nbao:Coach ;
+    nbao:birthdate "1946-06-16"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1000,
+        nbao:coachstat_1060,
+        nbao:coachstat_1092,
+        nbao:coachstat_1161,
+        nbao:coachstat_1195,
+        nbao:coachstat_1230,
+        nbao:coachstat_1261,
+        nbao:coachstat_1296,
+        nbao:coachstat_1329,
+        nbao:coachstat_1367,
+        nbao:coachstat_1407,
+        nbao:coachstat_1472,
+        nbao:coachstat_1504,
+        nbao:coachstat_1543,
+        nbao:coachstat_1577,
+        nbao:coachstat_1626,
+        nbao:coachstat_841,
+        nbao:coachstat_874,
+        nbao:coachstat_904,
+        nbao:coachstat_933,
+        nbao:coachstat_968 ;
+    foaf:name "Richard Adelman"^^xsd:string .
+
+nbao:coach_attleal01 a nbao:Coach ;
+    nbao:birthdate "1936-11-07"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_365,
+        nbao:coachstat_398,
+        nbao:coachstat_430,
+        nbao:coachstat_459,
+        nbao:coachstat_493,
+        nbao:coachstat_526,
+        nbao:coachstat_552,
+        nbao:coachstat_579,
+        nbao:coachstat_607,
+        nbao:coachstat_632,
+        nbao:coachstat_659,
+        nbao:coachstat_689 ;
+    foaf:name "Alvin Attles"^^xsd:string .
+
+nbao:coach_bachjo01 a nbao:Coach ;
+    nbao:birthdate "1924-07-10"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_608,
+        nbao:coachstat_713,
+        nbao:coachstat_737,
+        nbao:coachstat_762 ;
+    foaf:name "John Bach"^^xsd:string .
+
+nbao:coach_bickebe01 a nbao:Coach ;
+    nbao:birthdate "1944-02-11"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1030,
+        nbao:coachstat_1062,
+        nbao:coachstat_1095,
+        nbao:coachstat_1130,
+        nbao:coachstat_1164,
+        nbao:coachstat_1368,
+        nbao:coachstat_1408,
+        nbao:coachstat_1440 ;
+    foaf:name "Bernie Bickerstaff"^^xsd:string .
+
+nbao:coach_bucknqu01 a nbao:Coach ;
+    nbao:birthdate "1954-08-20"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1004 ;
+    foaf:name "William Buckner"^^xsd:string .
+
+nbao:coach_butchdo01 a nbao:Coach ;
+    nbao:birthdate "1936-02-08"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_228,
+        nbao:coachstat_244,
+        nbao:coachstat_269 ;
+    foaf:name "Donnis Butcher"^^xsd:string .
+
+nbao:coach_cartebu01 a nbao:Coach ;
+    nbao:birthdate "1958-06-11"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1135,
+        nbao:coachstat_1170,
+        nbao:coachstat_1200 ;
+    foaf:name "Clarence Carter"^^xsd:string .
+
+nbao:coach_cartefr01 a nbao:Coach ;
+    nbao:birthdate "1945-02-14"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1005,
+        nbao:coachstat_972 ;
+    foaf:name "Frederick Carter"^^xsd:string .
+
+nbao:coach_cartwbi01 a nbao:Coach ;
+    nbao:birthdate "1957-07-30"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1265,
+        nbao:coachstat_1301,
+        nbao:coachstat_1336 ;
+    foaf:name "James Cartwright"^^xsd:string .
+
+nbao:coach_caseydw01 a nbao:Coach ;
+    nbao:birthdate "1957-04-17"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1412,
+        nbao:coachstat_1443,
+        nbao:coachstat_1640 ;
+    foaf:name "Dwane Casey"^^xsd:string .
+
+nbao:coach_cleamji01 a nbao:Coach ;
+    nbao:birthdate "1949-09-13"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1101,
+        nbao:coachstat_1136 ;
+    foaf:name "James Cleamons"^^xsd:string .
+
+nbao:coach_collido01 a nbao:Coach ;
+    nbao:birthdate "1951-07-28"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1068,
+        nbao:coachstat_1102,
+        nbao:coachstat_1137,
+        nbao:coachstat_1268,
+        nbao:coachstat_1304,
+        nbao:coachstat_1581,
+        nbao:coachstat_1633,
+        nbao:coachstat_789,
+        nbao:coachstat_813,
+        nbao:coachstat_846 ;
+    foaf:name "Paul Collins"^^xsd:string .
+
+nbao:coach_costela01 a nbao:Coach ;
+    nbao:birthdate "1931-07-02"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_270,
+        nbao:coachstat_304,
+        nbao:coachstat_338,
+        nbao:coachstat_370,
+        nbao:coachstat_406,
+        nbao:coachstat_434,
+        nbao:coachstat_466,
+        nbao:coachstat_501,
+        nbao:coachstat_532,
+        nbao:coachstat_583 ;
+    foaf:name "Lawrence Costello"^^xsd:string .
+
+nbao:coach_cowenda01 a nbao:Coach ;
+    nbao:birthdate "1948-10-25"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1232,
+        nbao:coachstat_1269 ;
+    foaf:name "David Cowens"^^xsd:string .
+
+nbao:coach_dalych01 a nbao:Coach ;
+    nbao:birthdate "1930-07-20"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_717,
+        nbao:coachstat_741,
+        nbao:coachstat_766,
+        nbao:coachstat_790,
+        nbao:coachstat_814,
+        nbao:coachstat_847,
+        nbao:coachstat_880,
+        nbao:coachstat_908,
+        nbao:coachstat_941 ;
+    foaf:name "Chuck Daly"^^xsd:string .
+
+nbao:coach_danieme01 a nbao:Coach ;
+    nbao:birthdate "1944-07-20"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_848 ;
+    foaf:name "Melvin Daniels"^^xsd:string .
+
+nbao:coach_debusda01 a nbao:Coach ;
+    nbao:birthdate "1940-10-16"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_207,
+        nbao:coachstat_219,
+        nbao:coachstat_229 ;
+    foaf:name "David DeBusschere"^^xsd:string .
+
+nbao:coach_delnevi01 a nbao:Coach ;
+    nbao:birthdate "1966-08-09"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1514,
+        nbao:coachstat_1551,
+        nbao:coachstat_1584,
+        nbao:coachstat_1621 ;
+    foaf:name "Vincent Del Negro"^^xsd:string .
+
+nbao:coach_eganjo01 a nbao:Coach ;
+    nbao:birthdate "1939-01-31"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_408,
+        nbao:coachstat_436,
+        nbao:coachstat_467,
+        nbao:coachstat_502 ;
+    foaf:name "John Egan"^^xsd:string .
+
+nbao:coach_evansmi01 a nbao:Coach ;
+    nbao:birthdate "1955-04-19"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1270 ;
+    foaf:name "Michael Evans"^^xsd:string .
+
+nbao:coach_fordch01 a nbao:Coach ;
+    nbao:birthdate "1949-01-11"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1107,
+        nbao:coachstat_1142,
+        nbao:coachstat_1177,
+        nbao:coachstat_1204,
+        nbao:coachstat_1343 ;
+    foaf:name "Christopher Ford"^^xsd:string .
+
+nbao:coach_guokama02 a nbao:Coach ;
+    nbao:birthdate "1944-02-25"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_770,
+        nbao:coachstat_793,
+        nbao:coachstat_818 ;
+    foaf:name "Matthew Guokas"^^xsd:string .
+
+nbao:coach_hanzlbi01 a nbao:Coach ;
+    nbao:birthdate "1957-12-06"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1145 ;
+    foaf:name "William Hanzlik"^^xsd:string .
+
+nbao:coach_harride02 a nbao:Coach ;
+    nbao:birthdate "1937-06-18"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1041,
+        nbao:coachstat_1073,
+        nbao:coachstat_1109,
+        nbao:coachstat_1146,
+        nbao:coachstat_1180,
+        nbao:coachstat_614,
+        nbao:coachstat_639,
+        nbao:coachstat_666,
+        nbao:coachstat_696,
+        nbao:coachstat_819,
+        nbao:coachstat_851,
+        nbao:coachstat_885,
+        nbao:coachstat_914,
+        nbao:coachstat_948 ;
+    foaf:name "Del Harris"^^xsd:string .
+
+nbao:coach_iavarma01 a nbao:Coach ;
+    nbao:birthdate "1956-09-15"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1480,
+        nbao:coachstat_1520 ;
+    foaf:name "Marcus Iavaroni"^^xsd:string .
+
+nbao:coach_irvinge01 a nbao:Coach ;
+    nbao:birthdate "1948-02-01"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1209,
+        nbao:coachstat_1237,
+        nbao:coachstat_745,
+        nbao:coachstat_771,
+        nbao:coachstat_853 ;
+    foaf:name "George Irvine"^^xsd:string .
+
+nbao:coach_isselda01 a nbao:Coach ;
+    nbao:birthdate "1948-10-25"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1012,
+        nbao:coachstat_1044,
+        nbao:coachstat_1210,
+        nbao:coachstat_1238,
+        nbao:coachstat_1273,
+        nbao:coachstat_980 ;
+    foaf:name "Daniel Issel"^^xsd:string .
+
+nbao:coach_johnsma02 a nbao:Coach ;
+    nbao:birthdate "1959-08-14"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1014 ;
+    foaf:name "Earvin Johnson"^^xsd:string .
+
+nbao:coach_jordaed01 a nbao:Coach ;
+    nbao:birthdate "1955-01-29"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1114,
+        nbao:coachstat_1149,
+        nbao:coachstat_1347,
+        nbao:coachstat_1383,
+        nbao:coachstat_1422,
+        nbao:coachstat_1453,
+        nbao:coachstat_1483,
+        nbao:coachstat_1522,
+        nbao:coachstat_1558 ;
+    foaf:name "Edward Jordan"^^xsd:string .
+
+nbao:coach_kauffbo01 a nbao:Coach ;
+    nbao:birthdate "1946-07-13"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_564 ;
+    foaf:name "Robert Kauffman"^^xsd:string .
+
+nbao:coach_laniebo01 a nbao:Coach ;
+    nbao:birthdate "1948-09-10"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1047 ;
+    foaf:name "Robert Lanier"^^xsd:string .
+
+nbao:coach_leonasl01 a nbao:Coach ;
+    nbao:birthdate "1932-07-17"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_537,
+        nbao:coachstat_565,
+        nbao:coachstat_589,
+        nbao:coachstat_616 ;
+    foaf:name "William Leonard"^^xsd:string .
+
+nbao:coach_littlge01 a nbao:Coach ;
+    nbao:birthdate "1943-06-29"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1048 ;
+    foaf:name "Eugene Littles"^^xsd:string .
+
+nbao:coach_maclejo01 a nbao:Coach ;
+    nbao:birthdate "1937-10-03"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_826,
+        nbao:coachstat_857,
+        nbao:coachstat_891 ;
+    foaf:name "John MacLeod"^^xsd:string .
+
+nbao:coach_mccloja01 a nbao:Coach ;
+    nbao:birthdate "1925-09-19"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_419,
+        nbao:coachstat_448 ;
+    foaf:name "John McCloskey"^^xsd:string .
+
+nbao:coach_mcguidi01 a nbao:Coach ;
+    nbao:birthdate "1926-01-25"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_164,
+        nbao:coachstat_172,
+        nbao:coachstat_180,
+        nbao:coachstat_193 ;
+    foaf:name "Richard McGuire"^^xsd:string .
+
+nbao:coach_mcmilna01 a nbao:Coach ;
+    nbao:birthdate "1964-08-03"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1424,
+        nbao:coachstat_1456,
+        nbao:coachstat_1486,
+        nbao:coachstat_1525,
+        nbao:coachstat_1561,
+        nbao:coachstat_1592,
+        nbao:coachstat_1635 ;
+    foaf:name "Nathaniel McMillan"^^xsd:string .
+
+nbao:coach_montgmi01 a nbao:Coach ;
+    nbao:birthdate "1947-02-27"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1389,
+        nbao:coachstat_1426 ;
+    foaf:name "Mike Montgomery"^^xsd:string .
+
+nbao:coach_myerspe01 a nbao:Coach ;
+    nbao:birthdate "1963-09-15"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1350,
+        nbao:coachstat_1488 ;
+    foaf:name "Peter Myers"^^xsd:string .
+
+nbao:coach_nattke01 a nbao:Coach ;
+    nbao:birthdate "1958-10-05"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1527 ;
+    foaf:name "Kenneth Natt"^^xsd:string .
+
+nbao:coach_obrieji03 a nbao:Coach ;
+    nbao:birthdate "1952-02-11"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1391,
+        nbao:coachstat_1490,
+        nbao:coachstat_1529,
+        nbao:coachstat_1563,
+        nbao:coachstat_1593 ;
+    foaf:name "Jim O'Brien"^^xsd:string .
+
+nbao:coach_rambiku01 a nbao:Coach ;
+    nbao:birthdate "1958-02-25"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1186,
+        nbao:coachstat_1565,
+        nbao:coachstat_1595 ;
+    foaf:name "Darrell Rambis"^^xsd:string .
+
+nbao:coach_ramsaja01 a nbao:Coach ;
+    nbao:birthdate "1925-02-21"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_287,
+        nbao:coachstat_323,
+        nbao:coachstat_353,
+        nbao:coachstat_389,
+        nbao:coachstat_547,
+        nbao:coachstat_572,
+        nbao:coachstat_596,
+        nbao:coachstat_624,
+        nbao:coachstat_650,
+        nbao:coachstat_679,
+        nbao:coachstat_705,
+        nbao:coachstat_732,
+        nbao:coachstat_757,
+        nbao:coachstat_782,
+        nbao:coachstat_804,
+        nbao:coachstat_829,
+        nbao:coachstat_862 ;
+    foaf:name "Jack Ramsay"^^xsd:string .
+
+nbao:coach_rochare01 a nbao:Coach ;
+    nbao:birthdate "1923-09-18"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_143,
+        nbao:coachstat_154,
+        nbao:coachstat_166 ;
+    foaf:name "Ephraim Rocha"^^xsd:string .
+
+nbao:coach_russebi01 a nbao:Coach ;
+    nbao:birthdate "1934-02-12"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_833 ;
+    foaf:name "William Russell"^^xsd:string .
+
+nbao:coach_saundfl01 a nbao:Coach ;
+    nbao:birthdate "1955-02-23"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1084,
+        nbao:coachstat_1120,
+        nbao:coachstat_1155,
+        nbao:coachstat_1188,
+        nbao:coachstat_1218,
+        nbao:coachstat_1250,
+        nbao:coachstat_1286,
+        nbao:coachstat_1320,
+        nbao:coachstat_1357,
+        nbao:coachstat_1396,
+        nbao:coachstat_1430,
+        nbao:coachstat_1463,
+        nbao:coachstat_1494,
+        nbao:coachstat_1567,
+        nbao:coachstat_1597,
+        nbao:coachstat_1642 ;
+    foaf:name "Flip Saunders"^^xsd:string .
+
+nbao:coach_schaufr01 a nbao:Coach ;
+    nbao:birthdate "1925-06-30"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_173,
+        nbao:coachstat_184,
+        nbao:coachstat_195,
+        nbao:coachstat_203,
+        nbao:coachstat_215,
+        nbao:coachstat_225,
+        nbao:coachstat_238 ;
+    foaf:name "Frederick Schaus"^^xsd:string .
+
+nbao:coach_sloanje01 a nbao:Coach ;
+    nbao:birthdate "1942-03-28"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1022,
+        nbao:coachstat_1055,
+        nbao:coachstat_1085,
+        nbao:coachstat_1121,
+        nbao:coachstat_1156,
+        nbao:coachstat_1190,
+        nbao:coachstat_1221,
+        nbao:coachstat_1254,
+        nbao:coachstat_1290,
+        nbao:coachstat_1323,
+        nbao:coachstat_1361,
+        nbao:coachstat_1400,
+        nbao:coachstat_1433,
+        nbao:coachstat_1466,
+        nbao:coachstat_1497,
+        nbao:coachstat_1535,
+        nbao:coachstat_1570,
+        nbao:coachstat_1601,
+        nbao:coachstat_626,
+        nbao:coachstat_654,
+        nbao:coachstat_684,
+        nbao:coachstat_870,
+        nbao:coachstat_900,
+        nbao:coachstat_927,
+        nbao:coachstat_962,
+        nbao:coachstat_992 ;
+    foaf:name "Gerald Sloan"^^xsd:string .
+
+nbao:coach_smartke01 a nbao:Coach ;
+    nbao:birthdate "1964-09-21"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1602,
+        nbao:coachstat_1638 ;
+    foaf:name "Jonathan Smart"^^xsd:string .
+
+nbao:coach_thornro01 a nbao:Coach ;
+    nbao:birthdate "1941-05-23"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_685 ;
+    foaf:name "Rodney Thorn"^^xsd:string .
+
+nbao:coach_toddro01 a nbao:Coach ;
+    nbao:birthdate "1934-04-26"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_360,
+        nbao:coachstat_393 ;
+    foaf:name "Rolland Todd"^^xsd:string .
+
+nbao:coach_tomjaru01 a nbao:Coach ;
+    nbao:birthdate "1948-11-24"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1024,
+        nbao:coachstat_1057,
+        nbao:coachstat_1087,
+        nbao:coachstat_1124,
+        nbao:coachstat_1157,
+        nbao:coachstat_1191,
+        nbao:coachstat_1224,
+        nbao:coachstat_1256,
+        nbao:coachstat_1292,
+        nbao:coachstat_1327,
+        nbao:coachstat_1401,
+        nbao:coachstat_963,
+        nbao:coachstat_995 ;
+    foaf:name "Rudolph Tomjanovich"^^xsd:string .
+
+nbao:coach_vanguje01 a nbao:Coach ;
+    nbao:birthdate "1962-01-19"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1363,
+        nbao:coachstat_1402,
+        nbao:coachstat_1435,
+        nbao:coachstat_1469 ;
+    foaf:name "Jeff Van Gundy"^^xsd:string .
+
+nbao:coach_vangust01 a nbao:Coach ;
+    nbao:birthdate "1959-08-26"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1364,
+        nbao:coachstat_1403,
+        nbao:coachstat_1436 ;
+    foaf:name "Stan Van Gundy"^^xsd:string .
+
+nbao:coach_versadi01 a nbao:Coach ;
+    nbao:birthdate "1940-04-16"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_872,
+        nbao:coachstat_902,
+        nbao:coachstat_929 ;
+    foaf:name "Dick Versace"^^xsd:string .
+
+nbao:coach_vitaldi01 a nbao:Coach ;
+    nbao:birthdate "1939-06-09"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_601,
+        nbao:coachstat_627 ;
+    foaf:name "Dick Vitale"^^xsd:string .
+
+nbao:coach_weissbo01 a nbao:Coach ;
+    nbao:birthdate "1942-05-07"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1026,
+        nbao:coachstat_809,
+        nbao:coachstat_837,
+        nbao:coachstat_930,
+        nbao:coachstat_965,
+        nbao:coachstat_997 ;
+    foaf:name "Robert Weiss"^^xsd:string .
+
+nbao:coach_woodsmi01 a nbao:Coach ;
+    nbao:birthdate "1958-03-24"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1406,
+        nbao:coachstat_1438,
+        nbao:coachstat_1471,
+        nbao:coachstat_1503,
+        nbao:coachstat_1542,
+        nbao:coachstat_1576 ;
+    foaf:name "Michael Woodson"^^xsd:string .
+
+nbao:player_101 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1360,
+        nbao:coachstat_1399,
+        nbao:coachstat_1432,
+        nbao:coachstat_1465,
+        nbao:coachstat_1496,
+        nbao:coachstat_1534,
+        nbao:coachstat_1569,
+        nbao:coachstat_1600,
+        nbao:coachstat_1625 .
+
+nbao:player_1061 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_558,
+        nbao:coachstat_585,
+        nbao:coachstat_611,
+        nbao:coachstat_634,
+        nbao:coachstat_661,
+        nbao:coachstat_693,
+        nbao:coachstat_716,
+        nbao:coachstat_740 .
+
+nbao:player_1450 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1386,
+        nbao:coachstat_1524,
+        nbao:coachstat_1619 .
+
+nbao:player_1456 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1470,
+        nbao:coachstat_1502,
+        nbao:coachstat_1541,
+        nbao:coachstat_1643 .
+
+nbao:player_1474 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1455,
+        nbao:coachstat_1485 .
+
+nbao:player_340 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1394 .
+
+nbao:player_345 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1355,
+        nbao:coachstat_1393 .
+
+nbao:player_688 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1511 .
+
+nbao:player_76336 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_939 .
+
+nbao:player_76385 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1267,
+        nbao:coachstat_1303,
+        nbao:coachstat_1338,
+        nbao:coachstat_1373,
+        nbao:coachstat_1413,
+        nbao:coachstat_1444,
+        nbao:coachstat_1476,
+        nbao:coachstat_1510 .
+
+nbao:player_76444 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1374 .
+
+nbao:player_76526 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1104,
+        nbao:coachstat_1513 .
+
+nbao:player_76577 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_372 .
+
+nbao:player_76599 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1585,
+        nbao:coachstat_1610 .
+
+nbao:player_76985 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1206,
+        nbao:coachstat_977 .
+
+nbao:player_77043 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1519,
+        nbao:coachstat_1555,
+        nbao:coachstat_1587,
+        nbao:coachstat_1623 .
+
+nbao:player_77078 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1556 .
+
+nbao:player_77141 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1307 .
+
+nbao:player_77223 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1182,
+        nbao:coachstat_1212,
+        nbao:coachstat_1240,
+        nbao:coachstat_1276,
+        nbao:coachstat_1309,
+        nbao:coachstat_1384,
+        nbao:coachstat_1423,
+        nbao:coachstat_1454,
+        nbao:coachstat_1484,
+        nbao:coachstat_1523,
+        nbao:coachstat_1559,
+        nbao:coachstat_1590,
+        nbao:coachstat_1616,
+        nbao:coachstat_797,
+        nbao:coachstat_821 .
+
+nbao:player_77320 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1560,
+        nbao:coachstat_1591 .
+
+nbao:player_77394 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_381,
+        nbao:coachstat_416 .
+
+nbao:player_77411 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1016,
+        nbao:coachstat_1049,
+        nbao:coachstat_417,
+        nbao:coachstat_671,
+        nbao:coachstat_698,
+        nbao:coachstat_723,
+        nbao:coachstat_750,
+        nbao:coachstat_955,
+        nbao:coachstat_983 .
+
+nbao:player_77415 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1017,
+        nbao:coachstat_1278,
+        nbao:coachstat_1311,
+        nbao:coachstat_984 .
+
+nbao:player_77419 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1018,
+        nbao:coachstat_1050,
+        nbao:coachstat_1078,
+        nbao:coachstat_985 .
+
+nbao:player_78117 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_290 .
+
+nbao:player_78151 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1599,
+        nbao:coachstat_1612 .
+
+nbao:player_78310 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1498,
+        nbao:coachstat_1538 .
+
+nbao:player_78318 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1255,
+        nbao:coachstat_1291,
+        nbao:coachstat_1326 .
+
+nbao:player_78437 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1126,
+        nbao:coachstat_1159,
+        nbao:coachstat_1226 .
+
+nbao:player_78497 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_551,
+        nbao:coachstat_577,
+        nbao:coachstat_603 .
+
+nbao:player_78500 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1575,
+        nbao:coachstat_1608,
+        nbao:coachstat_1637 .
+
+nbao:player_78600 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1295 .
+
+nbao:player_895 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1582,
+        nbao:coachstat_1641 .
+
+nbao:coach_auerbre01 a nbao:Coach ;
+    nbao:birthdate "1917-09-20"^^xsd:date ;
+    foaf:name "Red Auerbach"^^xsd:string .
+
+nbao:coach_biancal01 a nbao:Coach ;
+    nbao:birthdate "1932-03-26"^^xsd:date ;
+    foaf:name "Alfred Bianchi"^^xsd:string .
+
+nbao:coach_carliri01 a nbao:Coach ;
+    nbao:birthdate "1959-10-27"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1264,
+        nbao:coachstat_1300,
+        nbao:coachstat_1334,
+        nbao:coachstat_1372,
+        nbao:coachstat_1411,
+        nbao:coachstat_1442,
+        nbao:coachstat_1509,
+        nbao:coachstat_1549,
+        nbao:coachstat_1580,
+        nbao:coachstat_1615 ;
+    foaf:name "Richard Carlisle"^^xsd:string .
+
+nbao:coach_chanedo01 a nbao:Coach ;
+    nbao:birthdate "1946-03-22"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1006,
+        nbao:coachstat_1035,
+        nbao:coachstat_739,
+        nbao:coachstat_765,
+        nbao:coachstat_788,
+        nbao:coachstat_845,
+        nbao:coachstat_879,
+        nbao:coachstat_907,
+        nbao:coachstat_940 ;
+    foaf:name "Donald Chaney"^^xsd:string .
+
+nbao:coach_dantomi01 a nbao:Coach ;
+    nbao:birthdate "1951-05-08"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1174 ;
+    foaf:name "Michael D'Antoni"^^xsd:string .
+
+nbao:coach_dunlemi01 a nbao:Coach ;
+    nbao:birthdate "1954-03-21"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1008,
+        nbao:coachstat_1036,
+        nbao:coachstat_1069,
+        nbao:coachstat_1140,
+        nbao:coachstat_1175,
+        nbao:coachstat_1202,
+        nbao:coachstat_1233,
+        nbao:coachstat_1341,
+        nbao:coachstat_1377,
+        nbao:coachstat_1415,
+        nbao:coachstat_1446,
+        nbao:coachstat_1478,
+        nbao:coachstat_1516,
+        nbao:coachstat_1552,
+        nbao:coachstat_909,
+        nbao:coachstat_942,
+        nbao:coachstat_974 ;
+    foaf:name "Michael Dunleavy"^^xsd:string .
+
+nbao:coach_fratemi01 a nbao:Coach ;
+    nbao:birthdate "1947-02-24"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1379,
+        nbao:coachstat_1417,
+        nbao:coachstat_1448,
+        nbao:coachstat_638,
+        nbao:coachstat_720,
+        nbao:coachstat_744,
+        nbao:coachstat_769,
+        nbao:coachstat_792,
+        nbao:coachstat_816,
+        nbao:coachstat_850,
+        nbao:coachstat_883 ;
+    foaf:name "Mike Fratello"^^xsd:string .
+
+nbao:coach_gueriri01 a nbao:Coach ;
+    nbao:birthdate "1932-05-29"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_271,
+        nbao:coachstat_306,
+        nbao:coachstat_343,
+        nbao:coachstat_375 ;
+    foaf:name "Richard Guerin"^^xsd:string .
+
+nbao:coach_heinsto01 a nbao:Coach ;
+    nbao:birthdate "1934-08-26"^^xsd:date ;
+    foaf:name "Thomas Heinsohn"^^xsd:string .
+
+nbao:coach_holzmre01 a nbao:Coach ;
+    nbao:birthdate "1920-08-10"^^xsd:date ;
+    foaf:name "William Holzman"^^xsd:string .
+
+nbao:coach_jacksph01 a nbao:Coach ;
+    nbao:birthdate "1945-09-17"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1013,
+        nbao:coachstat_1045,
+        nbao:coachstat_1076,
+        nbao:coachstat_1112,
+        nbao:coachstat_1148,
+        nbao:coachstat_1211,
+        nbao:coachstat_1239,
+        nbao:coachstat_1274,
+        nbao:coachstat_1306,
+        nbao:coachstat_1345,
+        nbao:coachstat_1420,
+        nbao:coachstat_1451,
+        nbao:coachstat_1481,
+        nbao:coachstat_1521,
+        nbao:coachstat_1557,
+        nbao:coachstat_1588,
+        nbao:coachstat_887,
+        nbao:coachstat_916,
+        nbao:coachstat_951,
+        nbao:coachstat_981 ;
+    foaf:name "Philip Jackson"^^xsd:string .
+
+nbao:coach_kerrjo01 a nbao:Coach ;
+    nbao:birthdate "1932-08-17"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_234,
+        nbao:coachstat_254 ;
+    foaf:name "John Kerr"^^xsd:string .
+
+nbao:coach_mitchsa01 a nbao:Coach ;
+    nbao:birthdate "1963-09-02"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1388,
+        nbao:coachstat_1425,
+        nbao:coachstat_1457,
+        nbao:coachstat_1487,
+        nbao:coachstat_1526 ;
+    foaf:name "Samuel Mitchell"^^xsd:string .
+
+nbao:coach_moedo01 a nbao:Coach ;
+    nbao:birthdate "1938-09-21"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_542,
+        nbao:coachstat_568,
+        nbao:coachstat_592,
+        nbao:coachstat_620,
+        nbao:coachstat_645,
+        nbao:coachstat_674,
+        nbao:coachstat_701,
+        nbao:coachstat_728,
+        nbao:coachstat_754,
+        nbao:coachstat_779,
+        nbao:coachstat_801,
+        nbao:coachstat_827,
+        nbao:coachstat_858,
+        nbao:coachstat_892,
+        nbao:coachstat_986 ;
+    foaf:name "Douglas Moe"^^xsd:string .
+
+nbao:coach_mottadi01 a nbao:Coach ;
+    nbao:birthdate "1931-09-03"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1052,
+        nbao:coachstat_1081,
+        nbao:coachstat_1117,
+        nbao:coachstat_285,
+        nbao:coachstat_320,
+        nbao:coachstat_351,
+        nbao:coachstat_386,
+        nbao:coachstat_420,
+        nbao:coachstat_449,
+        nbao:coachstat_479,
+        nbao:coachstat_512,
+        nbao:coachstat_646,
+        nbao:coachstat_675,
+        nbao:coachstat_702,
+        nbao:coachstat_729,
+        nbao:coachstat_755,
+        nbao:coachstat_780,
+        nbao:coachstat_802,
+        nbao:coachstat_893,
+        nbao:coachstat_922,
+        nbao:coachstat_957 ;
+    foaf:name "Dick Motta"^^xsd:string .
+
+nbao:coach_mullajo01 a nbao:Coach ;
+    nbao:birthdate "1925-11-17"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_321,
+        nbao:coachstat_352 ;
+    foaf:name "Joseph Mullaney"^^xsd:string .
+
+nbao:coach_riverdo01 a nbao:Coach ;
+    nbao:birthdate "1961-10-13"^^xsd:date ;
+    foaf:name "Glenn Rivers"^^xsd:string .
+
+nbao:coach_schaydo01 a nbao:Coach ;
+    nbao:birthdate "1928-05-19"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_204,
+        nbao:coachstat_216,
+        nbao:coachstat_226 ;
+    foaf:name "Adolph Schayes"^^xsd:string .
+
+nbao:coach_scottra01 a nbao:Coach ;
+    nbao:birthdate "1938-07-12"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_425,
+        nbao:coachstat_454,
+        nbao:coachstat_486,
+        nbao:coachstat_519 ;
+    foaf:name "John Scott"^^xsd:string .
+
+nbao:coach_wilkele01 a nbao:Coach ;
+    nbao:birthdate "1937-10-28"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1028,
+        nbao:coachstat_1059,
+        nbao:coachstat_1090,
+        nbao:coachstat_1127,
+        nbao:coachstat_1160,
+        nbao:coachstat_1194,
+        nbao:coachstat_1228,
+        nbao:coachstat_1259,
+        nbao:coachstat_1294,
+        nbao:coachstat_1328,
+        nbao:coachstat_491,
+        nbao:coachstat_525 ;
+    foaf:name "Leonard Wilkens"^^xsd:string .
+
+nbao:coachstat_1000 a nbao:CoachStat ;
+    nbao:coachYear "1993"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_1003 a nbao:CoachStat ;
+    nbao:coachYear "1993"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_1004 a nbao:CoachStat ;
+    nbao:coachYear "1993"^^xsd:gYear ;
+    nbao:lostNum "69"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "13"^^xsd:int .
+
+nbao:coachstat_1005 a nbao:CoachStat ;
+    nbao:coachYear "1993"^^xsd:gYear ;
+    nbao:lostNum "57"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "25"^^xsd:int .
+
+nbao:coachstat_1006 a nbao:CoachStat ;
+    nbao:coachYear "1993"^^xsd:gYear ;
+    nbao:lostNum "62"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "20"^^xsd:int .
+
+nbao:coachstat_1008 a nbao:CoachStat ;
+    nbao:coachYear "1993"^^xsd:gYear ;
+    nbao:lostNum "62"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "20"^^xsd:int .
+
+nbao:coachstat_1012 a nbao:CoachStat ;
+    nbao:coachYear "1993"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_1013 a nbao:CoachStat ;
+    nbao:coachYear "1993"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "55"^^xsd:int .
+
+nbao:coachstat_1014 a nbao:CoachStat ;
+    nbao:coachYear "1993"^^xsd:gYear ;
+    nbao:lostNum "11"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "5"^^xsd:int .
+
+nbao:coachstat_1016 a nbao:CoachStat ;
+    nbao:coachYear "1993"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612748 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_1017 a nbao:CoachStat ;
+    nbao:coachYear "1993"^^xsd:gYear ;
+    nbao:lostNum "62"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "20"^^xsd:int .
+
+nbao:coachstat_1018 a nbao:CoachStat ;
+    nbao:coachYear "1993"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612759 ;
+    nbao:wonNum "55"^^xsd:int .
+
+nbao:coachstat_1019 a nbao:CoachStat ;
+    nbao:coachYear "1993"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_1022 a nbao:CoachStat ;
+    nbao:coachYear "1993"^^xsd:gYear ;
+    nbao:lostNum "29"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "53"^^xsd:int .
+
+nbao:coachstat_1024 a nbao:CoachStat ;
+    nbao:coachYear "1993"^^xsd:gYear ;
+    nbao:lostNum "24"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "58"^^xsd:int .
+
+nbao:coachstat_1026 a nbao:CoachStat ;
+    nbao:coachYear "1993"^^xsd:gYear ;
+    nbao:lostNum "55"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "27"^^xsd:int .
+
+nbao:coachstat_1028 a nbao:CoachStat ;
+    nbao:coachYear "1993"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "57"^^xsd:int .
+
+nbao:coachstat_1030 a nbao:CoachStat ;
+    nbao:coachYear "1994"^^xsd:gYear ;
+    nbao:lostNum "12"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "20"^^xsd:int .
+
+nbao:coachstat_1033 a nbao:CoachStat ;
+    nbao:coachYear "1994"^^xsd:gYear ;
+    nbao:lostNum "30"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "52"^^xsd:int .
+
+nbao:coachstat_1035 a nbao:CoachStat ;
+    nbao:coachYear "1994"^^xsd:gYear ;
+    nbao:lostNum "54"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "28"^^xsd:int .
+
+nbao:coachstat_1036 a nbao:CoachStat ;
+    nbao:coachYear "1994"^^xsd:gYear ;
+    nbao:lostNum "48"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "34"^^xsd:int .
+
+nbao:coachstat_1037 a nbao:CoachStat ;
+    nbao:coachYear "1994"^^xsd:gYear ;
+    nbao:lostNum "65"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "17"^^xsd:int .
+
+nbao:coachstat_1041 a nbao:CoachStat ;
+    nbao:coachYear "1994"^^xsd:gYear ;
+    nbao:lostNum "34"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "48"^^xsd:int .
+
+nbao:coachstat_1044 a nbao:CoachStat ;
+    nbao:coachYear "1994"^^xsd:gYear ;
+    nbao:lostNum "16"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "18"^^xsd:int .
+
+nbao:coachstat_1045 a nbao:CoachStat ;
+    nbao:coachYear "1994"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_1047 a nbao:CoachStat ;
+    nbao:coachYear "1994"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "12"^^xsd:int .
+
+nbao:coachstat_1048 a nbao:CoachStat ;
+    nbao:coachYear "1994"^^xsd:gYear ;
+    nbao:lostNum "13"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "3"^^xsd:int .
+
+nbao:coachstat_1049 a nbao:CoachStat ;
+    nbao:coachYear "1994"^^xsd:gYear ;
+    nbao:lostNum "29"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612748 ;
+    nbao:wonNum "17"^^xsd:int .
+
+nbao:coachstat_1050 a nbao:CoachStat ;
+    nbao:coachYear "1994"^^xsd:gYear ;
+    nbao:lostNum "58"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "24"^^xsd:int .
+
+nbao:coachstat_1052 a nbao:CoachStat ;
+    nbao:coachYear "1994"^^xsd:gYear ;
+    nbao:lostNum "46"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "36"^^xsd:int .
+
+nbao:coachstat_1053 a nbao:CoachStat ;
+    nbao:coachYear "1994"^^xsd:gYear ;
+    nbao:lostNum "31"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "14"^^xsd:int .
+
+nbao:coachstat_1055 a nbao:CoachStat ;
+    nbao:coachYear "1994"^^xsd:gYear ;
+    nbao:lostNum "22"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "60"^^xsd:int .
+
+nbao:coachstat_1057 a nbao:CoachStat ;
+    nbao:coachYear "1994"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_1059 a nbao:CoachStat ;
+    nbao:coachYear "1994"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_1060 a nbao:CoachStat ;
+    nbao:coachYear "1995"^^xsd:gYear ;
+    nbao:lostNum "46"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "36"^^xsd:int .
+
+nbao:coachstat_1062 a nbao:CoachStat ;
+    nbao:coachYear "1995"^^xsd:gYear ;
+    nbao:lostNum "47"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "35"^^xsd:int .
+
+nbao:coachstat_1065 a nbao:CoachStat ;
+    nbao:coachYear "1995"^^xsd:gYear ;
+    nbao:lostNum "30"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "52"^^xsd:int .
+
+nbao:coachstat_1068 a nbao:CoachStat ;
+    nbao:coachYear "1995"^^xsd:gYear ;
+    nbao:lostNum "36"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "46"^^xsd:int .
+
+nbao:coachstat_1069 a nbao:CoachStat ;
+    nbao:coachYear "1995"^^xsd:gYear ;
+    nbao:lostNum "57"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "25"^^xsd:int .
+
+nbao:coachstat_1070 a nbao:CoachStat ;
+    nbao:coachYear "1995"^^xsd:gYear ;
+    nbao:lostNum "53"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "29"^^xsd:int .
+
+nbao:coachstat_1073 a nbao:CoachStat ;
+    nbao:coachYear "1995"^^xsd:gYear ;
+    nbao:lostNum "29"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "53"^^xsd:int .
+
+nbao:coachstat_1076 a nbao:CoachStat ;
+    nbao:coachYear "1995"^^xsd:gYear ;
+    nbao:lostNum "10"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "72"^^xsd:int .
+
+nbao:coachstat_1078 a nbao:CoachStat ;
+    nbao:coachYear "1995"^^xsd:gYear ;
+    nbao:lostNum "64"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "18"^^xsd:int .
+
+nbao:coachstat_1081 a nbao:CoachStat ;
+    nbao:coachYear "1995"^^xsd:gYear ;
+    nbao:lostNum "56"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "26"^^xsd:int .
+
+nbao:coachstat_1083 a nbao:CoachStat ;
+    nbao:coachYear "1995"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612748 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_1084 a nbao:CoachStat ;
+    nbao:coachYear "1995"^^xsd:gYear ;
+    nbao:lostNum "42"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "20"^^xsd:int .
+
+nbao:coachstat_1085 a nbao:CoachStat ;
+    nbao:coachYear "1995"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "55"^^xsd:int .
+
+nbao:coachstat_1087 a nbao:CoachStat ;
+    nbao:coachYear "1995"^^xsd:gYear ;
+    nbao:lostNum "34"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "48"^^xsd:int .
+
+nbao:coachstat_1090 a nbao:CoachStat ;
+    nbao:coachYear "1995"^^xsd:gYear ;
+    nbao:lostNum "36"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "46"^^xsd:int .
+
+nbao:coachstat_1092 a nbao:CoachStat ;
+    nbao:coachYear "1996"^^xsd:gYear ;
+    nbao:lostNum "52"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "30"^^xsd:int .
+
+nbao:coachstat_1095 a nbao:CoachStat ;
+    nbao:coachYear "1996"^^xsd:gYear ;
+    nbao:lostNum "9"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "4"^^xsd:int .
+
+nbao:coachstat_1097 a nbao:CoachStat ;
+    nbao:coachYear "1996"^^xsd:gYear ;
+    nbao:lostNum "43"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "39"^^xsd:int .
+
+nbao:coachstat_1101 a nbao:CoachStat ;
+    nbao:coachYear "1996"^^xsd:gYear ;
+    nbao:lostNum "58"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "24"^^xsd:int .
+
+nbao:coachstat_1102 a nbao:CoachStat ;
+    nbao:coachYear "1996"^^xsd:gYear ;
+    nbao:lostNum "28"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "54"^^xsd:int .
+
+nbao:coachstat_1104 a nbao:CoachStat ;
+    nbao:coachYear "1996"^^xsd:gYear ;
+    nbao:lostNum "60"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "22"^^xsd:int .
+
+nbao:coachstat_1105 a nbao:CoachStat ;
+    nbao:coachYear "1996"^^xsd:gYear ;
+    nbao:lostNum "46"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "36"^^xsd:int .
+
+nbao:coachstat_1107 a nbao:CoachStat ;
+    nbao:coachYear "1996"^^xsd:gYear ;
+    nbao:lostNum "49"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "33"^^xsd:int .
+
+nbao:coachstat_1109 a nbao:CoachStat ;
+    nbao:coachYear "1996"^^xsd:gYear ;
+    nbao:lostNum "26"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "56"^^xsd:int .
+
+nbao:coachstat_1112 a nbao:CoachStat ;
+    nbao:coachYear "1996"^^xsd:gYear ;
+    nbao:lostNum "13"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "69"^^xsd:int .
+
+nbao:coachstat_1114 a nbao:CoachStat ;
+    nbao:coachYear "1996"^^xsd:gYear ;
+    nbao:lostNum "9"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "6"^^xsd:int .
+
+nbao:coachstat_1117 a nbao:CoachStat ;
+    nbao:coachYear "1996"^^xsd:gYear ;
+    nbao:lostNum "52"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "17"^^xsd:int .
+
+nbao:coachstat_1119 a nbao:CoachStat ;
+    nbao:coachYear "1996"^^xsd:gYear ;
+    nbao:lostNum "21"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612748 ;
+    nbao:wonNum "61"^^xsd:int .
+
+nbao:coachstat_1120 a nbao:CoachStat ;
+    nbao:coachYear "1996"^^xsd:gYear ;
+    nbao:lostNum "42"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "40"^^xsd:int .
+
+nbao:coachstat_1121 a nbao:CoachStat ;
+    nbao:coachYear "1996"^^xsd:gYear ;
+    nbao:lostNum "18"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "64"^^xsd:int .
+
+nbao:coachstat_1124 a nbao:CoachStat ;
+    nbao:coachYear "1996"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "57"^^xsd:int .
+
+nbao:coachstat_1126 a nbao:CoachStat ;
+    nbao:coachYear "1996"^^xsd:gYear ;
+    nbao:lostNum "52"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612761 ;
+    nbao:wonNum "30"^^xsd:int .
+
+nbao:coachstat_1127 a nbao:CoachStat ;
+    nbao:coachYear "1996"^^xsd:gYear ;
+    nbao:lostNum "26"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "56"^^xsd:int .
+
+nbao:coachstat_1130 a nbao:CoachStat ;
+    nbao:coachYear "1997"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612764 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_1131 a nbao:CoachStat ;
+    nbao:coachYear "1997"^^xsd:gYear ;
+    nbao:lostNum "24"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "58"^^xsd:int .
+
+nbao:coachstat_1132 a nbao:CoachStat ;
+    nbao:coachYear "1997"^^xsd:gYear ;
+    nbao:lostNum "51"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "31"^^xsd:int .
+
+nbao:coachstat_1135 a nbao:CoachStat ;
+    nbao:coachYear "1997"^^xsd:gYear ;
+    nbao:lostNum "28"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612761 ;
+    nbao:wonNum "5"^^xsd:int .
+
+nbao:coachstat_1136 a nbao:CoachStat ;
+    nbao:coachYear "1997"^^xsd:gYear ;
+    nbao:lostNum "12"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "4"^^xsd:int .
+
+nbao:coachstat_1137 a nbao:CoachStat ;
+    nbao:coachYear "1997"^^xsd:gYear ;
+    nbao:lostNum "24"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "21"^^xsd:int .
+
+nbao:coachstat_1140 a nbao:CoachStat ;
+    nbao:coachYear "1997"^^xsd:gYear ;
+    nbao:lostNum "36"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "46"^^xsd:int .
+
+nbao:coachstat_1141 a nbao:CoachStat ;
+    nbao:coachYear "1997"^^xsd:gYear ;
+    nbao:lostNum "65"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "17"^^xsd:int .
+
+nbao:coachstat_1142 a nbao:CoachStat ;
+    nbao:coachYear "1997"^^xsd:gYear ;
+    nbao:lostNum "46"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "36"^^xsd:int .
+
+nbao:coachstat_1145 a nbao:CoachStat ;
+    nbao:coachYear "1997"^^xsd:gYear ;
+    nbao:lostNum "71"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "11"^^xsd:int .
+
+nbao:coachstat_1146 a nbao:CoachStat ;
+    nbao:coachYear "1997"^^xsd:gYear ;
+    nbao:lostNum "21"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "61"^^xsd:int .
+
+nbao:coachstat_1148 a nbao:CoachStat ;
+    nbao:coachYear "1997"^^xsd:gYear ;
+    nbao:lostNum "20"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "62"^^xsd:int .
+
+nbao:coachstat_1149 a nbao:CoachStat ;
+    nbao:coachYear "1997"^^xsd:gYear ;
+    nbao:lostNum "55"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "27"^^xsd:int .
+
+nbao:coachstat_1151 a nbao:CoachStat ;
+    nbao:coachYear "1997"^^xsd:gYear ;
+    nbao:lostNum "50"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "16"^^xsd:int .
+
+nbao:coachstat_1154 a nbao:CoachStat ;
+    nbao:coachYear "1997"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612748 ;
+    nbao:wonNum "55"^^xsd:int .
+
+nbao:coachstat_1155 a nbao:CoachStat ;
+    nbao:coachYear "1997"^^xsd:gYear ;
+    nbao:lostNum "37"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "45"^^xsd:int .
+
+nbao:coachstat_1156 a nbao:CoachStat ;
+    nbao:coachYear "1997"^^xsd:gYear ;
+    nbao:lostNum "20"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "62"^^xsd:int .
+
+nbao:coachstat_1157 a nbao:CoachStat ;
+    nbao:coachYear "1997"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_1159 a nbao:CoachStat ;
+    nbao:coachYear "1997"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612761 ;
+    nbao:wonNum "11"^^xsd:int .
+
+nbao:coachstat_1160 a nbao:CoachStat ;
+    nbao:coachYear "1997"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_1161 a nbao:CoachStat ;
+    nbao:coachYear "1998"^^xsd:gYear ;
+    nbao:lostNum "23"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "27"^^xsd:int .
+
+nbao:coachstat_1164 a nbao:CoachStat ;
+    nbao:coachYear "1998"^^xsd:gYear ;
+    nbao:lostNum "19"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612764 ;
+    nbao:wonNum "13"^^xsd:int .
+
+nbao:coachstat_1165 a nbao:CoachStat ;
+    nbao:coachYear "1998"^^xsd:gYear ;
+    nbao:lostNum "17"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "33"^^xsd:int .
+
+nbao:coachstat_1167 a nbao:CoachStat ;
+    nbao:coachYear "1998"^^xsd:gYear ;
+    nbao:lostNum "22"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "28"^^xsd:int .
+
+nbao:coachstat_1170 a nbao:CoachStat ;
+    nbao:coachYear "1998"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612761 ;
+    nbao:wonNum "23"^^xsd:int .
+
+nbao:coachstat_1174 a nbao:CoachStat ;
+    nbao:coachYear "1998"^^xsd:gYear ;
+    nbao:lostNum "36"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "14"^^xsd:int .
+
+nbao:coachstat_1175 a nbao:CoachStat ;
+    nbao:coachYear "1998"^^xsd:gYear ;
+    nbao:lostNum "15"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "35"^^xsd:int .
+
+nbao:coachstat_1177 a nbao:CoachStat ;
+    nbao:coachYear "1998"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "9"^^xsd:int .
+
+nbao:coachstat_1180 a nbao:CoachStat ;
+    nbao:coachYear "1998"^^xsd:gYear ;
+    nbao:lostNum "6"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "6"^^xsd:int .
+
+nbao:coachstat_1182 a nbao:CoachStat ;
+    nbao:coachYear "1998"^^xsd:gYear ;
+    nbao:lostNum "22"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "28"^^xsd:int .
+
+nbao:coachstat_1183 a nbao:CoachStat ;
+    nbao:coachYear "1998"^^xsd:gYear ;
+    nbao:lostNum "31"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "19"^^xsd:int .
+
+nbao:coachstat_1186 a nbao:CoachStat ;
+    nbao:coachYear "1998"^^xsd:gYear ;
+    nbao:lostNum "13"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "24"^^xsd:int .
+
+nbao:coachstat_1187 a nbao:CoachStat ;
+    nbao:coachYear "1998"^^xsd:gYear ;
+    nbao:lostNum "17"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612748 ;
+    nbao:wonNum "33"^^xsd:int .
+
+nbao:coachstat_1188 a nbao:CoachStat ;
+    nbao:coachYear "1998"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "25"^^xsd:int .
+
+nbao:coachstat_1190 a nbao:CoachStat ;
+    nbao:coachYear "1998"^^xsd:gYear ;
+    nbao:lostNum "13"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "37"^^xsd:int .
+
+nbao:coachstat_1191 a nbao:CoachStat ;
+    nbao:coachYear "1998"^^xsd:gYear ;
+    nbao:lostNum "19"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "31"^^xsd:int .
+
+nbao:coachstat_1194 a nbao:CoachStat ;
+    nbao:coachYear "1998"^^xsd:gYear ;
+    nbao:lostNum "19"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "31"^^xsd:int .
+
+nbao:coachstat_1195 a nbao:CoachStat ;
+    nbao:coachYear "1999"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "44"^^xsd:int .
+
+nbao:coachstat_1197 a nbao:CoachStat ;
+    nbao:coachYear "1999"^^xsd:gYear ;
+    nbao:lostNum "26"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "56"^^xsd:int .
+
+nbao:coachstat_1198 a nbao:CoachStat ;
+    nbao:coachYear "1999"^^xsd:gYear ;
+    nbao:lostNum "33"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "49"^^xsd:int .
+
+nbao:coachstat_1200 a nbao:CoachStat ;
+    nbao:coachYear "1999"^^xsd:gYear ;
+    nbao:lostNum "37"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612761 ;
+    nbao:wonNum "45"^^xsd:int .
+
+nbao:coachstat_1202 a nbao:CoachStat ;
+    nbao:coachYear "1999"^^xsd:gYear ;
+    nbao:lostNum "23"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "59"^^xsd:int .
+
+nbao:coachstat_1204 a nbao:CoachStat ;
+    nbao:coachYear "1999"^^xsd:gYear ;
+    nbao:lostNum "34"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "11"^^xsd:int .
+
+nbao:coachstat_1206 a nbao:CoachStat ;
+    nbao:coachYear "1999"^^xsd:gYear ;
+    nbao:lostNum "30"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612764 ;
+    nbao:wonNum "14"^^xsd:int .
+
+nbao:coachstat_1209 a nbao:CoachStat ;
+    nbao:coachYear "1999"^^xsd:gYear ;
+    nbao:lostNum "10"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "14"^^xsd:int .
+
+nbao:coachstat_1210 a nbao:CoachStat ;
+    nbao:coachYear "1999"^^xsd:gYear ;
+    nbao:lostNum "47"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "35"^^xsd:int .
+
+nbao:coachstat_1211 a nbao:CoachStat ;
+    nbao:coachYear "1999"^^xsd:gYear ;
+    nbao:lostNum "15"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "67"^^xsd:int .
+
+nbao:coachstat_1212 a nbao:CoachStat ;
+    nbao:coachYear "1999"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_1213 a nbao:CoachStat ;
+    nbao:coachYear "1999"^^xsd:gYear ;
+    nbao:lostNum "42"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "40"^^xsd:int .
+
+nbao:coachstat_1216 a nbao:CoachStat ;
+    nbao:coachYear "1999"^^xsd:gYear ;
+    nbao:lostNum "30"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612748 ;
+    nbao:wonNum "52"^^xsd:int .
+
+nbao:coachstat_1218 a nbao:CoachStat ;
+    nbao:coachYear "1999"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_1221 a nbao:CoachStat ;
+    nbao:coachYear "1999"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "55"^^xsd:int .
+
+nbao:coachstat_1224 a nbao:CoachStat ;
+    nbao:coachYear "1999"^^xsd:gYear ;
+    nbao:lostNum "48"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "34"^^xsd:int .
+
+nbao:coachstat_1226 a nbao:CoachStat ;
+    nbao:coachYear "1999"^^xsd:gYear ;
+    nbao:lostNum "23"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612764 ;
+    nbao:wonNum "15"^^xsd:int .
+
+nbao:coachstat_1228 a nbao:CoachStat ;
+    nbao:coachYear "1999"^^xsd:gYear ;
+    nbao:lostNum "54"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "28"^^xsd:int .
+
+nbao:coachstat_1230 a nbao:CoachStat ;
+    nbao:coachYear "2000"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "55"^^xsd:int .
+
+nbao:coachstat_1231 a nbao:CoachStat ;
+    nbao:coachYear "2000"^^xsd:gYear ;
+    nbao:lostNum "26"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "56"^^xsd:int .
+
+nbao:coachstat_1232 a nbao:CoachStat ;
+    nbao:coachYear "2000"^^xsd:gYear ;
+    nbao:lostNum "65"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "17"^^xsd:int .
+
+nbao:coachstat_1233 a nbao:CoachStat ;
+    nbao:coachYear "2000"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_1237 a nbao:CoachStat ;
+    nbao:coachYear "2000"^^xsd:gYear ;
+    nbao:lostNum "50"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "32"^^xsd:int .
+
+nbao:coachstat_1238 a nbao:CoachStat ;
+    nbao:coachYear "2000"^^xsd:gYear ;
+    nbao:lostNum "42"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "40"^^xsd:int .
+
+nbao:coachstat_1239 a nbao:CoachStat ;
+    nbao:coachYear "2000"^^xsd:gYear ;
+    nbao:lostNum "26"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "56"^^xsd:int .
+
+nbao:coachstat_1240 a nbao:CoachStat ;
+    nbao:coachYear "2000"^^xsd:gYear ;
+    nbao:lostNum "30"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "52"^^xsd:int .
+
+nbao:coachstat_1244 a nbao:CoachStat ;
+    nbao:coachYear "2000"^^xsd:gYear ;
+    nbao:lostNum "29"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "53"^^xsd:int .
+
+nbao:coachstat_1248 a nbao:CoachStat ;
+    nbao:coachYear "2000"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612748 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_1250 a nbao:CoachStat ;
+    nbao:coachYear "2000"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_1254 a nbao:CoachStat ;
+    nbao:coachYear "2000"^^xsd:gYear ;
+    nbao:lostNum "29"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "53"^^xsd:int .
+
+nbao:coachstat_1255 a nbao:CoachStat ;
+    nbao:coachYear "2000"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_1256 a nbao:CoachStat ;
+    nbao:coachYear "2000"^^xsd:gYear ;
+    nbao:lostNum "37"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "45"^^xsd:int .
+
+nbao:coachstat_1259 a nbao:CoachStat ;
+    nbao:coachYear "2000"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612761 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_1261 a nbao:CoachStat ;
+    nbao:coachYear "2001"^^xsd:gYear ;
+    nbao:lostNum "21"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "61"^^xsd:int .
+
+nbao:coachstat_1263 a nbao:CoachStat ;
+    nbao:coachYear "2001"^^xsd:gYear ;
+    nbao:lostNum "39"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "43"^^xsd:int .
+
+nbao:coachstat_1264 a nbao:CoachStat ;
+    nbao:coachYear "2001"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_1265 a nbao:CoachStat ;
+    nbao:coachYear "2001"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "17"^^xsd:int .
+
+nbao:coachstat_1267 a nbao:CoachStat ;
+    nbao:coachYear "2001"^^xsd:gYear ;
+    nbao:lostNum "33"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "49"^^xsd:int .
+
+nbao:coachstat_1268 a nbao:CoachStat ;
+    nbao:coachYear "2001"^^xsd:gYear ;
+    nbao:lostNum "45"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612764 ;
+    nbao:wonNum "37"^^xsd:int .
+
+nbao:coachstat_1269 a nbao:CoachStat ;
+    nbao:coachYear "2001"^^xsd:gYear ;
+    nbao:lostNum "15"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "8"^^xsd:int .
+
+nbao:coachstat_1270 a nbao:CoachStat ;
+    nbao:coachYear "2001"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "18"^^xsd:int .
+
+nbao:coachstat_1273 a nbao:CoachStat ;
+    nbao:coachYear "2001"^^xsd:gYear ;
+    nbao:lostNum "17"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "9"^^xsd:int .
+
+nbao:coachstat_1274 a nbao:CoachStat ;
+    nbao:coachYear "2001"^^xsd:gYear ;
+    nbao:lostNum "24"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "58"^^xsd:int .
+
+nbao:coachstat_1276 a nbao:CoachStat ;
+    nbao:coachYear "2001"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_1278 a nbao:CoachStat ;
+    nbao:coachYear "2001"^^xsd:gYear ;
+    nbao:lostNum "59"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612763 ;
+    nbao:wonNum "23"^^xsd:int .
+
+nbao:coachstat_1281 a nbao:CoachStat ;
+    nbao:coachYear "2001"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "57"^^xsd:int .
+
+nbao:coachstat_1284 a nbao:CoachStat ;
+    nbao:coachYear "2001"^^xsd:gYear ;
+    nbao:lostNum "46"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612748 ;
+    nbao:wonNum "36"^^xsd:int .
+
+nbao:coachstat_1286 a nbao:CoachStat ;
+    nbao:coachYear "2001"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_1290 a nbao:CoachStat ;
+    nbao:coachYear "2001"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "44"^^xsd:int .
+
+nbao:coachstat_1291 a nbao:CoachStat ;
+    nbao:coachYear "2001"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_1292 a nbao:CoachStat ;
+    nbao:coachYear "2001"^^xsd:gYear ;
+    nbao:lostNum "54"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "28"^^xsd:int .
+
+nbao:coachstat_1294 a nbao:CoachStat ;
+    nbao:coachYear "2001"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612761 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_1295 a nbao:CoachStat ;
+    nbao:coachYear "2001"^^xsd:gYear ;
+    nbao:lostNum "46"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "13"^^xsd:int .
+
+nbao:coachstat_1296 a nbao:CoachStat ;
+    nbao:coachYear "2002"^^xsd:gYear ;
+    nbao:lostNum "23"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "59"^^xsd:int .
+
+nbao:coachstat_1297 a nbao:CoachStat ;
+    nbao:coachYear "2002"^^xsd:gYear ;
+    nbao:lostNum "46"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612763 ;
+    nbao:wonNum "28"^^xsd:int .
+
+nbao:coachstat_1298 a nbao:CoachStat ;
+    nbao:coachYear "2002"^^xsd:gYear ;
+    nbao:lostNum "34"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "48"^^xsd:int .
+
+nbao:coachstat_1300 a nbao:CoachStat ;
+    nbao:coachYear "2002"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_1301 a nbao:CoachStat ;
+    nbao:coachYear "2002"^^xsd:gYear ;
+    nbao:lostNum "52"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "30"^^xsd:int .
+
+nbao:coachstat_1303 a nbao:CoachStat ;
+    nbao:coachYear "2002"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_1304 a nbao:CoachStat ;
+    nbao:coachYear "2002"^^xsd:gYear ;
+    nbao:lostNum "45"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612764 ;
+    nbao:wonNum "37"^^xsd:int .
+
+nbao:coachstat_1306 a nbao:CoachStat ;
+    nbao:coachYear "2002"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_1307 a nbao:CoachStat ;
+    nbao:coachYear "2002"^^xsd:gYear ;
+    nbao:lostNum "16"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "8"^^xsd:int .
+
+nbao:coachstat_1309 a nbao:CoachStat ;
+    nbao:coachYear "2002"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_1311 a nbao:CoachStat ;
+    nbao:coachYear "2002"^^xsd:gYear ;
+    nbao:lostNum "8"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612763 ;
+    nbao:wonNum "0"^^xsd:int .
+
+nbao:coachstat_1315 a nbao:CoachStat ;
+    nbao:coachYear "2002"^^xsd:gYear ;
+    nbao:lostNum "22"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "60"^^xsd:int .
+
+nbao:coachstat_1318 a nbao:CoachStat ;
+    nbao:coachYear "2002"^^xsd:gYear ;
+    nbao:lostNum "57"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612748 ;
+    nbao:wonNum "25"^^xsd:int .
+
+nbao:coachstat_1320 a nbao:CoachStat ;
+    nbao:coachYear "2002"^^xsd:gYear ;
+    nbao:lostNum "31"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "51"^^xsd:int .
+
+nbao:coachstat_1323 a nbao:CoachStat ;
+    nbao:coachYear "2002"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_1326 a nbao:CoachStat ;
+    nbao:coachYear "2002"^^xsd:gYear ;
+    nbao:lostNum "34"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "48"^^xsd:int .
+
+nbao:coachstat_1327 a nbao:CoachStat ;
+    nbao:coachYear "2002"^^xsd:gYear ;
+    nbao:lostNum "39"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "43"^^xsd:int .
+
+nbao:coachstat_1328 a nbao:CoachStat ;
+    nbao:coachYear "2002"^^xsd:gYear ;
+    nbao:lostNum "58"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612761 ;
+    nbao:wonNum "24"^^xsd:int .
+
+nbao:coachstat_1329 a nbao:CoachStat ;
+    nbao:coachYear "2003"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "55"^^xsd:int .
+
+nbao:coachstat_1331 a nbao:CoachStat ;
+    nbao:coachYear "2003"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612763 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_1332 a nbao:CoachStat ;
+    nbao:coachYear "2003"^^xsd:gYear ;
+    nbao:lostNum "28"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "54"^^xsd:int .
+
+nbao:coachstat_1334 a nbao:CoachStat ;
+    nbao:coachYear "2003"^^xsd:gYear ;
+    nbao:lostNum "21"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "61"^^xsd:int .
+
+nbao:coachstat_1336 a nbao:CoachStat ;
+    nbao:coachYear "2003"^^xsd:gYear ;
+    nbao:lostNum "10"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "4"^^xsd:int .
+
+nbao:coachstat_1338 a nbao:CoachStat ;
+    nbao:coachYear "2003"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_1341 a nbao:CoachStat ;
+    nbao:coachYear "2003"^^xsd:gYear ;
+    nbao:lostNum "54"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "28"^^xsd:int .
+
+nbao:coachstat_1343 a nbao:CoachStat ;
+    nbao:coachYear "2003"^^xsd:gYear ;
+    nbao:lostNum "18"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "12"^^xsd:int .
+
+nbao:coachstat_1345 a nbao:CoachStat ;
+    nbao:coachYear "2003"^^xsd:gYear ;
+    nbao:lostNum "26"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "56"^^xsd:int .
+
+nbao:coachstat_1347 a nbao:CoachStat ;
+    nbao:coachYear "2003"^^xsd:gYear ;
+    nbao:lostNum "57"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612764 ;
+    nbao:wonNum "25"^^xsd:int .
+
+nbao:coachstat_1350 a nbao:CoachStat ;
+    nbao:coachYear "2003"^^xsd:gYear ;
+    nbao:lostNum "2"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "0"^^xsd:int .
+
+nbao:coachstat_1351 a nbao:CoachStat ;
+    nbao:coachYear "2003"^^xsd:gYear ;
+    nbao:lostNum "30"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "52"^^xsd:int .
+
+nbao:coachstat_1355 a nbao:CoachStat ;
+    nbao:coachYear "2003"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_1357 a nbao:CoachStat ;
+    nbao:coachYear "2003"^^xsd:gYear ;
+    nbao:lostNum "24"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "58"^^xsd:int .
+
+nbao:coachstat_1360 a nbao:CoachStat ;
+    nbao:coachYear "2003"^^xsd:gYear ;
+    nbao:lostNum "47"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "19"^^xsd:int .
+
+nbao:coachstat_1361 a nbao:CoachStat ;
+    nbao:coachYear "2003"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_1363 a nbao:CoachStat ;
+    nbao:coachYear "2003"^^xsd:gYear ;
+    nbao:lostNum "37"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "45"^^xsd:int .
+
+nbao:coachstat_1364 a nbao:CoachStat ;
+    nbao:coachYear "2003"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612748 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_1367 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_1368 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "64"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612766 ;
+    nbao:wonNum "18"^^xsd:int .
+
+nbao:coachstat_1369 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "7"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612763 ;
+    nbao:wonNum "5"^^xsd:int .
+
+nbao:coachstat_1370 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "28"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "54"^^xsd:int .
+
+nbao:coachstat_1372 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "44"^^xsd:int .
+
+nbao:coachstat_1373 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "33"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "22"^^xsd:int .
+
+nbao:coachstat_1374 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "10"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "4"^^xsd:int .
+
+nbao:coachstat_1377 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "45"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "37"^^xsd:int .
+
+nbao:coachstat_1379 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "30"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612763 ;
+    nbao:wonNum "40"^^xsd:int .
+
+nbao:coachstat_1382 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "2"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "16"^^xsd:int .
+
+nbao:coachstat_1383 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "37"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612764 ;
+    nbao:wonNum "45"^^xsd:int .
+
+nbao:coachstat_1384 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "8"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "32"^^xsd:int .
+
+nbao:coachstat_1386 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "12"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "19"^^xsd:int .
+
+nbao:coachstat_1388 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "49"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612761 ;
+    nbao:wonNum "33"^^xsd:int .
+
+nbao:coachstat_1389 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "48"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "34"^^xsd:int .
+
+nbao:coachstat_1390 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "22"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_1391 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "39"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "43"^^xsd:int .
+
+nbao:coachstat_1393 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "52"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "30"^^xsd:int .
+
+nbao:coachstat_1394 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "22"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "5"^^xsd:int .
+
+nbao:coachstat_1396 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "26"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "25"^^xsd:int .
+
+nbao:coachstat_1399 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_1400 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "56"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "26"^^xsd:int .
+
+nbao:coachstat_1401 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "19"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "24"^^xsd:int .
+
+nbao:coachstat_1402 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "31"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "51"^^xsd:int .
+
+nbao:coachstat_1403 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "23"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612748 ;
+    nbao:wonNum "59"^^xsd:int .
+
+nbao:coachstat_1406 a nbao:CoachStat ;
+    nbao:coachYear "2004"^^xsd:gYear ;
+    nbao:lostNum "69"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "13"^^xsd:int .
+
+nbao:coachstat_1407 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "44"^^xsd:int .
+
+nbao:coachstat_1408 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "56"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612766 ;
+    nbao:wonNum "26"^^xsd:int .
+
+nbao:coachstat_1411 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_1412 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "49"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "33"^^xsd:int .
+
+nbao:coachstat_1413 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "44"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "38"^^xsd:int .
+
+nbao:coachstat_1415 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_1417 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "33"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612763 ;
+    nbao:wonNum "49"^^xsd:int .
+
+nbao:coachstat_1420 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "37"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "45"^^xsd:int .
+
+nbao:coachstat_1421 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "22"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "60"^^xsd:int .
+
+nbao:coachstat_1422 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612764 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_1423 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "44"^^xsd:int .
+
+nbao:coachstat_1424 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "61"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "21"^^xsd:int .
+
+nbao:coachstat_1425 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "55"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612761 ;
+    nbao:wonNum "27"^^xsd:int .
+
+nbao:coachstat_1426 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "48"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "34"^^xsd:int .
+
+nbao:coachstat_1428 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "20"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612748 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_143 a nbao:CoachStat ;
+    nbao:coachYear "1957"^^xsd:gYear ;
+    nbao:lostNum "23"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "24"^^xsd:int .
+
+nbao:coachstat_1430 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "18"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "64"^^xsd:int .
+
+nbao:coachstat_1432 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_1433 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_1435 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "48"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "34"^^xsd:int .
+
+nbao:coachstat_1436 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "10"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612748 ;
+    nbao:wonNum "11"^^xsd:int .
+
+nbao:coachstat_1438 a nbao:CoachStat ;
+    nbao:coachYear "2005"^^xsd:gYear ;
+    nbao:lostNum "56"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "26"^^xsd:int .
+
+nbao:coachstat_1440 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "49"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612766 ;
+    nbao:wonNum "33"^^xsd:int .
+
+nbao:coachstat_1442 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "47"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "35"^^xsd:int .
+
+nbao:coachstat_1443 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "20"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "20"^^xsd:int .
+
+nbao:coachstat_1444 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "47"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "35"^^xsd:int .
+
+nbao:coachstat_1446 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "42"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "40"^^xsd:int .
+
+nbao:coachstat_1448 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "24"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612763 ;
+    nbao:wonNum "6"^^xsd:int .
+
+nbao:coachstat_1451 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_1452 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "15"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "67"^^xsd:int .
+
+nbao:coachstat_1453 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612764 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_1454 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "37"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "45"^^xsd:int .
+
+nbao:coachstat_1455 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "13"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "5"^^xsd:int .
+
+nbao:coachstat_1456 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "50"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "32"^^xsd:int .
+
+nbao:coachstat_1457 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612761 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_1459 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_1461 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612748 ;
+    nbao:wonNum "44"^^xsd:int .
+
+nbao:coachstat_1463 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "29"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "53"^^xsd:int .
+
+nbao:coachstat_1465 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "33"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "49"^^xsd:int .
+
+nbao:coachstat_1466 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "31"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "51"^^xsd:int .
+
+nbao:coachstat_1469 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "30"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "52"^^xsd:int .
+
+nbao:coachstat_1470 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "30"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "12"^^xsd:int .
+
+nbao:coachstat_1471 a nbao:CoachStat ;
+    nbao:coachYear "2006"^^xsd:gYear ;
+    nbao:lostNum "52"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "30"^^xsd:int .
+
+nbao:coachstat_1472 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "55"^^xsd:int .
+
+nbao:coachstat_1476 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "42"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "40"^^xsd:int .
+
+nbao:coachstat_1478 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "59"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "23"^^xsd:int .
+
+nbao:coachstat_1480 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "60"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612763 ;
+    nbao:wonNum "22"^^xsd:int .
+
+nbao:coachstat_1481 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "57"^^xsd:int .
+
+nbao:coachstat_1482 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "31"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "51"^^xsd:int .
+
+nbao:coachstat_1483 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "39"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612764 ;
+    nbao:wonNum "43"^^xsd:int .
+
+nbao:coachstat_1484 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_1485 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "56"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "26"^^xsd:int .
+
+nbao:coachstat_1486 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_1487 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612761 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_1488 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "1"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "0"^^xsd:int .
+
+nbao:coachstat_1489 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "34"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "48"^^xsd:int .
+
+nbao:coachstat_1490 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "46"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "36"^^xsd:int .
+
+nbao:coachstat_1492 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "67"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612748 ;
+    nbao:wonNum "15"^^xsd:int .
+
+nbao:coachstat_1494 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "23"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "59"^^xsd:int .
+
+nbao:coachstat_1496 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "16"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "9"^^xsd:int .
+
+nbao:coachstat_1497 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "28"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "54"^^xsd:int .
+
+nbao:coachstat_1498 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "44"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "38"^^xsd:int .
+
+nbao:coachstat_1502 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "60"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "22"^^xsd:int .
+
+nbao:coachstat_1503 a nbao:CoachStat ;
+    nbao:coachYear "2007"^^xsd:gYear ;
+    nbao:lostNum "45"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "37"^^xsd:int .
+
+nbao:coachstat_1504 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "29"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "53"^^xsd:int .
+
+nbao:coachstat_1505 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "46"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612760 ;
+    nbao:wonNum "22"^^xsd:int .
+
+nbao:coachstat_1509 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_1510 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "14"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "9"^^xsd:int .
+
+nbao:coachstat_1511 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "43"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "39"^^xsd:int .
+
+nbao:coachstat_1513 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "2"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612763 ;
+    nbao:wonNum "0"^^xsd:int .
+
+nbao:coachstat_1514 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_1516 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "63"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "19"^^xsd:int .
+
+nbao:coachstat_1519 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "26"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612763 ;
+    nbao:wonNum "13"^^xsd:int .
+
+nbao:coachstat_1520 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "30"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612763 ;
+    nbao:wonNum "11"^^xsd:int .
+
+nbao:coachstat_1521 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "17"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "65"^^xsd:int .
+
+nbao:coachstat_1522 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "10"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612764 ;
+    nbao:wonNum "1"^^xsd:int .
+
+nbao:coachstat_1523 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "28"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "54"^^xsd:int .
+
+nbao:coachstat_1524 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "43"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "20"^^xsd:int .
+
+nbao:coachstat_1525 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "28"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "54"^^xsd:int .
+
+nbao:coachstat_1526 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "9"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612761 ;
+    nbao:wonNum "8"^^xsd:int .
+
+nbao:coachstat_1527 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "47"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "11"^^xsd:int .
+
+nbao:coachstat_1528 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "53"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "29"^^xsd:int .
+
+nbao:coachstat_1529 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "46"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "36"^^xsd:int .
+
+nbao:coachstat_1534 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "48"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "34"^^xsd:int .
+
+nbao:coachstat_1535 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "34"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "48"^^xsd:int .
+
+nbao:coachstat_1538 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "18"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "6"^^xsd:int .
+
+nbao:coachstat_154 a nbao:CoachStat ;
+    nbao:coachYear "1958"^^xsd:gYear ;
+    nbao:lostNum "44"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "28"^^xsd:int .
+
+nbao:coachstat_1541 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "15"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "4"^^xsd:int .
+
+nbao:coachstat_1542 a nbao:CoachStat ;
+    nbao:coachYear "2008"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_1543 a nbao:CoachStat ;
+    nbao:coachYear "2009"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_1546 a nbao:CoachStat ;
+    nbao:coachYear "2009"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612760 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_1549 a nbao:CoachStat ;
+    nbao:coachYear "2009"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "55"^^xsd:int .
+
+nbao:coachstat_1551 a nbao:CoachStat ;
+    nbao:coachYear "2009"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_1552 a nbao:CoachStat ;
+    nbao:coachYear "2009"^^xsd:gYear ;
+    nbao:lostNum "28"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "21"^^xsd:int .
+
+nbao:coachstat_1555 a nbao:CoachStat ;
+    nbao:coachYear "2009"^^xsd:gYear ;
+    nbao:lostNum "42"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612763 ;
+    nbao:wonNum "40"^^xsd:int .
+
+nbao:coachstat_1556 a nbao:CoachStat ;
+    nbao:coachYear "2009"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "8"^^xsd:int .
+
+nbao:coachstat_1557 a nbao:CoachStat ;
+    nbao:coachYear "2009"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "57"^^xsd:int .
+
+nbao:coachstat_1558 a nbao:CoachStat ;
+    nbao:coachYear "2009"^^xsd:gYear ;
+    nbao:lostNum "55"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "27"^^xsd:int .
+
+nbao:coachstat_1559 a nbao:CoachStat ;
+    nbao:coachYear "2009"^^xsd:gYear ;
+    nbao:lostNum "29"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "53"^^xsd:int .
+
+nbao:coachstat_1560 a nbao:CoachStat ;
+    nbao:coachYear "2009"^^xsd:gYear ;
+    nbao:lostNum "55"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "27"^^xsd:int .
+
+nbao:coachstat_1561 a nbao:CoachStat ;
+    nbao:coachYear "2009"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_1562 a nbao:CoachStat ;
+    nbao:coachYear "2009"^^xsd:gYear ;
+    nbao:lostNum "56"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "26"^^xsd:int .
+
+nbao:coachstat_1563 a nbao:CoachStat ;
+    nbao:coachYear "2009"^^xsd:gYear ;
+    nbao:lostNum "50"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "32"^^xsd:int .
+
+nbao:coachstat_1565 a nbao:CoachStat ;
+    nbao:coachYear "2009"^^xsd:gYear ;
+    nbao:lostNum "67"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "15"^^xsd:int .
+
+nbao:coachstat_1567 a nbao:CoachStat ;
+    nbao:coachYear "2009"^^xsd:gYear ;
+    nbao:lostNum "56"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612764 ;
+    nbao:wonNum "26"^^xsd:int .
+
+nbao:coachstat_1569 a nbao:CoachStat ;
+    nbao:coachYear "2009"^^xsd:gYear ;
+    nbao:lostNum "36"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "46"^^xsd:int .
+
+nbao:coachstat_1570 a nbao:CoachStat ;
+    nbao:coachYear "2009"^^xsd:gYear ;
+    nbao:lostNum "29"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "53"^^xsd:int .
+
+nbao:coachstat_1575 a nbao:CoachStat ;
+    nbao:coachYear "2009"^^xsd:gYear ;
+    nbao:lostNum "57"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "25"^^xsd:int .
+
+nbao:coachstat_1576 a nbao:CoachStat ;
+    nbao:coachYear "2009"^^xsd:gYear ;
+    nbao:lostNum "29"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "53"^^xsd:int .
+
+nbao:coachstat_1577 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "39"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "43"^^xsd:int .
+
+nbao:coachstat_1578 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612760 ;
+    nbao:wonNum "55"^^xsd:int .
+
+nbao:coachstat_1579 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "19"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612766 ;
+    nbao:wonNum "9"^^xsd:int .
+
+nbao:coachstat_1580 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "57"^^xsd:int .
+
+nbao:coachstat_1581 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_1582 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "20"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "8"^^xsd:int .
+
+nbao:coachstat_1584 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "50"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "32"^^xsd:int .
+
+nbao:coachstat_1585 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "44"^^xsd:int .
+
+nbao:coachstat_1587 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "36"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612763 ;
+    nbao:wonNum "46"^^xsd:int .
+
+nbao:coachstat_1588 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "57"^^xsd:int .
+
+nbao:coachstat_1590 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_1591 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "52"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "30"^^xsd:int .
+
+nbao:coachstat_1592 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "34"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "48"^^xsd:int .
+
+nbao:coachstat_1593 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "17"^^xsd:int .
+
+nbao:coachstat_1595 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "65"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "17"^^xsd:int .
+
+nbao:coachstat_1597 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "59"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612764 ;
+    nbao:wonNum "23"^^xsd:int .
+
+nbao:coachstat_1599 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "29"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612766 ;
+    nbao:wonNum "25"^^xsd:int .
+
+nbao:coachstat_1600 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "47"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "35"^^xsd:int .
+
+nbao:coachstat_1601 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "23"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "31"^^xsd:int .
+
+nbao:coachstat_1602 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "46"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "36"^^xsd:int .
+
+nbao:coachstat_1608 a nbao:CoachStat ;
+    nbao:coachYear "2010"^^xsd:gYear ;
+    nbao:lostNum "58"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "24"^^xsd:int .
+
+nbao:coachstat_1610 a nbao:CoachStat ;
+    nbao:coachYear "2011"^^xsd:gYear ;
+    nbao:lostNum "26"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "40"^^xsd:int .
+
+nbao:coachstat_1612 a nbao:CoachStat ;
+    nbao:coachYear "2011"^^xsd:gYear ;
+    nbao:lostNum "59"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612766 ;
+    nbao:wonNum "7"^^xsd:int .
+
+nbao:coachstat_1615 a nbao:CoachStat ;
+    nbao:coachYear "2011"^^xsd:gYear ;
+    nbao:lostNum "30"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "36"^^xsd:int .
+
+nbao:coachstat_1616 a nbao:CoachStat ;
+    nbao:coachYear "2011"^^xsd:gYear ;
+    nbao:lostNum "28"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "38"^^xsd:int .
+
+nbao:coachstat_1619 a nbao:CoachStat ;
+    nbao:coachYear "2011"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "34"^^xsd:int .
+
+nbao:coachstat_1621 a nbao:CoachStat ;
+    nbao:coachYear "2011"^^xsd:gYear ;
+    nbao:lostNum "26"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "40"^^xsd:int .
+
+nbao:coachstat_1622 a nbao:CoachStat ;
+    nbao:coachYear "2011"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_1623 a nbao:CoachStat ;
+    nbao:coachYear "2011"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612763 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_1625 a nbao:CoachStat ;
+    nbao:coachYear "2011"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "31"^^xsd:int .
+
+nbao:coachstat_1626 a nbao:CoachStat ;
+    nbao:coachYear "2011"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "26"^^xsd:int .
+
+nbao:coachstat_1631 a nbao:CoachStat ;
+    nbao:coachYear "2011"^^xsd:gYear ;
+    nbao:lostNum "19"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612760 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_1633 a nbao:CoachStat ;
+    nbao:coachYear "2011"^^xsd:gYear ;
+    nbao:lostNum "31"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "35"^^xsd:int .
+
+nbao:coachstat_1635 a nbao:CoachStat ;
+    nbao:coachYear "2011"^^xsd:gYear ;
+    nbao:lostNum "23"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "20"^^xsd:int .
+
+nbao:coachstat_1637 a nbao:CoachStat ;
+    nbao:coachYear "2011"^^xsd:gYear ;
+    nbao:lostNum "5"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "2"^^xsd:int .
+
+nbao:coachstat_1638 a nbao:CoachStat ;
+    nbao:coachYear "2011"^^xsd:gYear ;
+    nbao:lostNum "39"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "20"^^xsd:int .
+
+nbao:coachstat_164 a nbao:CoachStat ;
+    nbao:coachYear "1959"^^xsd:gYear ;
+    nbao:lostNum "24"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "17"^^xsd:int .
+
+nbao:coachstat_1640 a nbao:CoachStat ;
+    nbao:coachYear "2011"^^xsd:gYear ;
+    nbao:lostNum "43"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612761 ;
+    nbao:wonNum "23"^^xsd:int .
+
+nbao:coachstat_1641 a nbao:CoachStat ;
+    nbao:coachYear "2011"^^xsd:gYear ;
+    nbao:lostNum "30"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "36"^^xsd:int .
+
+nbao:coachstat_1642 a nbao:CoachStat ;
+    nbao:coachYear "2011"^^xsd:gYear ;
+    nbao:lostNum "15"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612764 ;
+    nbao:wonNum "2"^^xsd:int .
+
+nbao:coachstat_1643 a nbao:CoachStat ;
+    nbao:coachYear "2011"^^xsd:gYear ;
+    nbao:lostNum "31"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612764 ;
+    nbao:wonNum "18"^^xsd:int .
+
+nbao:coachstat_166 a nbao:CoachStat ;
+    nbao:coachYear "1959"^^xsd:gYear ;
+    nbao:lostNum "21"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "13"^^xsd:int .
+
+nbao:coachstat_172 a nbao:CoachStat ;
+    nbao:coachYear "1960"^^xsd:gYear ;
+    nbao:lostNum "45"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "34"^^xsd:int .
+
+nbao:coachstat_173 a nbao:CoachStat ;
+    nbao:coachYear "1960"^^xsd:gYear ;
+    nbao:lostNum "43"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "36"^^xsd:int .
+
+nbao:coachstat_180 a nbao:CoachStat ;
+    nbao:coachYear "1961"^^xsd:gYear ;
+    nbao:lostNum "43"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "37"^^xsd:int .
+
+nbao:coachstat_184 a nbao:CoachStat ;
+    nbao:coachYear "1961"^^xsd:gYear ;
+    nbao:lostNum "26"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "54"^^xsd:int .
+
+nbao:coachstat_193 a nbao:CoachStat ;
+    nbao:coachYear "1962"^^xsd:gYear ;
+    nbao:lostNum "46"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "34"^^xsd:int .
+
+nbao:coachstat_195 a nbao:CoachStat ;
+    nbao:coachYear "1962"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "53"^^xsd:int .
+
+nbao:coachstat_203 a nbao:CoachStat ;
+    nbao:coachYear "1963"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_204 a nbao:CoachStat ;
+    nbao:coachYear "1963"^^xsd:gYear ;
+    nbao:lostNum "46"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "34"^^xsd:int .
+
+nbao:coachstat_207 a nbao:CoachStat ;
+    nbao:coachYear "1964"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "29"^^xsd:int .
+
+nbao:coachstat_215 a nbao:CoachStat ;
+    nbao:coachYear "1964"^^xsd:gYear ;
+    nbao:lostNum "31"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "49"^^xsd:int .
+
+nbao:coachstat_216 a nbao:CoachStat ;
+    nbao:coachYear "1964"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "40"^^xsd:int .
+
+nbao:coachstat_219 a nbao:CoachStat ;
+    nbao:coachYear "1965"^^xsd:gYear ;
+    nbao:lostNum "58"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "22"^^xsd:int .
+
+nbao:coachstat_225 a nbao:CoachStat ;
+    nbao:coachYear "1965"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "45"^^xsd:int .
+
+nbao:coachstat_226 a nbao:CoachStat ;
+    nbao:coachYear "1965"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "55"^^xsd:int .
+
+nbao:coachstat_228 a nbao:CoachStat ;
+    nbao:coachYear "1966"^^xsd:gYear ;
+    nbao:lostNum "6"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "2"^^xsd:int .
+
+nbao:coachstat_229 a nbao:CoachStat ;
+    nbao:coachYear "1966"^^xsd:gYear ;
+    nbao:lostNum "45"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "28"^^xsd:int .
+
+nbao:coachstat_232 a nbao:CoachStat ;
+    nbao:coachYear "1966"^^xsd:gYear ;
+    nbao:lostNum "13"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "68"^^xsd:int .
+
+nbao:coachstat_234 a nbao:CoachStat ;
+    nbao:coachYear "1966"^^xsd:gYear ;
+    nbao:lostNum "48"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "33"^^xsd:int .
+
+nbao:coachstat_238 a nbao:CoachStat ;
+    nbao:coachYear "1966"^^xsd:gYear ;
+    nbao:lostNum "45"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "36"^^xsd:int .
+
+nbao:coachstat_244 a nbao:CoachStat ;
+    nbao:coachYear "1967"^^xsd:gYear ;
+    nbao:lostNum "42"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "40"^^xsd:int .
+
+nbao:coachstat_251 a nbao:CoachStat ;
+    nbao:coachYear "1967"^^xsd:gYear ;
+    nbao:lostNum "20"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "62"^^xsd:int .
+
+nbao:coachstat_254 a nbao:CoachStat ;
+    nbao:coachYear "1967"^^xsd:gYear ;
+    nbao:lostNum "53"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "29"^^xsd:int .
+
+nbao:coachstat_269 a nbao:CoachStat ;
+    nbao:coachYear "1968"^^xsd:gYear ;
+    nbao:lostNum "12"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "10"^^xsd:int .
+
+nbao:coachstat_270 a nbao:CoachStat ;
+    nbao:coachYear "1968"^^xsd:gYear ;
+    nbao:lostNum "55"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "27"^^xsd:int .
+
+nbao:coachstat_271 a nbao:CoachStat ;
+    nbao:coachYear "1968"^^xsd:gYear ;
+    nbao:lostNum "34"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "48"^^xsd:int .
+
+nbao:coachstat_285 a nbao:CoachStat ;
+    nbao:coachYear "1968"^^xsd:gYear ;
+    nbao:lostNum "49"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "33"^^xsd:int .
+
+nbao:coachstat_287 a nbao:CoachStat ;
+    nbao:coachYear "1968"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "55"^^xsd:int .
+
+nbao:coachstat_290 a nbao:CoachStat ;
+    nbao:coachYear "1968"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "22"^^xsd:int .
+
+nbao:coachstat_304 a nbao:CoachStat ;
+    nbao:coachYear "1969"^^xsd:gYear ;
+    nbao:lostNum "26"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "56"^^xsd:int .
+
+nbao:coachstat_306 a nbao:CoachStat ;
+    nbao:coachYear "1969"^^xsd:gYear ;
+    nbao:lostNum "34"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "48"^^xsd:int .
+
+nbao:coachstat_320 a nbao:CoachStat ;
+    nbao:coachYear "1969"^^xsd:gYear ;
+    nbao:lostNum "43"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "39"^^xsd:int .
+
+nbao:coachstat_321 a nbao:CoachStat ;
+    nbao:coachYear "1969"^^xsd:gYear ;
+    nbao:lostNum "36"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "46"^^xsd:int .
+
+nbao:coachstat_323 a nbao:CoachStat ;
+    nbao:coachYear "1969"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_338 a nbao:CoachStat ;
+    nbao:coachYear "1970"^^xsd:gYear ;
+    nbao:lostNum "16"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "66"^^xsd:int .
+
+nbao:coachstat_343 a nbao:CoachStat ;
+    nbao:coachYear "1970"^^xsd:gYear ;
+    nbao:lostNum "46"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "36"^^xsd:int .
+
+nbao:coachstat_351 a nbao:CoachStat ;
+    nbao:coachYear "1970"^^xsd:gYear ;
+    nbao:lostNum "31"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "51"^^xsd:int .
+
+nbao:coachstat_352 a nbao:CoachStat ;
+    nbao:coachYear "1970"^^xsd:gYear ;
+    nbao:lostNum "34"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "48"^^xsd:int .
+
+nbao:coachstat_353 a nbao:CoachStat ;
+    nbao:coachYear "1970"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_360 a nbao:CoachStat ;
+    nbao:coachYear "1970"^^xsd:gYear ;
+    nbao:lostNum "53"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "29"^^xsd:int .
+
+nbao:coachstat_365 a nbao:CoachStat ;
+    nbao:coachYear "1971"^^xsd:gYear ;
+    nbao:lostNum "31"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "51"^^xsd:int .
+
+nbao:coachstat_370 a nbao:CoachStat ;
+    nbao:coachYear "1971"^^xsd:gYear ;
+    nbao:lostNum "19"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "63"^^xsd:int .
+
+nbao:coachstat_372 a nbao:CoachStat ;
+    nbao:coachYear "1971"^^xsd:gYear ;
+    nbao:lostNum "2"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "0"^^xsd:int .
+
+nbao:coachstat_375 a nbao:CoachStat ;
+    nbao:coachYear "1971"^^xsd:gYear ;
+    nbao:lostNum "46"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "36"^^xsd:int .
+
+nbao:coachstat_381 a nbao:CoachStat ;
+    nbao:coachYear "1971"^^xsd:gYear ;
+    nbao:lostNum "50"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "20"^^xsd:int .
+
+nbao:coachstat_386 a nbao:CoachStat ;
+    nbao:coachYear "1971"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "57"^^xsd:int .
+
+nbao:coachstat_389 a nbao:CoachStat ;
+    nbao:coachYear "1971"^^xsd:gYear ;
+    nbao:lostNum "52"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "30"^^xsd:int .
+
+nbao:coachstat_391 a nbao:CoachStat ;
+    nbao:coachYear "1971"^^xsd:gYear ;
+    nbao:lostNum "13"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "69"^^xsd:int .
+
+nbao:coachstat_393 a nbao:CoachStat ;
+    nbao:coachYear "1971"^^xsd:gYear ;
+    nbao:lostNum "44"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "12"^^xsd:int .
+
+nbao:coachstat_398 a nbao:CoachStat ;
+    nbao:coachYear "1972"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_406 a nbao:CoachStat ;
+    nbao:coachYear "1972"^^xsd:gYear ;
+    nbao:lostNum "22"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "60"^^xsd:int .
+
+nbao:coachstat_408 a nbao:CoachStat ;
+    nbao:coachYear "1972"^^xsd:gYear ;
+    nbao:lostNum "19"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "16"^^xsd:int .
+
+nbao:coachstat_410 a nbao:CoachStat ;
+    nbao:coachYear "1972"^^xsd:gYear ;
+    nbao:lostNum "36"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "46"^^xsd:int .
+
+nbao:coachstat_416 a nbao:CoachStat ;
+    nbao:coachYear "1972"^^xsd:gYear ;
+    nbao:lostNum "5"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "2"^^xsd:int .
+
+nbao:coachstat_417 a nbao:CoachStat ;
+    nbao:coachYear "1972"^^xsd:gYear ;
+    nbao:lostNum "26"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "5"^^xsd:int .
+
+nbao:coachstat_419 a nbao:CoachStat ;
+    nbao:coachYear "1972"^^xsd:gYear ;
+    nbao:lostNum "61"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "21"^^xsd:int .
+
+nbao:coachstat_420 a nbao:CoachStat ;
+    nbao:coachYear "1972"^^xsd:gYear ;
+    nbao:lostNum "31"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "51"^^xsd:int .
+
+nbao:coachstat_425 a nbao:CoachStat ;
+    nbao:coachYear "1972"^^xsd:gYear ;
+    nbao:lostNum "37"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "38"^^xsd:int .
+
+nbao:coachstat_426 a nbao:CoachStat ;
+    nbao:coachYear "1972"^^xsd:gYear ;
+    nbao:lostNum "22"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "60"^^xsd:int .
+
+nbao:coachstat_430 a nbao:CoachStat ;
+    nbao:coachYear "1973"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "44"^^xsd:int .
+
+nbao:coachstat_434 a nbao:CoachStat ;
+    nbao:coachYear "1973"^^xsd:gYear ;
+    nbao:lostNum "23"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "59"^^xsd:int .
+
+nbao:coachstat_436 a nbao:CoachStat ;
+    nbao:coachYear "1973"^^xsd:gYear ;
+    nbao:lostNum "50"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "32"^^xsd:int .
+
+nbao:coachstat_438 a nbao:CoachStat ;
+    nbao:coachYear "1973"^^xsd:gYear ;
+    nbao:lostNum "47"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "35"^^xsd:int .
+
+nbao:coachstat_448 a nbao:CoachStat ;
+    nbao:coachYear "1973"^^xsd:gYear ;
+    nbao:lostNum "55"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "27"^^xsd:int .
+
+nbao:coachstat_449 a nbao:CoachStat ;
+    nbao:coachYear "1973"^^xsd:gYear ;
+    nbao:lostNum "28"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "54"^^xsd:int .
+
+nbao:coachstat_454 a nbao:CoachStat ;
+    nbao:coachYear "1973"^^xsd:gYear ;
+    nbao:lostNum "30"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "52"^^xsd:int .
+
+nbao:coachstat_455 a nbao:CoachStat ;
+    nbao:coachYear "1973"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_456 a nbao:CoachStat ;
+    nbao:coachYear "1973"^^xsd:gYear ;
+    nbao:lostNum "57"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "25"^^xsd:int .
+
+nbao:coachstat_459 a nbao:CoachStat ;
+    nbao:coachYear "1974"^^xsd:gYear ;
+    nbao:lostNum "34"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "48"^^xsd:int .
+
+nbao:coachstat_466 a nbao:CoachStat ;
+    nbao:coachYear "1974"^^xsd:gYear ;
+    nbao:lostNum "44"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "38"^^xsd:int .
+
+nbao:coachstat_467 a nbao:CoachStat ;
+    nbao:coachYear "1974"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_469 a nbao:CoachStat ;
+    nbao:coachYear "1974"^^xsd:gYear ;
+    nbao:lostNum "51"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "31"^^xsd:int .
+
+nbao:coachstat_479 a nbao:CoachStat ;
+    nbao:coachYear "1974"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_486 a nbao:CoachStat ;
+    nbao:coachYear "1974"^^xsd:gYear ;
+    nbao:lostNum "42"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "40"^^xsd:int .
+
+nbao:coachstat_487 a nbao:CoachStat ;
+    nbao:coachYear "1974"^^xsd:gYear ;
+    nbao:lostNum "52"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "30"^^xsd:int .
+
+nbao:coachstat_489 a nbao:CoachStat ;
+    nbao:coachYear "1974"^^xsd:gYear ;
+    nbao:lostNum "48"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "34"^^xsd:int .
+
+nbao:coachstat_491 a nbao:CoachStat ;
+    nbao:coachYear "1974"^^xsd:gYear ;
+    nbao:lostNum "44"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "38"^^xsd:int .
+
+nbao:coachstat_493 a nbao:CoachStat ;
+    nbao:coachYear "1975"^^xsd:gYear ;
+    nbao:lostNum "23"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "59"^^xsd:int .
+
+nbao:coachstat_501 a nbao:CoachStat ;
+    nbao:coachYear "1975"^^xsd:gYear ;
+    nbao:lostNum "44"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "38"^^xsd:int .
+
+nbao:coachstat_502 a nbao:CoachStat ;
+    nbao:coachYear "1975"^^xsd:gYear ;
+    nbao:lostNum "42"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "40"^^xsd:int .
+
+nbao:coachstat_504 a nbao:CoachStat ;
+    nbao:coachYear "1975"^^xsd:gYear ;
+    nbao:lostNum "46"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "28"^^xsd:int .
+
+nbao:coachstat_512 a nbao:CoachStat ;
+    nbao:coachYear "1975"^^xsd:gYear ;
+    nbao:lostNum "58"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "24"^^xsd:int .
+
+nbao:coachstat_519 a nbao:CoachStat ;
+    nbao:coachYear "1975"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "17"^^xsd:int .
+
+nbao:coachstat_520 a nbao:CoachStat ;
+    nbao:coachYear "1975"^^xsd:gYear ;
+    nbao:lostNum "42"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "40"^^xsd:int .
+
+nbao:coachstat_521 a nbao:CoachStat ;
+    nbao:coachYear "1975"^^xsd:gYear ;
+    nbao:lostNum "36"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "46"^^xsd:int .
+
+nbao:coachstat_525 a nbao:CoachStat ;
+    nbao:coachYear "1975"^^xsd:gYear ;
+    nbao:lostNum "45"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "37"^^xsd:int .
+
+nbao:coachstat_526 a nbao:CoachStat ;
+    nbao:coachYear "1976"^^xsd:gYear ;
+    nbao:lostNum "36"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "46"^^xsd:int .
+
+nbao:coachstat_530 a nbao:CoachStat ;
+    nbao:coachYear "1976"^^xsd:gYear ;
+    nbao:lostNum "51"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "31"^^xsd:int .
+
+nbao:coachstat_531 a nbao:CoachStat ;
+    nbao:coachYear "1976"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_532 a nbao:CoachStat ;
+    nbao:coachYear "1976"^^xsd:gYear ;
+    nbao:lostNum "15"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "3"^^xsd:int .
+
+nbao:coachstat_537 a nbao:CoachStat ;
+    nbao:coachYear "1976"^^xsd:gYear ;
+    nbao:lostNum "46"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "36"^^xsd:int .
+
+nbao:coachstat_542 a nbao:CoachStat ;
+    nbao:coachYear "1976"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612759 ;
+    nbao:wonNum "44"^^xsd:int .
+
+nbao:coachstat_545 a nbao:CoachStat ;
+    nbao:coachYear "1976"^^xsd:gYear ;
+    nbao:lostNum "37"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "27"^^xsd:int .
+
+nbao:coachstat_547 a nbao:CoachStat ;
+    nbao:coachYear "1976"^^xsd:gYear ;
+    nbao:lostNum "33"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "49"^^xsd:int .
+
+nbao:coachstat_549 a nbao:CoachStat ;
+    nbao:coachYear "1976"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_551 a nbao:CoachStat ;
+    nbao:coachYear "1976"^^xsd:gYear ;
+    nbao:lostNum "29"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "53"^^xsd:int .
+
+nbao:coachstat_552 a nbao:CoachStat ;
+    nbao:coachYear "1977"^^xsd:gYear ;
+    nbao:lostNum "39"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "43"^^xsd:int .
+
+nbao:coachstat_556 a nbao:CoachStat ;
+    nbao:coachYear "1977"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_557 a nbao:CoachStat ;
+    nbao:coachYear "1977"^^xsd:gYear ;
+    nbao:lostNum "34"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "48"^^xsd:int .
+
+nbao:coachstat_558 a nbao:CoachStat ;
+    nbao:coachYear "1977"^^xsd:gYear ;
+    nbao:lostNum "23"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "53"^^xsd:int .
+
+nbao:coachstat_564 a nbao:CoachStat ;
+    nbao:coachYear "1977"^^xsd:gYear ;
+    nbao:lostNum "29"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "29"^^xsd:int .
+
+nbao:coachstat_565 a nbao:CoachStat ;
+    nbao:coachYear "1977"^^xsd:gYear ;
+    nbao:lostNum "51"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "31"^^xsd:int .
+
+nbao:coachstat_568 a nbao:CoachStat ;
+    nbao:coachYear "1977"^^xsd:gYear ;
+    nbao:lostNum "30"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612759 ;
+    nbao:wonNum "52"^^xsd:int .
+
+nbao:coachstat_570 a nbao:CoachStat ;
+    nbao:coachYear "1977"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "44"^^xsd:int .
+
+nbao:coachstat_572 a nbao:CoachStat ;
+    nbao:coachYear "1977"^^xsd:gYear ;
+    nbao:lostNum "24"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "58"^^xsd:int .
+
+nbao:coachstat_575 a nbao:CoachStat ;
+    nbao:coachYear "1977"^^xsd:gYear ;
+    nbao:lostNum "4"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "2"^^xsd:int .
+
+nbao:coachstat_577 a nbao:CoachStat ;
+    nbao:coachYear "1977"^^xsd:gYear ;
+    nbao:lostNum "37"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "45"^^xsd:int .
+
+nbao:coachstat_579 a nbao:CoachStat ;
+    nbao:coachYear "1978"^^xsd:gYear ;
+    nbao:lostNum "44"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "38"^^xsd:int .
+
+nbao:coachstat_581 a nbao:CoachStat ;
+    nbao:coachYear "1978"^^xsd:gYear ;
+    nbao:lostNum "36"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "46"^^xsd:int .
+
+nbao:coachstat_582 a nbao:CoachStat ;
+    nbao:coachYear "1978"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "28"^^xsd:int .
+
+nbao:coachstat_583 a nbao:CoachStat ;
+    nbao:coachYear "1978"^^xsd:gYear ;
+    nbao:lostNum "36"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "20"^^xsd:int .
+
+nbao:coachstat_585 a nbao:CoachStat ;
+    nbao:coachYear "1978"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_589 a nbao:CoachStat ;
+    nbao:coachYear "1978"^^xsd:gYear ;
+    nbao:lostNum "44"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "38"^^xsd:int .
+
+nbao:coachstat_592 a nbao:CoachStat ;
+    nbao:coachYear "1978"^^xsd:gYear ;
+    nbao:lostNum "34"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612759 ;
+    nbao:wonNum "48"^^xsd:int .
+
+nbao:coachstat_594 a nbao:CoachStat ;
+    nbao:coachYear "1978"^^xsd:gYear ;
+    nbao:lostNum "44"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "38"^^xsd:int .
+
+nbao:coachstat_596 a nbao:CoachStat ;
+    nbao:coachYear "1978"^^xsd:gYear ;
+    nbao:lostNum "37"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "45"^^xsd:int .
+
+nbao:coachstat_601 a nbao:CoachStat ;
+    nbao:coachYear "1978"^^xsd:gYear ;
+    nbao:lostNum "52"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "30"^^xsd:int .
+
+nbao:coachstat_603 a nbao:CoachStat ;
+    nbao:coachYear "1978"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_607 a nbao:CoachStat ;
+    nbao:coachYear "1979"^^xsd:gYear ;
+    nbao:lostNum "43"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "18"^^xsd:int .
+
+nbao:coachstat_608 a nbao:CoachStat ;
+    nbao:coachYear "1979"^^xsd:gYear ;
+    nbao:lostNum "15"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "6"^^xsd:int .
+
+nbao:coachstat_610 a nbao:CoachStat ;
+    nbao:coachYear "1979"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_611 a nbao:CoachStat ;
+    nbao:coachYear "1979"^^xsd:gYear ;
+    nbao:lostNum "23"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "59"^^xsd:int .
+
+nbao:coachstat_614 a nbao:CoachStat ;
+    nbao:coachYear "1979"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_616 a nbao:CoachStat ;
+    nbao:coachYear "1979"^^xsd:gYear ;
+    nbao:lostNum "45"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "37"^^xsd:int .
+
+nbao:coachstat_620 a nbao:CoachStat ;
+    nbao:coachYear "1979"^^xsd:gYear ;
+    nbao:lostNum "33"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612759 ;
+    nbao:wonNum "33"^^xsd:int .
+
+nbao:coachstat_622 a nbao:CoachStat ;
+    nbao:coachYear "1979"^^xsd:gYear ;
+    nbao:lostNum "33"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "49"^^xsd:int .
+
+nbao:coachstat_624 a nbao:CoachStat ;
+    nbao:coachYear "1979"^^xsd:gYear ;
+    nbao:lostNum "44"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "38"^^xsd:int .
+
+nbao:coachstat_626 a nbao:CoachStat ;
+    nbao:coachYear "1979"^^xsd:gYear ;
+    nbao:lostNum "52"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "30"^^xsd:int .
+
+nbao:coachstat_627 a nbao:CoachStat ;
+    nbao:coachYear "1979"^^xsd:gYear ;
+    nbao:lostNum "8"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "4"^^xsd:int .
+
+nbao:coachstat_632 a nbao:CoachStat ;
+    nbao:coachYear "1980"^^xsd:gYear ;
+    nbao:lostNum "43"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "39"^^xsd:int .
+
+nbao:coachstat_633 a nbao:CoachStat ;
+    nbao:coachYear "1980"^^xsd:gYear ;
+    nbao:lostNum "48"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "31"^^xsd:int .
+
+nbao:coachstat_634 a nbao:CoachStat ;
+    nbao:coachYear "1980"^^xsd:gYear ;
+    nbao:lostNum "20"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "62"^^xsd:int .
+
+nbao:coachstat_638 a nbao:CoachStat ;
+    nbao:coachYear "1980"^^xsd:gYear ;
+    nbao:lostNum "3"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "0"^^xsd:int .
+
+nbao:coachstat_639 a nbao:CoachStat ;
+    nbao:coachYear "1980"^^xsd:gYear ;
+    nbao:lostNum "42"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "40"^^xsd:int .
+
+nbao:coachstat_645 a nbao:CoachStat ;
+    nbao:coachYear "1980"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "26"^^xsd:int .
+
+nbao:coachstat_646 a nbao:CoachStat ;
+    nbao:coachYear "1980"^^xsd:gYear ;
+    nbao:lostNum "67"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "15"^^xsd:int .
+
+nbao:coachstat_648 a nbao:CoachStat ;
+    nbao:coachYear "1980"^^xsd:gYear ;
+    nbao:lostNum "22"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "60"^^xsd:int .
+
+nbao:coachstat_650 a nbao:CoachStat ;
+    nbao:coachYear "1980"^^xsd:gYear ;
+    nbao:lostNum "37"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "45"^^xsd:int .
+
+nbao:coachstat_654 a nbao:CoachStat ;
+    nbao:coachYear "1980"^^xsd:gYear ;
+    nbao:lostNum "37"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "45"^^xsd:int .
+
+nbao:coachstat_659 a nbao:CoachStat ;
+    nbao:coachYear "1981"^^xsd:gYear ;
+    nbao:lostNum "37"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "45"^^xsd:int .
+
+nbao:coachstat_661 a nbao:CoachStat ;
+    nbao:coachYear "1981"^^xsd:gYear ;
+    nbao:lostNum "24"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "58"^^xsd:int .
+
+nbao:coachstat_666 a nbao:CoachStat ;
+    nbao:coachYear "1981"^^xsd:gYear ;
+    nbao:lostNum "36"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "46"^^xsd:int .
+
+nbao:coachstat_671 a nbao:CoachStat ;
+    nbao:coachYear "1981"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_674 a nbao:CoachStat ;
+    nbao:coachYear "1981"^^xsd:gYear ;
+    nbao:lostNum "36"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "46"^^xsd:int .
+
+nbao:coachstat_675 a nbao:CoachStat ;
+    nbao:coachYear "1981"^^xsd:gYear ;
+    nbao:lostNum "54"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "28"^^xsd:int .
+
+nbao:coachstat_677 a nbao:CoachStat ;
+    nbao:coachYear "1981"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "55"^^xsd:int .
+
+nbao:coachstat_679 a nbao:CoachStat ;
+    nbao:coachYear "1981"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_680 a nbao:CoachStat ;
+    nbao:coachYear "1981"^^xsd:gYear ;
+    nbao:lostNum "21"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_684 a nbao:CoachStat ;
+    nbao:coachYear "1981"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "19"^^xsd:int .
+
+nbao:coachstat_685 a nbao:CoachStat ;
+    nbao:coachYear "1981"^^xsd:gYear ;
+    nbao:lostNum "15"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "15"^^xsd:int .
+
+nbao:coachstat_689 a nbao:CoachStat ;
+    nbao:coachYear "1982"^^xsd:gYear ;
+    nbao:lostNum "52"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "30"^^xsd:int .
+
+nbao:coachstat_693 a nbao:CoachStat ;
+    nbao:coachYear "1982"^^xsd:gYear ;
+    nbao:lostNum "17"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "65"^^xsd:int .
+
+nbao:coachstat_696 a nbao:CoachStat ;
+    nbao:coachYear "1982"^^xsd:gYear ;
+    nbao:lostNum "68"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "14"^^xsd:int .
+
+nbao:coachstat_698 a nbao:CoachStat ;
+    nbao:coachYear "1982"^^xsd:gYear ;
+    nbao:lostNum "39"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "43"^^xsd:int .
+
+nbao:coachstat_701 a nbao:CoachStat ;
+    nbao:coachYear "1982"^^xsd:gYear ;
+    nbao:lostNum "37"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "45"^^xsd:int .
+
+nbao:coachstat_702 a nbao:CoachStat ;
+    nbao:coachYear "1982"^^xsd:gYear ;
+    nbao:lostNum "44"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "38"^^xsd:int .
+
+nbao:coachstat_703 a nbao:CoachStat ;
+    nbao:coachYear "1982"^^xsd:gYear ;
+    nbao:lostNum "31"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "51"^^xsd:int .
+
+nbao:coachstat_705 a nbao:CoachStat ;
+    nbao:coachYear "1982"^^xsd:gYear ;
+    nbao:lostNum "36"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "46"^^xsd:int .
+
+nbao:coachstat_706 a nbao:CoachStat ;
+    nbao:coachYear "1982"^^xsd:gYear ;
+    nbao:lostNum "24"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "58"^^xsd:int .
+
+nbao:coachstat_713 a nbao:CoachStat ;
+    nbao:coachYear "1983"^^xsd:gYear ;
+    nbao:lostNum "45"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "37"^^xsd:int .
+
+nbao:coachstat_716 a nbao:CoachStat ;
+    nbao:coachYear "1983"^^xsd:gYear ;
+    nbao:lostNum "30"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "52"^^xsd:int .
+
+nbao:coachstat_717 a nbao:CoachStat ;
+    nbao:coachYear "1983"^^xsd:gYear ;
+    nbao:lostNum "33"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "49"^^xsd:int .
+
+nbao:coachstat_718 a nbao:CoachStat ;
+    nbao:coachYear "1983"^^xsd:gYear ;
+    nbao:lostNum "53"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "29"^^xsd:int .
+
+nbao:coachstat_720 a nbao:CoachStat ;
+    nbao:coachYear "1983"^^xsd:gYear ;
+    nbao:lostNum "42"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "40"^^xsd:int .
+
+nbao:coachstat_723 a nbao:CoachStat ;
+    nbao:coachYear "1983"^^xsd:gYear ;
+    nbao:lostNum "55"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "27"^^xsd:int .
+
+nbao:coachstat_728 a nbao:CoachStat ;
+    nbao:coachYear "1983"^^xsd:gYear ;
+    nbao:lostNum "44"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "38"^^xsd:int .
+
+nbao:coachstat_729 a nbao:CoachStat ;
+    nbao:coachYear "1983"^^xsd:gYear ;
+    nbao:lostNum "39"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "43"^^xsd:int .
+
+nbao:coachstat_730 a nbao:CoachStat ;
+    nbao:coachYear "1983"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_732 a nbao:CoachStat ;
+    nbao:coachYear "1983"^^xsd:gYear ;
+    nbao:lostNum "34"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "48"^^xsd:int .
+
+nbao:coachstat_733 a nbao:CoachStat ;
+    nbao:coachYear "1983"^^xsd:gYear ;
+    nbao:lostNum "28"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "54"^^xsd:int .
+
+nbao:coachstat_737 a nbao:CoachStat ;
+    nbao:coachYear "1984"^^xsd:gYear ;
+    nbao:lostNum "60"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "22"^^xsd:int .
+
+nbao:coachstat_739 a nbao:CoachStat ;
+    nbao:coachYear "1984"^^xsd:gYear ;
+    nbao:lostNum "12"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "9"^^xsd:int .
+
+nbao:coachstat_740 a nbao:CoachStat ;
+    nbao:coachYear "1984"^^xsd:gYear ;
+    nbao:lostNum "24"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "58"^^xsd:int .
+
+nbao:coachstat_741 a nbao:CoachStat ;
+    nbao:coachYear "1984"^^xsd:gYear ;
+    nbao:lostNum "36"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "46"^^xsd:int .
+
+nbao:coachstat_742 a nbao:CoachStat ;
+    nbao:coachYear "1984"^^xsd:gYear ;
+    nbao:lostNum "34"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "48"^^xsd:int .
+
+nbao:coachstat_743 a nbao:CoachStat ;
+    nbao:coachYear "1984"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612759 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_744 a nbao:CoachStat ;
+    nbao:coachYear "1984"^^xsd:gYear ;
+    nbao:lostNum "48"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "34"^^xsd:int .
+
+nbao:coachstat_745 a nbao:CoachStat ;
+    nbao:coachYear "1984"^^xsd:gYear ;
+    nbao:lostNum "60"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "22"^^xsd:int .
+
+nbao:coachstat_750 a nbao:CoachStat ;
+    nbao:coachYear "1984"^^xsd:gYear ;
+    nbao:lostNum "44"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "38"^^xsd:int .
+
+nbao:coachstat_754 a nbao:CoachStat ;
+    nbao:coachYear "1984"^^xsd:gYear ;
+    nbao:lostNum "30"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "52"^^xsd:int .
+
+nbao:coachstat_755 a nbao:CoachStat ;
+    nbao:coachYear "1984"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "44"^^xsd:int .
+
+nbao:coachstat_756 a nbao:CoachStat ;
+    nbao:coachYear "1984"^^xsd:gYear ;
+    nbao:lostNum "23"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "59"^^xsd:int .
+
+nbao:coachstat_757 a nbao:CoachStat ;
+    nbao:coachYear "1984"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_758 a nbao:CoachStat ;
+    nbao:coachYear "1984"^^xsd:gYear ;
+    nbao:lostNum "20"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "62"^^xsd:int .
+
+nbao:coachstat_762 a nbao:CoachStat ;
+    nbao:coachYear "1985"^^xsd:gYear ;
+    nbao:lostNum "52"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "30"^^xsd:int .
+
+nbao:coachstat_765 a nbao:CoachStat ;
+    nbao:coachYear "1985"^^xsd:gYear ;
+    nbao:lostNum "50"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "32"^^xsd:int .
+
+nbao:coachstat_766 a nbao:CoachStat ;
+    nbao:coachYear "1985"^^xsd:gYear ;
+    nbao:lostNum "36"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "46"^^xsd:int .
+
+nbao:coachstat_767 a nbao:CoachStat ;
+    nbao:coachYear "1985"^^xsd:gYear ;
+    nbao:lostNum "31"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "51"^^xsd:int .
+
+nbao:coachstat_768 a nbao:CoachStat ;
+    nbao:coachYear "1985"^^xsd:gYear ;
+    nbao:lostNum "47"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612759 ;
+    nbao:wonNum "35"^^xsd:int .
+
+nbao:coachstat_769 a nbao:CoachStat ;
+    nbao:coachYear "1985"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_770 a nbao:CoachStat ;
+    nbao:coachYear "1985"^^xsd:gYear ;
+    nbao:lostNum "28"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "54"^^xsd:int .
+
+nbao:coachstat_771 a nbao:CoachStat ;
+    nbao:coachYear "1985"^^xsd:gYear ;
+    nbao:lostNum "56"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "26"^^xsd:int .
+
+nbao:coachstat_779 a nbao:CoachStat ;
+    nbao:coachYear "1985"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_780 a nbao:CoachStat ;
+    nbao:coachYear "1985"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "44"^^xsd:int .
+
+nbao:coachstat_781 a nbao:CoachStat ;
+    nbao:coachYear "1985"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "57"^^xsd:int .
+
+nbao:coachstat_782 a nbao:CoachStat ;
+    nbao:coachYear "1985"^^xsd:gYear ;
+    nbao:lostNum "42"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "40"^^xsd:int .
+
+nbao:coachstat_783 a nbao:CoachStat ;
+    nbao:coachYear "1985"^^xsd:gYear ;
+    nbao:lostNum "20"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "62"^^xsd:int .
+
+nbao:coachstat_788 a nbao:CoachStat ;
+    nbao:coachYear "1986"^^xsd:gYear ;
+    nbao:lostNum "70"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "12"^^xsd:int .
+
+nbao:coachstat_789 a nbao:CoachStat ;
+    nbao:coachYear "1986"^^xsd:gYear ;
+    nbao:lostNum "42"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "40"^^xsd:int .
+
+nbao:coachstat_790 a nbao:CoachStat ;
+    nbao:coachYear "1986"^^xsd:gYear ;
+    nbao:lostNum "30"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "52"^^xsd:int .
+
+nbao:coachstat_791 a nbao:CoachStat ;
+    nbao:coachYear "1986"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_792 a nbao:CoachStat ;
+    nbao:coachYear "1986"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "57"^^xsd:int .
+
+nbao:coachstat_793 a nbao:CoachStat ;
+    nbao:coachYear "1986"^^xsd:gYear ;
+    nbao:lostNum "37"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "45"^^xsd:int .
+
+nbao:coachstat_797 a nbao:CoachStat ;
+    nbao:coachYear "1986"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_801 a nbao:CoachStat ;
+    nbao:coachYear "1986"^^xsd:gYear ;
+    nbao:lostNum "45"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "37"^^xsd:int .
+
+nbao:coachstat_802 a nbao:CoachStat ;
+    nbao:coachYear "1986"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "55"^^xsd:int .
+
+nbao:coachstat_803 a nbao:CoachStat ;
+    nbao:coachYear "1986"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_804 a nbao:CoachStat ;
+    nbao:coachYear "1986"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_806 a nbao:CoachStat ;
+    nbao:coachYear "1986"^^xsd:gYear ;
+    nbao:lostNum "17"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "65"^^xsd:int .
+
+nbao:coachstat_809 a nbao:CoachStat ;
+    nbao:coachYear "1986"^^xsd:gYear ;
+    nbao:lostNum "54"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612759 ;
+    nbao:wonNum "28"^^xsd:int .
+
+nbao:coachstat_813 a nbao:CoachStat ;
+    nbao:coachYear "1987"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_814 a nbao:CoachStat ;
+    nbao:coachYear "1987"^^xsd:gYear ;
+    nbao:lostNum "28"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "54"^^xsd:int .
+
+nbao:coachstat_815 a nbao:CoachStat ;
+    nbao:coachYear "1987"^^xsd:gYear ;
+    nbao:lostNum "36"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "46"^^xsd:int .
+
+nbao:coachstat_816 a nbao:CoachStat ;
+    nbao:coachYear "1987"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_818 a nbao:CoachStat ;
+    nbao:coachYear "1987"^^xsd:gYear ;
+    nbao:lostNum "23"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "20"^^xsd:int .
+
+nbao:coachstat_819 a nbao:CoachStat ;
+    nbao:coachYear "1987"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_821 a nbao:CoachStat ;
+    nbao:coachYear "1987"^^xsd:gYear ;
+    nbao:lostNum "48"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "16"^^xsd:int .
+
+nbao:coachstat_826 a nbao:CoachStat ;
+    nbao:coachYear "1987"^^xsd:gYear ;
+    nbao:lostNum "29"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "53"^^xsd:int .
+
+nbao:coachstat_827 a nbao:CoachStat ;
+    nbao:coachYear "1987"^^xsd:gYear ;
+    nbao:lostNum "28"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "54"^^xsd:int .
+
+nbao:coachstat_829 a nbao:CoachStat ;
+    nbao:coachYear "1987"^^xsd:gYear ;
+    nbao:lostNum "44"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "38"^^xsd:int .
+
+nbao:coachstat_832 a nbao:CoachStat ;
+    nbao:coachYear "1987"^^xsd:gYear ;
+    nbao:lostNum "20"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "62"^^xsd:int .
+
+nbao:coachstat_833 a nbao:CoachStat ;
+    nbao:coachYear "1987"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "17"^^xsd:int .
+
+nbao:coachstat_835 a nbao:CoachStat ;
+    nbao:coachYear "1987"^^xsd:gYear ;
+    nbao:lostNum "65"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "17"^^xsd:int .
+
+nbao:coachstat_837 a nbao:CoachStat ;
+    nbao:coachYear "1987"^^xsd:gYear ;
+    nbao:lostNum "51"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612759 ;
+    nbao:wonNum "31"^^xsd:int .
+
+nbao:coachstat_841 a nbao:CoachStat ;
+    nbao:coachYear "1988"^^xsd:gYear ;
+    nbao:lostNum "21"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "14"^^xsd:int .
+
+nbao:coachstat_843 a nbao:CoachStat ;
+    nbao:coachYear "1988"^^xsd:gYear ;
+    nbao:lostNum "61"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612759 ;
+    nbao:wonNum "21"^^xsd:int .
+
+nbao:coachstat_845 a nbao:CoachStat ;
+    nbao:coachYear "1988"^^xsd:gYear ;
+    nbao:lostNum "37"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "45"^^xsd:int .
+
+nbao:coachstat_846 a nbao:CoachStat ;
+    nbao:coachYear "1988"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_847 a nbao:CoachStat ;
+    nbao:coachYear "1988"^^xsd:gYear ;
+    nbao:lostNum "19"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "63"^^xsd:int .
+
+nbao:coachstat_848 a nbao:CoachStat ;
+    nbao:coachYear "1988"^^xsd:gYear ;
+    nbao:lostNum "2"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "0"^^xsd:int .
+
+nbao:coachstat_850 a nbao:CoachStat ;
+    nbao:coachYear "1988"^^xsd:gYear ;
+    nbao:lostNum "30"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "52"^^xsd:int .
+
+nbao:coachstat_851 a nbao:CoachStat ;
+    nbao:coachYear "1988"^^xsd:gYear ;
+    nbao:lostNum "33"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "49"^^xsd:int .
+
+nbao:coachstat_853 a nbao:CoachStat ;
+    nbao:coachYear "1988"^^xsd:gYear ;
+    nbao:lostNum "14"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "6"^^xsd:int .
+
+nbao:coachstat_857 a nbao:CoachStat ;
+    nbao:coachYear "1988"^^xsd:gYear ;
+    nbao:lostNum "44"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "38"^^xsd:int .
+
+nbao:coachstat_858 a nbao:CoachStat ;
+    nbao:coachYear "1988"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "44"^^xsd:int .
+
+nbao:coachstat_859 a nbao:CoachStat ;
+    nbao:coachYear "1988"^^xsd:gYear ;
+    nbao:lostNum "39"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "43"^^xsd:int .
+
+nbao:coachstat_862 a nbao:CoachStat ;
+    nbao:coachYear "1988"^^xsd:gYear ;
+    nbao:lostNum "7"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "0"^^xsd:int .
+
+nbao:coachstat_865 a nbao:CoachStat ;
+    nbao:coachYear "1988"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "57"^^xsd:int .
+
+nbao:coachstat_869 a nbao:CoachStat ;
+    nbao:coachYear "1988"^^xsd:gYear ;
+    nbao:lostNum "28"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "10"^^xsd:int .
+
+nbao:coachstat_870 a nbao:CoachStat ;
+    nbao:coachYear "1988"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "40"^^xsd:int .
+
+nbao:coachstat_872 a nbao:CoachStat ;
+    nbao:coachYear "1988"^^xsd:gYear ;
+    nbao:lostNum "31"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "22"^^xsd:int .
+
+nbao:coachstat_874 a nbao:CoachStat ;
+    nbao:coachYear "1989"^^xsd:gYear ;
+    nbao:lostNum "23"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "59"^^xsd:int .
+
+nbao:coachstat_877 a nbao:CoachStat ;
+    nbao:coachYear "1989"^^xsd:gYear ;
+    nbao:lostNum "26"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612759 ;
+    nbao:wonNum "56"^^xsd:int .
+
+nbao:coachstat_879 a nbao:CoachStat ;
+    nbao:coachYear "1989"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_880 a nbao:CoachStat ;
+    nbao:coachYear "1989"^^xsd:gYear ;
+    nbao:lostNum "23"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "59"^^xsd:int .
+
+nbao:coachstat_883 a nbao:CoachStat ;
+    nbao:coachYear "1989"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_885 a nbao:CoachStat ;
+    nbao:coachYear "1989"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "44"^^xsd:int .
+
+nbao:coachstat_887 a nbao:CoachStat ;
+    nbao:coachYear "1989"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "55"^^xsd:int .
+
+nbao:coachstat_891 a nbao:CoachStat ;
+    nbao:coachYear "1989"^^xsd:gYear ;
+    nbao:lostNum "6"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "5"^^xsd:int .
+
+nbao:coachstat_892 a nbao:CoachStat ;
+    nbao:coachYear "1989"^^xsd:gYear ;
+    nbao:lostNum "39"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "43"^^xsd:int .
+
+nbao:coachstat_893 a nbao:CoachStat ;
+    nbao:coachYear "1989"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "16"^^xsd:int .
+
+nbao:coachstat_895 a nbao:CoachStat ;
+    nbao:coachYear "1989"^^xsd:gYear ;
+    nbao:lostNum "45"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "37"^^xsd:int .
+
+nbao:coachstat_897 a nbao:CoachStat ;
+    nbao:coachYear "1989"^^xsd:gYear ;
+    nbao:lostNum "19"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "63"^^xsd:int .
+
+nbao:coachstat_900 a nbao:CoachStat ;
+    nbao:coachYear "1989"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "55"^^xsd:int .
+
+nbao:coachstat_902 a nbao:CoachStat ;
+    nbao:coachYear "1989"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "42"^^xsd:int .
+
+nbao:coachstat_904 a nbao:CoachStat ;
+    nbao:coachYear "1990"^^xsd:gYear ;
+    nbao:lostNum "19"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "63"^^xsd:int .
+
+nbao:coachstat_906 a nbao:CoachStat ;
+    nbao:coachYear "1990"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612759 ;
+    nbao:wonNum "55"^^xsd:int .
+
+nbao:coachstat_907 a nbao:CoachStat ;
+    nbao:coachYear "1990"^^xsd:gYear ;
+    nbao:lostNum "30"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "52"^^xsd:int .
+
+nbao:coachstat_908 a nbao:CoachStat ;
+    nbao:coachYear "1990"^^xsd:gYear ;
+    nbao:lostNum "32"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "50"^^xsd:int .
+
+nbao:coachstat_909 a nbao:CoachStat ;
+    nbao:coachYear "1990"^^xsd:gYear ;
+    nbao:lostNum "24"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "58"^^xsd:int .
+
+nbao:coachstat_914 a nbao:CoachStat ;
+    nbao:coachYear "1990"^^xsd:gYear ;
+    nbao:lostNum "34"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "48"^^xsd:int .
+
+nbao:coachstat_916 a nbao:CoachStat ;
+    nbao:coachYear "1990"^^xsd:gYear ;
+    nbao:lostNum "21"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "61"^^xsd:int .
+
+nbao:coachstat_922 a nbao:CoachStat ;
+    nbao:coachYear "1990"^^xsd:gYear ;
+    nbao:lostNum "57"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "25"^^xsd:int .
+
+nbao:coachstat_924 a nbao:CoachStat ;
+    nbao:coachYear "1990"^^xsd:gYear ;
+    nbao:lostNum "38"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "44"^^xsd:int .
+
+nbao:coachstat_927 a nbao:CoachStat ;
+    nbao:coachYear "1990"^^xsd:gYear ;
+    nbao:lostNum "28"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "54"^^xsd:int .
+
+nbao:coachstat_929 a nbao:CoachStat ;
+    nbao:coachYear "1990"^^xsd:gYear ;
+    nbao:lostNum "16"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612754 ;
+    nbao:wonNum "9"^^xsd:int .
+
+nbao:coachstat_930 a nbao:CoachStat ;
+    nbao:coachYear "1990"^^xsd:gYear ;
+    nbao:lostNum "39"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "43"^^xsd:int .
+
+nbao:coachstat_933 a nbao:CoachStat ;
+    nbao:coachYear "1991"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "57"^^xsd:int .
+
+nbao:coachstat_937 a nbao:CoachStat ;
+    nbao:coachYear "1991"^^xsd:gYear ;
+    nbao:lostNum "12"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "23"^^xsd:int .
+
+nbao:coachstat_938 a nbao:CoachStat ;
+    nbao:coachYear "1991"^^xsd:gYear ;
+    nbao:lostNum "17"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612759 ;
+    nbao:wonNum "21"^^xsd:int .
+
+nbao:coachstat_939 a nbao:CoachStat ;
+    nbao:coachYear "1991"^^xsd:gYear ;
+    nbao:lostNum "1"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "1"^^xsd:int .
+
+nbao:coachstat_940 a nbao:CoachStat ;
+    nbao:coachYear "1991"^^xsd:gYear ;
+    nbao:lostNum "26"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "26"^^xsd:int .
+
+nbao:coachstat_941 a nbao:CoachStat ;
+    nbao:coachYear "1991"^^xsd:gYear ;
+    nbao:lostNum "34"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612765 ;
+    nbao:wonNum "48"^^xsd:int .
+
+nbao:coachstat_942 a nbao:CoachStat ;
+    nbao:coachYear "1991"^^xsd:gYear ;
+    nbao:lostNum "39"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612747 ;
+    nbao:wonNum "43"^^xsd:int .
+
+nbao:coachstat_948 a nbao:CoachStat ;
+    nbao:coachYear "1991"^^xsd:gYear ;
+    nbao:lostNum "9"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "8"^^xsd:int .
+
+nbao:coachstat_951 a nbao:CoachStat ;
+    nbao:coachYear "1991"^^xsd:gYear ;
+    nbao:lostNum "15"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "67"^^xsd:int .
+
+nbao:coachstat_955 a nbao:CoachStat ;
+    nbao:coachYear "1991"^^xsd:gYear ;
+    nbao:lostNum "44"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612748 ;
+    nbao:wonNum "38"^^xsd:int .
+
+nbao:coachstat_957 a nbao:CoachStat ;
+    nbao:coachYear "1991"^^xsd:gYear ;
+    nbao:lostNum "18"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612758 ;
+    nbao:wonNum "7"^^xsd:int .
+
+nbao:coachstat_958 a nbao:CoachStat ;
+    nbao:coachYear "1991"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "55"^^xsd:int .
+
+nbao:coachstat_962 a nbao:CoachStat ;
+    nbao:coachYear "1991"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "55"^^xsd:int .
+
+nbao:coachstat_963 a nbao:CoachStat ;
+    nbao:coachYear "1991"^^xsd:gYear ;
+    nbao:lostNum "14"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "16"^^xsd:int .
+
+nbao:coachstat_965 a nbao:CoachStat ;
+    nbao:coachYear "1991"^^xsd:gYear ;
+    nbao:lostNum "44"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "38"^^xsd:int .
+
+nbao:coachstat_968 a nbao:CoachStat ;
+    nbao:coachYear "1992"^^xsd:gYear ;
+    nbao:lostNum "31"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612757 ;
+    nbao:wonNum "51"^^xsd:int .
+
+nbao:coachstat_971 a nbao:CoachStat ;
+    nbao:coachYear "1992"^^xsd:gYear ;
+    nbao:lostNum "41"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612746 ;
+    nbao:wonNum "41"^^xsd:int .
+
+nbao:coachstat_972 a nbao:CoachStat ;
+    nbao:coachYear "1992"^^xsd:gYear ;
+    nbao:lostNum "19"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "7"^^xsd:int .
+
+nbao:coachstat_974 a nbao:CoachStat ;
+    nbao:coachYear "1992"^^xsd:gYear ;
+    nbao:lostNum "54"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612749 ;
+    nbao:wonNum "28"^^xsd:int .
+
+nbao:coachstat_977 a nbao:CoachStat ;
+    nbao:coachYear "1992"^^xsd:gYear ;
+    nbao:lostNum "44"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612742 ;
+    nbao:wonNum "9"^^xsd:int .
+
+nbao:coachstat_980 a nbao:CoachStat ;
+    nbao:coachYear "1992"^^xsd:gYear ;
+    nbao:lostNum "46"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612743 ;
+    nbao:wonNum "36"^^xsd:int .
+
+nbao:coachstat_981 a nbao:CoachStat ;
+    nbao:coachYear "1992"^^xsd:gYear ;
+    nbao:lostNum "25"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612741 ;
+    nbao:wonNum "57"^^xsd:int .
+
+nbao:coachstat_983 a nbao:CoachStat ;
+    nbao:coachYear "1992"^^xsd:gYear ;
+    nbao:lostNum "46"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612748 ;
+    nbao:wonNum "36"^^xsd:int .
+
+nbao:coachstat_984 a nbao:CoachStat ;
+    nbao:coachYear "1992"^^xsd:gYear ;
+    nbao:lostNum "40"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612750 ;
+    nbao:wonNum "13"^^xsd:int .
+
+nbao:coachstat_985 a nbao:CoachStat ;
+    nbao:coachYear "1992"^^xsd:gYear ;
+    nbao:lostNum "22"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612759 ;
+    nbao:wonNum "39"^^xsd:int .
+
+nbao:coachstat_986 a nbao:CoachStat ;
+    nbao:coachYear "1992"^^xsd:gYear ;
+    nbao:lostNum "37"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612755 ;
+    nbao:wonNum "19"^^xsd:int .
+
+nbao:coachstat_987 a nbao:CoachStat ;
+    nbao:coachYear "1992"^^xsd:gYear ;
+    nbao:lostNum "48"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612744 ;
+    nbao:wonNum "34"^^xsd:int .
+
+nbao:coachstat_992 a nbao:CoachStat ;
+    nbao:coachYear "1992"^^xsd:gYear ;
+    nbao:lostNum "35"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612762 ;
+    nbao:wonNum "47"^^xsd:int .
+
+nbao:coachstat_995 a nbao:CoachStat ;
+    nbao:coachYear "1992"^^xsd:gYear ;
+    nbao:lostNum "27"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612745 ;
+    nbao:wonNum "55"^^xsd:int .
+
+nbao:coachstat_997 a nbao:CoachStat ;
+    nbao:coachYear "1992"^^xsd:gYear ;
+    nbao:lostNum "39"^^xsd:int ;
+    nbao:withCoachedTeam nbao:team_1610612737 ;
+    nbao:wonNum "43"^^xsd:int .
+
+nbao:player_1449 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1131,
+        nbao:coachstat_1165,
+        nbao:coachstat_1197 .
+
+nbao:player_1479 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1622 .
+
+nbao:player_2 a nbao:Coach .
+
+nbao:player_2734 a nbao:Coach .
+
+nbao:player_418 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1505,
+        nbao:coachstat_1546,
+        nbao:coachstat_1578,
+        nbao:coachstat_1631 .
+
+nbao:player_422 a nbao:Coach ;
+    nbao:hasCoachStat nbao:coachstat_1382,
+        nbao:coachstat_1421,
+        nbao:coachstat_1452,
+        nbao:coachstat_1482 .
+
+nbao:player_76773 a nbao:Coach .
+
+nbao:coach_brownhu01 a nbao:Coach ;
+    nbao:birthdate "1933-09-25"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1297,
+        nbao:coachstat_1331,
+        nbao:coachstat_1369,
+        nbao:coachstat_530,
+        nbao:coachstat_556,
+        nbao:coachstat_581,
+        nbao:coachstat_610,
+        nbao:coachstat_633 ;
+    foaf:name "Hubie Brown"^^xsd:string .
+
+nbao:coach_fitchbi01 a nbao:Coach ;
+    nbao:birthdate "1934-05-19"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1037,
+        nbao:coachstat_1070,
+        nbao:coachstat_1105,
+        nbao:coachstat_1141,
+        nbao:coachstat_718,
+        nbao:coachstat_742,
+        nbao:coachstat_767,
+        nbao:coachstat_791,
+        nbao:coachstat_815 ;
+    foaf:name "Bill Fitch"^^xsd:string .
+
+nbao:coach_fitzsco01 a nbao:Coach ;
+    nbao:birthdate "1931-10-07"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_410,
+        nbao:coachstat_438,
+        nbao:coachstat_469,
+        nbao:coachstat_504,
+        nbao:coachstat_743,
+        nbao:coachstat_768 ;
+    foaf:name "Cotton Fitzsimmons"^^xsd:string .
+
+nbao:coach_hannual01 a nbao:Coach ;
+    nbao:birthdate "1923-07-19"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_232,
+        nbao:coachstat_251 ;
+    foaf:name "Alexander Hannum"^^xsd:string .
+
+nbao:coach_sharmbi01 a nbao:Coach ;
+    nbao:birthdate "1926-05-25"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_391,
+        nbao:coachstat_426,
+        nbao:coachstat_455,
+        nbao:coachstat_487,
+        nbao:coachstat_520 ;
+    foaf:name "William Sharman"^^xsd:string .
+
+nbao:coach_shuege01 a nbao:Coach ;
+    nbao:birthdate "1931-12-18"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_456,
+        nbao:coachstat_489,
+        nbao:coachstat_521,
+        nbao:coachstat_549,
+        nbao:coachstat_575,
+        nbao:coachstat_835,
+        nbao:coachstat_869 ;
+    foaf:name "Eugene Shue"^^xsd:string .
+
+nbao:coach_nelsodo01 a nbao:Coach ;
+    nbao:birthdate "1940-05-15"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1019,
+        nbao:coachstat_1053,
+        nbao:coachstat_1151,
+        nbao:coachstat_1183,
+        nbao:coachstat_1213,
+        nbao:coachstat_1244,
+        nbao:coachstat_1281,
+        nbao:coachstat_1315,
+        nbao:coachstat_1351,
+        nbao:coachstat_1390,
+        nbao:coachstat_1459,
+        nbao:coachstat_1489,
+        nbao:coachstat_1528,
+        nbao:coachstat_1562,
+        nbao:coachstat_545,
+        nbao:coachstat_570,
+        nbao:coachstat_594,
+        nbao:coachstat_622,
+        nbao:coachstat_648,
+        nbao:coachstat_677,
+        nbao:coachstat_703,
+        nbao:coachstat_730,
+        nbao:coachstat_756,
+        nbao:coachstat_781,
+        nbao:coachstat_803,
+        nbao:coachstat_859,
+        nbao:coachstat_895,
+        nbao:coachstat_924,
+        nbao:coachstat_958,
+        nbao:coachstat_987 ;
+    foaf:name "Donald Nelson"^^xsd:string .
+
+nbao:coach_rileypa01 a nbao:Coach ;
+    nbao:birthdate "1945-03-20"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1083,
+        nbao:coachstat_1119,
+        nbao:coachstat_1154,
+        nbao:coachstat_1187,
+        nbao:coachstat_1216,
+        nbao:coachstat_1248,
+        nbao:coachstat_1284,
+        nbao:coachstat_1318,
+        nbao:coachstat_1428,
+        nbao:coachstat_1461,
+        nbao:coachstat_1492,
+        nbao:coachstat_680,
+        nbao:coachstat_706,
+        nbao:coachstat_733,
+        nbao:coachstat_758,
+        nbao:coachstat_783,
+        nbao:coachstat_806,
+        nbao:coachstat_832,
+        nbao:coachstat_865,
+        nbao:coachstat_897 ;
+    foaf:name "Patrick Riley"^^xsd:string .
+
+nbao:coach_brownla01 a nbao:Coach ;
+    nbao:birthdate "1940-09-14"^^xsd:date ;
+    nbao:hasCoachStat nbao:coachstat_1003,
+        nbao:coachstat_1033,
+        nbao:coachstat_1065,
+        nbao:coachstat_1097,
+        nbao:coachstat_1132,
+        nbao:coachstat_1167,
+        nbao:coachstat_1198,
+        nbao:coachstat_1231,
+        nbao:coachstat_1263,
+        nbao:coachstat_1298,
+        nbao:coachstat_1332,
+        nbao:coachstat_1370,
+        nbao:coachstat_1579,
+        nbao:coachstat_531,
+        nbao:coachstat_557,
+        nbao:coachstat_582,
+        nbao:coachstat_843,
+        nbao:coachstat_877,
+        nbao:coachstat_906,
+        nbao:coachstat_937,
+        nbao:coachstat_938,
+        nbao:coachstat_971 ;
+    foaf:name "Lawrence Brown"^^xsd:string .
+
