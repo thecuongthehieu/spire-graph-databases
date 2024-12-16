@@ -1,0 +1,3209 @@
+@prefix nbao: <http://www.semanticweb.org/~gdb/ontology/spire/nbao#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+nbao:award_year1946_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1946"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77546,
+        nbao:player_78638 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1947_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1947"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_78638 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1947_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1947"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76243 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1948_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1948"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600012,
+        nbao:player_78638 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1948_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1948"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77546 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1949_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1949"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600012,
+        nbao:player_78638 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1949_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1949"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76131,
+        nbao:player_76250 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1950_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1950"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600012,
+        nbao:player_76131 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1950_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1950"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76250 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1951_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1951"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600012,
+        nbao:player_76056 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1952_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1952"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600012 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1953_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1953"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600012,
+        nbao:player_76773 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1953_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1953"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76243,
+        nbao:player_78117 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1954_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1954"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76773,
+        nbao:player_77480,
+        nbao:player_78117 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1955_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1955"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76056 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1955_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1955"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600016,
+        nbao:player_77414,
+        nbao:player_77480 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1955_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1955"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600016 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1956_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1956"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76056 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1956_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1956"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600016,
+        nbao:player_77480,
+        nbao:player_78628 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1957_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1957"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_78628 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1957_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1957"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600016,
+        nbao:player_77480 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1958_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1958"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76127 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1958_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1958"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76056,
+        nbao:player_77480 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1958_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1958"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76127 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1959_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1959"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76127 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1960_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1960"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600015,
+        nbao:player_76127 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1960_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1960"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600015 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1961_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1961"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600015,
+        nbao:player_76127,
+        nbao:player_78497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1962_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1962"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600015,
+        nbao:player_76127,
+        nbao:player_78497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1962_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1962"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77070 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1962_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1962"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76577 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1963_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1963"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600015,
+        nbao:player_76127,
+        nbao:player_78497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1963_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1963"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76970 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1963_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1963"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600015 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1964_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1964"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600015,
+        nbao:player_76127,
+        nbao:player_78497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1964_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1964"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77150 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1964_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1964"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77929 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1965_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1965"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600015,
+        nbao:player_78497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1965_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1965"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76970,
+        nbao:player_77150 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1966_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1966"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600015,
+        nbao:player_76127,
+        nbao:player_78497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1966_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1966"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77929 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1967_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1967"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600015,
+        nbao:player_76127 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1967_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1967"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76970,
+        nbao:player_77929,
+        nbao:player_78497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1968_titleAllABAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-ABA First Team"^^xsd:string ;
+    nbao:awardYear "1968"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2592 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1968_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1968"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76970,
+        nbao:player_78060,
+        nbao:player_78497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1968_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1968"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1061,
+        nbao:player_600015,
+        nbao:player_76127 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1968_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1968"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76970,
+        nbao:player_77929,
+        nbao:player_78497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1968_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1968"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_78497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1969_titleAllABAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-ABA First Team"^^xsd:string ;
+    nbao:awardYear "1969"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76981 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1969_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1969"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77150,
+        nbao:player_77929,
+        nbao:player_78497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1969_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1969"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003,
+        nbao:player_76329,
+        nbao:player_76970 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1969_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1969"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1061,
+        nbao:player_77929,
+        nbao:player_78497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1969_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1969"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600015,
+        nbao:player_76003,
+        nbao:player_76970,
+        nbao:player_77150 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1969_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1969"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77929 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1969_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1969"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76981,
+        nbao:player_77929 ;
+    nbao:ofLeague nbao:ABA,
+        nbao:NBA .
+
+nbao:award_year1969_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1969"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003,
+        nbao:player_76981 ;
+    nbao:ofLeague nbao:ABA,
+        nbao:NBA .
+
+nbao:award_year1970_titleAllABAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-ABA First Team"^^xsd:string ;
+    nbao:awardYear "1970"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76336 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1970_titleAllABASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-ABA Second Team"^^xsd:string ;
+    nbao:awardYear "1970"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76133,
+        nbao:player_76256,
+        nbao:player_76329 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1970_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1970"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77150,
+        nbao:player_78497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1970_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1970"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003,
+        nbao:player_76970,
+        nbao:player_78151 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1970_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1970"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1061,
+        nbao:player_76003,
+        nbao:player_76970,
+        nbao:player_78497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1970_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1970"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600015,
+        nbao:player_77150,
+        nbao:player_77929 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1970_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1970"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003,
+        nbao:player_76133 ;
+    nbao:ofLeague nbao:ABA,
+        nbao:NBA .
+
+nbao:award_year1970_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1970"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1971_titleAllABAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-ABA First Team"^^xsd:string ;
+    nbao:awardYear "1971"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600014 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1971_titleAllABASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-ABA Second Team"^^xsd:string ;
+    nbao:awardYear "1971"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76133,
+        nbao:player_76681,
+        nbao:player_78157,
+        nbao:player_78602 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1971_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1971"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76970,
+        nbao:player_78497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1971_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1971"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_78151 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1971_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1971"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003,
+        nbao:player_76970,
+        nbao:player_76981,
+        nbao:player_78497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1971_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1971"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1061,
+        nbao:player_76397 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1971_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1971"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600014,
+        nbao:player_76003 ;
+    nbao:ofLeague nbao:ABA,
+        nbao:NBA .
+
+nbao:award_year1971_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1971"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600014 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1972_titleAllABAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-ABA First Team"^^xsd:string ;
+    nbao:awardYear "1972"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1061,
+        nbao:player_2592,
+        nbao:player_600014,
+        nbao:player_76681 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1972_titleAllABASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-ABA Second Team"^^xsd:string ;
+    nbao:awardYear "1972"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76336,
+        nbao:player_77532,
+        nbao:player_78157 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1972_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1972"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76970,
+        nbao:player_78497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1972_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1972"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_78151 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1972_titleAllDefensiveTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Team"^^xsd:string ;
+    nbao:awardYear "1972"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600014,
+        nbao:player_76329,
+        nbao:player_78302,
+        nbao:player_78602 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1972_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1972"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003,
+        nbao:player_76970,
+        nbao:player_76981,
+        nbao:player_78497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1972_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1972"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76979 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1972_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1972"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77532,
+        nbao:player_77929 ;
+    nbao:ofLeague nbao:ABA,
+        nbao:NBA .
+
+nbao:award_year1972_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1972"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1061 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1972_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1972"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_78296 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1973_titleAllABAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-ABA First Team"^^xsd:string ;
+    nbao:awardYear "1973"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2592,
+        nbao:player_600014,
+        nbao:player_76336,
+        nbao:player_76681,
+        nbao:player_77532 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1973_titleAllABASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-ABA Second Team"^^xsd:string ;
+    nbao:awardYear "1973"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77689,
+        nbao:player_78602 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1973_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1973"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003,
+        nbao:player_76970 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1973_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1973"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76979 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1973_titleAllDefensiveTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Team"^^xsd:string ;
+    nbao:awardYear "1973"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600014,
+        nbao:player_78302,
+        nbao:player_78602 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1973_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1973"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003,
+        nbao:player_76832,
+        nbao:player_76970 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1973_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1973"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76979,
+        nbao:player_76981 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1973_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1973"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76681,
+        nbao:player_76970 ;
+    nbao:ofLeague nbao:ABA,
+        nbao:NBA .
+
+nbao:award_year1973_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1973"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003,
+        nbao:player_76681 ;
+    nbao:ofLeague nbao:ABA,
+        nbao:NBA .
+
+nbao:award_year1973_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1973"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77689 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1974_titleAllABAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-ABA First Team"^^xsd:string ;
+    nbao:awardYear "1974"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600014,
+        nbao:player_76336,
+        nbao:player_76681,
+        nbao:player_77532 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1974_titleAllABASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-ABA Second Team"^^xsd:string ;
+    nbao:awardYear "1974"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76104,
+        nbao:player_76804,
+        nbao:player_77689,
+        nbao:player_78150,
+        nbao:player_78296 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1974_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1974"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003,
+        nbao:player_76970,
+        nbao:player_78151 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1974_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1974"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76979 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1974_titleAllDefensiveTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Team"^^xsd:string ;
+    nbao:awardYear "1974"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600014,
+        nbao:player_78296 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1974_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1974"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76979 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1974_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1974"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76970,
+        nbao:player_76981 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1974_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1974"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600014 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1974_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1974"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76681,
+        nbao:player_77532 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1974_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1974"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76104,
+        nbao:player_78532 ;
+    nbao:ofLeague nbao:ABA,
+        nbao:NBA .
+
+nbao:award_year1975_titleAllABAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-ABA First Team"^^xsd:string ;
+    nbao:awardYear "1975"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600014,
+        nbao:player_76681,
+        nbao:player_78150,
+        nbao:player_78157 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1975_titleAllABASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-ABA Second Team"^^xsd:string ;
+    nbao:awardYear "1975"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76804,
+        nbao:player_78326 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1975_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1975"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76970,
+        nbao:player_78151 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1975_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1975"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003,
+        nbao:player_78532 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1975_titleAllDefensiveTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Team"^^xsd:string ;
+    nbao:awardYear "1975"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600014,
+        nbao:player_76681,
+        nbao:player_78296 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1975_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1975"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003,
+        nbao:player_77532 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1975_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1975"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76970,
+        nbao:player_76979 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1975_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1975"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76681 ;
+    nbao:ofLeague nbao:ABA .
+
+nbao:award_year1975_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1975"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003,
+        nbao:player_76681 ;
+    nbao:ofLeague nbao:ABA,
+        nbao:NBA .
+
+nbao:award_year1975_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1975"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76011,
+        nbao:player_78326 ;
+    nbao:ofLeague nbao:ABA,
+        nbao:NBA .
+
+nbao:award_year1976_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1976"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76413 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1976_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1976"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003,
+        nbao:player_78296,
+        nbao:player_78532 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1976_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1976"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003,
+        nbao:player_76979,
+        nbao:player_78326,
+        nbao:player_78500 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1976_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1976"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76681,
+        nbao:player_76804,
+        nbao:player_77532 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1976_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1976"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1976_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1976"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76504 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1977_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1977"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77043,
+        nbao:player_77420 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1977_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1977"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_600014,
+        nbao:player_76003,
+        nbao:player_76413 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1977_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1977"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76681,
+        nbao:player_76804,
+        nbao:player_78326 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1977_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1977"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1453,
+        nbao:player_76003,
+        nbao:player_77420,
+        nbao:player_78500 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1977_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1977"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1453 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1978_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1978"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003,
+        nbao:player_77141 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1978_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1978"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77043,
+        nbao:player_77420,
+        nbao:player_77449 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1978_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1978"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76804,
+        nbao:player_76979,
+        nbao:player_77160,
+        nbao:player_77449,
+        nbao:player_78500 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1978_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1978"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1453,
+        nbao:player_76003,
+        nbao:player_76736,
+        nbao:player_76753 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1978_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1978"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77141 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1978_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1978"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77449 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1978_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1978"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76736 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1979_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1979"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003,
+        nbao:player_77141 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1979_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1979"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_78467,
+        nbao:player_78482 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1979_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1979"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1449,
+        nbao:player_76003,
+        nbao:player_76681,
+        nbao:player_76804,
+        nbao:player_78500 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1979_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1979"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77141,
+        nbao:player_77160,
+        nbao:player_77449,
+        nbao:player_78549 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1979_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1979"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1979_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1979"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1449 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1980_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1980"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003,
+        nbao:player_77141 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1980_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1980"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76231,
+        nbao:player_76444,
+        nbao:player_77147,
+        nbao:player_78467 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1980_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1980"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1449,
+        nbao:player_76003,
+        nbao:player_76681,
+        nbao:player_76804,
+        nbao:player_77141 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1980_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1980"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76170,
+        nbao:player_76504,
+        nbao:player_77160,
+        nbao:player_77449 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1980_titleComeback a nbao:Award ;
+    nbao:awardTitle "Comeback"^^xsd:string ;
+    nbao:awardYear "1980"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77264 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1980_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1980"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77487 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1980_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1980"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76681 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1980_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1980"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76890 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1981_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1981"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76444,
+        nbao:player_77141 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1981_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1981"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1449,
+        nbao:player_77626,
+        nbao:player_78133 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1981_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1981"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1449,
+        nbao:player_76681,
+        nbao:player_76804,
+        nbao:player_77449,
+        nbao:player_78549 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1981_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1981"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_305,
+        nbao:player_77264,
+        nbao:player_77626 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1981_titleComeback a nbao:Award ;
+    nbao:awardTitle "Comeback"^^xsd:string ;
+    nbao:awardYear "1981"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_78549 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1981_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1981"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77449 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1982_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1982"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76385,
+        nbao:player_77141,
+        nbao:player_77449,
+        nbao:player_77626 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1982_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1982"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1449,
+        nbao:player_1450,
+        nbao:player_76444 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1982_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1982"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1449,
+        nbao:player_76681,
+        nbao:player_77449,
+        nbao:player_77626 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1982_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1982"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003,
+        nbao:player_76804,
+        nbao:player_78318 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1982_titleComeback a nbao:Award ;
+    nbao:awardTitle "Comeback"^^xsd:string ;
+    nbao:awardYear "1982"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_78500 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1982_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "1982"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77626 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1982_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1982"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77449 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1982_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1982"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77449 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1983_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1983"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76385,
+        nbao:player_76444,
+        nbao:player_77626 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1983_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1983"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1449,
+        nbao:player_76003,
+        nbao:player_77141 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1983_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1983"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1449,
+        nbao:player_76003,
+        nbao:player_77264,
+        nbao:player_78318 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1983_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1983"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76504,
+        nbao:player_76681,
+        nbao:player_77449,
+        nbao:player_77626 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1983_titleComeback a nbao:Award ;
+    nbao:awardTitle "Comeback"^^xsd:string ;
+    nbao:awardYear "1983"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76504 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1983_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "1983"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77626 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1983_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1983"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1449 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1983_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1983"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1449 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1983_titleSixthManoftheYear a nbao:Award ;
+    nbao:awardTitle "Sixth Man of the Year"^^xsd:string ;
+    nbao:awardYear "1983"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1450 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1984_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1984"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76385,
+        nbao:player_76444,
+        nbao:player_77626,
+        nbao:player_77879 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1984_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1984"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_165,
+        nbao:player_77141 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1984_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1984"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1449,
+        nbao:player_77264,
+        nbao:player_77449,
+        nbao:player_78318 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1984_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1984"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003,
+        nbao:player_77626,
+        nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1984_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1984"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76003 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1984_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1984"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1449 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1984_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1984"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1984_titleSixthManoftheYear a nbao:Award ;
+    nbao:awardTitle "Sixth Man of the Year"^^xsd:string ;
+    nbao:awardYear "1984"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1450 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1985_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1985"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1450,
+        nbao:player_76385,
+        nbao:player_77626,
+        nbao:player_77879 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1985_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1985"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76195,
+        nbao:player_76444,
+        nbao:player_77141,
+        nbao:player_926 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1985_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1985"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1449,
+        nbao:player_76003,
+        nbao:player_78318 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1985_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1985"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_165,
+        nbao:player_77626,
+        nbao:player_787,
+        nbao:player_926 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1985_titleComeback a nbao:Award ;
+    nbao:awardTitle "Comeback"^^xsd:string ;
+    nbao:awardYear "1985"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77160 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1985_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "1985"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_926 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1985_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1985"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1449 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1985_titleMostImprovedPlayer a nbao:Award ;
+    nbao:awardTitle "Most Improved Player"^^xsd:string ;
+    nbao:awardYear "1985"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_926 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1985_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1985"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1449 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1985_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1985"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201607 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1986_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1986"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1450,
+        nbao:player_165,
+        nbao:player_76444,
+        nbao:player_77141,
+        nbao:player_926 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1986_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1986"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_157,
+        nbao:player_76385,
+        nbao:player_77879 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1986_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1986"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1449,
+        nbao:player_1450,
+        nbao:player_165,
+        nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1986_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1986"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_77376,
+        nbao:player_77449,
+        nbao:player_78318,
+        nbao:player_787 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1986_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "1986"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_76444 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1986_titleMostImprovedPlayer a nbao:Award ;
+    nbao:awardTitle "Most Improved Player"^^xsd:string ;
+    nbao:awardYear "1986"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_107 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1986_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1986"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_456 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1986_titleSixthManoftheYear a nbao:Award ;
+    nbao:awardTitle "Sixth Man of the Year"^^xsd:string ;
+    nbao:awardYear "1986"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_894 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1987_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1987"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1450,
+        nbao:player_165,
+        nbao:player_76444,
+        nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1987_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1987"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201607,
+        nbao:player_252,
+        nbao:player_77376,
+        nbao:player_926 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1987_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1987"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1449,
+        nbao:player_165,
+        nbao:player_787,
+        nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1987_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1987"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_17,
+        nbao:player_201607,
+        nbao:player_252,
+        nbao:player_304 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1987_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "1987"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1987_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1987"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1460 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1987_titleMostImprovedPlayer a nbao:Award ;
+    nbao:awardTitle "Most Improved Player"^^xsd:string ;
+    nbao:awardYear "1987"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_404 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1987_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1987"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1987_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1987"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_349 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1987_titleSixthManoftheYear a nbao:Award ;
+    nbao:awardTitle "Sixth Man of the Year"^^xsd:string ;
+    nbao:awardYear "1987"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_78293 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1988_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1988"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_23,
+        nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1988_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1988"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1450,
+        nbao:player_201607,
+        nbao:player_304,
+        nbao:player_920,
+        nbao:player_926 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1988_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1988"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_165,
+        nbao:player_252,
+        nbao:player_787,
+        nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1988_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1988"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_134,
+        nbao:player_201607,
+        nbao:player_304 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1988_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "1988"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_107,
+        nbao:player_305 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1988_titleMostImprovedPlayer a nbao:Award ;
+    nbao:awardTitle "Most Improved Player"^^xsd:string ;
+    nbao:awardYear "1988"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_134 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1989_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1989"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_165,
+        nbao:player_23,
+        nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1989_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1989"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1450,
+        nbao:player_157,
+        nbao:player_764,
+        nbao:player_926 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1989_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1989"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201607,
+        nbao:player_252,
+        nbao:player_787,
+        nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1989_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1989"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_134,
+        nbao:player_1449,
+        nbao:player_165,
+        nbao:player_304 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1989_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "1989"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1460,
+        nbao:player_17,
+        nbao:player_764 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1989_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "1989"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_23 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1989_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1989"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_78318 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1989_titleMostImprovedPlayer a nbao:Award ;
+    nbao:awardTitle "Most Improved Player"^^xsd:string ;
+    nbao:awardYear "1989"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_938 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1989_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1989"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_764 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1989_titleSixthManoftheYear a nbao:Award ;
+    nbao:awardTitle "Sixth Man of the Year"^^xsd:string ;
+    nbao:awardYear "1989"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_894 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1990_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1990"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_23,
+        nbao:player_764,
+        nbao:player_893,
+        nbao:player_926 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1990_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1990"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_165,
+        nbao:player_304,
+        nbao:player_937 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1990_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1990"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_252,
+        nbao:player_764,
+        nbao:player_787,
+        nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1990_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1990"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_134,
+        nbao:player_17,
+        nbao:player_201607 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1990_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "1990"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1460,
+        nbao:player_165,
+        nbao:player_304,
+        nbao:player_77264 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1990_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "1990"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_23 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1990_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1990"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1990_titleMostImprovedPlayer a nbao:Award ;
+    nbao:awardTitle "Most Improved Player"^^xsd:string ;
+    nbao:awardYear "1990"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_101 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1990_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1990"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1990_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1990"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_934 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1990_titleSixthManoftheYear a nbao:Award ;
+    nbao:awardTitle "Sixth Man of the Year"^^xsd:string ;
+    nbao:awardYear "1990"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_96 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1991_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1991"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_23,
+        nbao:player_764,
+        nbao:player_893,
+        nbao:player_937 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1991_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1991"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201607,
+        nbao:player_304,
+        nbao:player_52 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1991_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1991"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_17,
+        nbao:player_252,
+        nbao:player_764,
+        nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1991_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1991"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201607,
+        nbao:player_304,
+        nbao:player_787,
+        nbao:player_937 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1991_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "1991"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_134,
+        nbao:player_23,
+        nbao:player_788 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1991_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "1991"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_764 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1991_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1991"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1991_titleMostImprovedPlayer a nbao:Award ;
+    nbao:awardTitle "Most Improved Player"^^xsd:string ;
+    nbao:awardYear "1991"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_442 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1991_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1991"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1991_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1991"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_913 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1991_titleSixthManoftheYear a nbao:Award ;
+    nbao:awardTitle "Sixth Man of the Year"^^xsd:string ;
+    nbao:awardYear "1991"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_96 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1992_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1992"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_165,
+        nbao:player_23,
+        nbao:player_893,
+        nbao:player_937 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1992_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1992"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_317,
+        nbao:player_764 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1992_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1992"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_165,
+        nbao:player_252,
+        nbao:player_787,
+        nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1992_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1992"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201607,
+        nbao:player_304,
+        nbao:player_913 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1992_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "1992"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_764,
+        nbao:player_77845,
+        nbao:player_934,
+        nbao:player_937 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1992_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "1992"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_165 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1992_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1992"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1992_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1992"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_787 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1992_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1992"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_406 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1992_titleSixthManoftheYear a nbao:Award ;
+    nbao:awardTitle "Sixth Man of the Year"^^xsd:string ;
+    nbao:awardYear "1992"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_361 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1993_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1993"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_165,
+        nbao:player_56,
+        nbao:player_891,
+        nbao:player_937 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1993_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1993"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_23,
+        nbao:player_764,
+        nbao:player_84 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1993_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1993"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_165,
+        nbao:player_252,
+        nbao:player_304,
+        nbao:player_84,
+        nbao:player_937 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1993_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1993"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_134,
+        nbao:player_431,
+        nbao:player_764,
+        nbao:player_787 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1993_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "1993"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_406,
+        nbao:player_56,
+        nbao:player_934 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1993_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "1993"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_165 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1993_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1993"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_165 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1993_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1993"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_165 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1994_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1994"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_23,
+        nbao:player_56,
+        nbao:player_764,
+        nbao:player_937 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1994_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1994"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_304,
+        nbao:player_365,
+        nbao:player_87 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1994_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1994"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_252,
+        nbao:player_304,
+        nbao:player_358,
+        nbao:player_764,
+        nbao:player_937 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1994_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1994"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_406,
+        nbao:player_431,
+        nbao:player_56,
+        nbao:player_787 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1994_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "1994"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_165,
+        nbao:player_17,
+        nbao:player_23,
+        nbao:player_96 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1994_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "1994"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_87 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1994_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1994"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_165 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1994_titleMostImprovedPlayer a nbao:Award ;
+    nbao:awardTitle "Most Improved Player"^^xsd:string ;
+    nbao:awardYear "1994"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_344 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1994_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1994"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_764 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1994_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1994"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_255,
+        nbao:player_467 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1994_titleSixthManoftheYear a nbao:Award ;
+    nbao:awardTitle "Sixth Man of the Year"^^xsd:string ;
+    nbao:awardYear "1994"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_193 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1995_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1995"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_23,
+        nbao:player_56,
+        nbao:player_764,
+        nbao:player_893,
+        nbao:player_937 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1995_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1995"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_165,
+        nbao:player_365 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1995_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1995"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_252,
+        nbao:player_358,
+        nbao:player_764,
+        nbao:player_893,
+        nbao:player_937 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1995_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1995"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_165,
+        nbao:player_255,
+        nbao:player_304,
+        nbao:player_431,
+        nbao:player_56 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1995_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "1995"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_406,
+        nbao:player_436,
+        nbao:player_787 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1995_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "1995"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_56 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1995_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1995"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1995_titleMostImprovedPlayer a nbao:Award ;
+    nbao:awardTitle "Most Improved Player"^^xsd:string ;
+    nbao:awardYear "1995"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_49 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1995_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1995"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1995_titleSixthManoftheYear a nbao:Award ;
+    nbao:awardTitle "Sixth Man of the Year"^^xsd:string ;
+    nbao:awardYear "1995"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_389 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1996_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1996"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_252,
+        nbao:player_56,
+        nbao:player_87,
+        nbao:player_893,
+        nbao:player_937 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1996_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1996"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_165,
+        nbao:player_193,
+        nbao:player_304 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1996_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1996"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_165,
+        nbao:player_252,
+        nbao:player_255,
+        nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1996_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1996"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201607,
+        nbao:player_56,
+        nbao:player_779,
+        nbao:player_937 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1996_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "1996"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_193,
+        nbao:player_304,
+        nbao:player_358,
+        nbao:player_406 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1996_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "1996"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_87 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1996_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1996"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1996_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1996"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_252 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1996_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1996"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_947 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1996_titleSixthManoftheYear a nbao:Award ;
+    nbao:awardTitle "Sixth Man of the Year"^^xsd:string ;
+    nbao:awardYear "1996"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_317 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1997_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1997"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_252,
+        nbao:player_56,
+        nbao:player_87,
+        nbao:player_893,
+        nbao:player_937 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1997_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1997"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_224,
+        nbao:player_764,
+        nbao:player_891 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1997_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1997"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_252,
+        nbao:player_406,
+        nbao:player_56,
+        nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1997_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1997"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_255,
+        nbao:player_764 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1997_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "1997"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_779,
+        nbao:player_87,
+        nbao:player_937 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1997_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "1997"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_87 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1997_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1997"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1997_titleMostImprovedPlayer a nbao:Award ;
+    nbao:awardTitle "Most Improved Player"^^xsd:string ;
+    nbao:awardYear "1997"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_673 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1997_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1997"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_893 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1998_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1998"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_252,
+        nbao:player_297,
+        nbao:player_467,
+        nbao:player_56,
+        nbao:player_937 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1998_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1998"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_224,
+        nbao:player_87 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1998_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1998"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_252,
+        nbao:player_297,
+        nbao:player_467,
+        nbao:player_947 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1998_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1998"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_255,
+        nbao:player_406,
+        nbao:player_56 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1998_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "1998"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_165,
+        nbao:player_304,
+        nbao:player_686,
+        nbao:player_708,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1998_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "1998"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_297 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1998_titleMostImprovedPlayer a nbao:Award ;
+    nbao:awardTitle "Most Improved Player"^^xsd:string ;
+    nbao:awardYear "1998"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_353 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1998_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1998"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_252 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1998_titleSixthManoftheYear a nbao:Award ;
+    nbao:awardTitle "Sixth Man of the Year"^^xsd:string ;
+    nbao:awardYear "1998"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_353 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1999_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "1999"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_297,
+        nbao:player_56,
+        nbao:player_708,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1999_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "1999"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_224,
+        nbao:player_361,
+        nbao:player_406,
+        nbao:player_467,
+        nbao:player_937 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1999_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "1999"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_406,
+        nbao:player_467,
+        nbao:player_56,
+        nbao:player_708 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1999_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "1999"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_252,
+        nbao:player_255,
+        nbao:player_297,
+        nbao:player_947,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1999_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "1999"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_224,
+        nbao:player_764,
+        nbao:player_950 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1999_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "1999"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_297 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1999_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "1999"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_406 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1999_titleMostImprovedPlayer a nbao:Award ;
+    nbao:awardTitle "Most Improved Player"^^xsd:string ;
+    nbao:awardYear "1999"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_147 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1999_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "1999"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_406 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year1999_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "1999"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1883 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2000_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "2000"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_467,
+        nbao:player_56,
+        nbao:player_708,
+        nbao:player_87 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2000_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "2000"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1477,
+        nbao:player_406,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2000_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "2000"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_406,
+        nbao:player_467,
+        nbao:player_947 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2000_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "2000"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_708,
+        nbao:player_87,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2000_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "2000"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1717,
+        nbao:player_252,
+        nbao:player_56,
+        nbao:player_764 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2000_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "2000"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_87 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2000_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "2000"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_406 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2000_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "2000"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_947 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2000_titleSixthManoftheYear a nbao:Award ;
+    nbao:awardTitle "Sixth Man of the Year"^^xsd:string ;
+    nbao:awardYear "2000"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_243 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2001_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "2001"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_467,
+        nbao:player_56,
+        nbao:player_708 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2001_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "2001"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1477,
+        nbao:player_361,
+        nbao:player_87,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2001_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "2001"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_406,
+        nbao:player_467,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2001_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "2001"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1717,
+        nbao:player_56,
+        nbao:player_708,
+        nbao:player_947 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2001_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "2001"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1718,
+        nbao:player_87,
+        nbao:player_979 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2001_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "2001"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_406 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2001_titleMostImprovedPlayer a nbao:Award ;
+    nbao:awardTitle "Most Improved Player"^^xsd:string ;
+    nbao:awardYear "2001"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_979 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2001_titleSixthManoftheYear a nbao:Award ;
+    nbao:awardTitle "Sixth Man of the Year"^^xsd:string ;
+    nbao:awardYear "2001"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_722 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2002_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "2002"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_708,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2002_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "2002"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1477,
+        nbao:player_1897,
+        nbao:player_406,
+        nbao:player_467,
+        nbao:player_727 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2002_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "2002"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_406,
+        nbao:player_708,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2002_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "2002"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1717,
+        nbao:player_467,
+        nbao:player_947 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2002_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "2002"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1718,
+        nbao:player_469,
+        nbao:player_950,
+        nbao:player_979 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2002_titleMostImprovedPlayer a nbao:Award ;
+    nbao:awardTitle "Most Improved Player"^^xsd:string ;
+    nbao:awardYear "2002"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2240 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2002_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "2002"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2405 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2002_titleSixthManoftheYear a nbao:Award ;
+    nbao:awardTitle "Sixth Man of the Year"^^xsd:string ;
+    nbao:awardYear "2002"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1517 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2003_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "2003"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1477,
+        nbao:player_1897,
+        nbao:player_708,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2003_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "2003"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1905,
+        nbao:player_467 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2003_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "2003"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_406,
+        nbao:player_467,
+        nbao:player_708,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2003_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "2003"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_979 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2003_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "2003"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1717,
+        nbao:player_1884,
+        nbao:player_1897,
+        nbao:player_2072,
+        nbao:player_2397 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2003_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "2003"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1897 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2003_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "2003"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2003_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "2003"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_708 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2003_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "2003"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2544 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2004_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "2004"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1477,
+        nbao:player_1716,
+        nbao:player_708 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2004_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "2004"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1497,
+        nbao:player_1905,
+        nbao:player_2419,
+        nbao:player_467,
+        nbao:player_948 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2004_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "2004"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1717,
+        nbao:player_406,
+        nbao:player_947 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2004_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "2004"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2405,
+        nbao:player_2544,
+        nbao:player_708 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2004_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "2004"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1890,
+        nbao:player_2240,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2004_titleMostImprovedPlayer a nbao:Award ;
+    nbao:awardTitle "Most Improved Player"^^xsd:string ;
+    nbao:awardYear "2004"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2250 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2005_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "2005"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1477,
+        nbao:player_1897,
+        nbao:player_1905,
+        nbao:player_467,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2005_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "2005"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1497,
+        nbao:player_2419,
+        nbao:player_708,
+        nbao:player_948 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2005_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "2005"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1717,
+        nbao:player_2544,
+        nbao:player_406,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2005_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "2005"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2005_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "2005"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1890,
+        nbao:player_2240,
+        nbao:player_2397,
+        nbao:player_2546,
+        nbao:player_947 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2006_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "2006"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1477,
+        nbao:player_1952,
+        nbao:player_948,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2006_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "2006"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2419,
+        nbao:player_2550,
+        nbao:player_467,
+        nbao:player_708 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2006_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "2006"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1717,
+        nbao:player_2405,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2006_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "2006"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2240,
+        nbao:player_2397,
+        nbao:player_2544 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2006_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "2006"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1497,
+        nbao:player_2546,
+        nbao:player_2730,
+        nbao:player_708 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2006_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "2006"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_948 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2006_titleMostImprovedPlayer a nbao:Award ;
+    nbao:awardTitle "Most Improved Player"^^xsd:string ;
+    nbao:awardYear "2006"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_101145 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2006_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "2006"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1717 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2006_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "2006"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_200750 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2007_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "2007"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1477,
+        nbao:player_708,
+        nbao:player_948,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2007_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "2007"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1952,
+        nbao:player_2203,
+        nbao:player_2419,
+        nbao:player_2730 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2007_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "2007"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2544,
+        nbao:player_2730,
+        nbao:player_708,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2007_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "2007"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_101114,
+        nbao:player_1717,
+        nbao:player_2405 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2007_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "2007"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1718,
+        nbao:player_2397,
+        nbao:player_2430 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2007_titleAllRookieFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Rookie First Team"^^xsd:string ;
+    nbao:awardYear "2007"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201142,
+        nbao:player_201154 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2007_titleAllRookieSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Rookie Second Team"^^xsd:string ;
+    nbao:awardYear "2007"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_200081,
+        nbao:player_201152 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2007_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "2007"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_708 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2007_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "2007"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1718 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2007_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "2007"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2007_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "2007"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201142 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2007_titleSportsmanshipAward a nbao:Award ;
+    nbao:awardTitle "Sportsmanship Award"^^xsd:string ;
+    nbao:awardYear "2007"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_255 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2008_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "2008"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2544,
+        nbao:player_2730,
+        nbao:player_708,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2008_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "2008"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1897,
+        nbao:player_200765,
+        nbao:player_2203 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2008_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "2008"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1717,
+        nbao:player_2544,
+        nbao:player_2730,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2008_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "2008"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1718,
+        nbao:player_200750,
+        nbao:player_2397 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2008_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "2008"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1497,
+        nbao:player_2546,
+        nbao:player_406 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2008_titleAllRookieSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Rookie Second Team"^^xsd:string ;
+    nbao:awardYear "2008"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201567,
+        nbao:player_201569 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2008_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "2008"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2730 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2008_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP "^^xsd:string ;
+    nbao:awardYear "2008"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2008_titleJ.WalterKennedyCitizenshipAward a nbao:Award ;
+    nbao:awardTitle "J. Walter Kennedy Citizenship Award"^^xsd:string ;
+    nbao:awardYear "2008"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_87 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2008_titleMostImprovedPlayer a nbao:Award ;
+    nbao:awardTitle "Most Improved Player"^^xsd:string ;
+    nbao:awardYear "2008"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_101122 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2008_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "2008"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2544 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2008_titleSixthManoftheYear a nbao:Award ;
+    nbao:awardTitle "Sixth Man of the Year"^^xsd:string ;
+    nbao:awardYear "2008"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1891 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2008_titleSportsmanshipAward a nbao:Award ;
+    nbao:awardTitle "Sportsmanship Award"^^xsd:string ;
+    nbao:awardYear "2008"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1497 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2009_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "2009"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_200765,
+        nbao:player_2222,
+        nbao:player_2544,
+        nbao:player_2730,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2009_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "2009"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2760 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2009_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "2009"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201142,
+        nbao:player_2544,
+        nbao:player_2730,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2009_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "2009"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_101114,
+        nbao:player_1717,
+        nbao:player_2405,
+        nbao:player_2546 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2009_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "2009"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_101106,
+        nbao:player_200750,
+        nbao:player_2207 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2009_titleAllRookieFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Rookie First Team"^^xsd:string ;
+    nbao:awardYear "2009"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201936,
+        nbao:player_201954,
+        nbao:player_201959 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2009_titleAllRookieSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Rookie Second Team"^^xsd:string ;
+    nbao:awardYear "2009"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201935,
+        nbao:player_201938,
+        nbao:player_201971,
+        nbao:player_201977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2009_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "2009"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2730 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2009_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP "^^xsd:string ;
+    nbao:awardYear "2009"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2009_titleJ.WalterKennedyCitizenshipAward a nbao:Award ;
+    nbao:awardTitle "J. Walter Kennedy Citizenship Award"^^xsd:string ;
+    nbao:awardYear "2009"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2223 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2009_titleMostImprovedPlayer a nbao:Award ;
+    nbao:awardTitle "Most Improved Player"^^xsd:string ;
+    nbao:awardYear "2009"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201166 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2009_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "2009"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2544 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2009_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "2009"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201936 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2009_titleSportsmanshipAward a nbao:Award ;
+    nbao:awardTitle "Sportsmanship Award"^^xsd:string ;
+    nbao:awardYear "2009"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_255 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2010_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "2010"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_200765,
+        nbao:player_2544,
+        nbao:player_2730,
+        nbao:player_708,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2010_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "2010"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201149,
+        nbao:player_2199 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2010_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "2010"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201142,
+        nbao:player_2544,
+        nbao:player_2730,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2010_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "2010"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1717,
+        nbao:player_2405 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2010_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "2010"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_200746 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2010_titleAllRookieFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Rookie First Team"^^xsd:string ;
+    nbao:awardYear "2010"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201933,
+        nbao:player_202326,
+        nbao:player_202361,
+        nbao:player_202390 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2010_titleAllRookieSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Rookie Second Team"^^xsd:string ;
+    nbao:awardYear "2010"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_202324,
+        nbao:player_202325,
+        nbao:player_202339 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2010_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "2010"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2730 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2010_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP"^^xsd:string ;
+    nbao:awardYear "2010"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1717 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2010_titleJ.WalterKennedyCitizenshipAward a nbao:Award ;
+    nbao:awardTitle "J. Walter Kennedy Citizenship Award"^^xsd:string ;
+    nbao:awardYear "2010"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1897 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2010_titleMostImprovedPlayer a nbao:Award ;
+    nbao:awardTitle "Most Improved Player"^^xsd:string ;
+    nbao:awardYear "2010"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201567 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2010_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "2010"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201933 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2010_titleSixthManoftheYear a nbao:Award ;
+    nbao:awardTitle "Sixth Man of the Year"^^xsd:string ;
+    nbao:awardYear "2010"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1885 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2011_titleAllDefensiveFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive First Team"^^xsd:string ;
+    nbao:awardYear "2011"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2544,
+        nbao:player_2730 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2011_titleAllDefensiveSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Defensive Second Team"^^xsd:string ;
+    nbao:awardYear "2011"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_200765,
+        nbao:player_2199,
+        nbao:player_2736,
+        nbao:player_708,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2011_titleAllNBAFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA First Team"^^xsd:string ;
+    nbao:awardYear "2011"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201142,
+        nbao:player_2544,
+        nbao:player_2730,
+        nbao:player_977 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2011_titleAllNBASecondTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Second Team"^^xsd:string ;
+    nbao:awardYear "2011"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_101115,
+        nbao:player_201567,
+        nbao:player_201933 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2011_titleAllNBAThirdTeam a nbao:Award ;
+    nbao:awardTitle "All-NBA Third Team"^^xsd:string ;
+    nbao:awardYear "2011"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_1717,
+        nbao:player_200765,
+        nbao:player_2199,
+        nbao:player_2546 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2011_titleAllRookieFirstTeam a nbao:Award ;
+    nbao:awardTitle "All-Rookie First Team"^^xsd:string ;
+    nbao:awardYear "2011"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_202681,
+        nbao:player_202688,
+        nbao:player_202691,
+        nbao:player_202695,
+        nbao:player_202697 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2011_titleAllRookieSecondTeam a nbao:Award ;
+    nbao:awardTitle "All-Rookie Second Team"^^xsd:string ;
+    nbao:awardYear "2011"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_202682,
+        nbao:player_202684,
+        nbao:player_202705,
+        nbao:player_202718,
+        nbao:player_202738 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2011_titleDefensivePlayeroftheYear a nbao:Award ;
+    nbao:awardTitle "Defensive Player of the Year"^^xsd:string ;
+    nbao:awardYear "2011"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2199 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2011_titleFinalsMVP a nbao:Award ;
+    nbao:awardTitle "Finals MVP "^^xsd:string ;
+    nbao:awardYear "2011"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2544 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2011_titleMostImprovedPlayer a nbao:Award ;
+    nbao:awardTitle "Most Improved Player"^^xsd:string ;
+    nbao:awardYear "2011"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201583 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2011_titleMostValuablePlayer a nbao:Award ;
+    nbao:awardTitle "Most Valuable Player"^^xsd:string ;
+    nbao:awardYear "2011"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_2544 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2011_titleRookieoftheYear a nbao:Award ;
+    nbao:awardTitle "Rookie of the Year"^^xsd:string ;
+    nbao:awardYear "2011"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_202681 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2011_titleSixthManoftheYear a nbao:Award ;
+    nbao:awardTitle "Sixth Man of the Year"^^xsd:string ;
+    nbao:awardYear "2011"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_201935 ;
+    nbao:ofLeague nbao:NBA .
+
+nbao:award_year2011_titleSportsmanshipAward a nbao:Award ;
+    nbao:awardTitle "Sportsmanship Award"^^xsd:string ;
+    nbao:awardYear "2011"^^xsd:gYear ;
+    nbao:isAwardedTo nbao:player_467 ;
+    nbao:ofLeague nbao:NBA .
+
