@@ -297,7 +297,7 @@ nbao:award_year2009_titleNBACoachoftheYear a nbao:Award ;
     nbao:ofLeague nbao:NBA .
 
 nbao:coach_adelmri01 a nbao:Coach ;
-    nbao:birthdate "1946-06-16"^^xsd:date ;
+    nbao:birthDate "1946-06-16"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1000,
         nbao:coachstat_1060,
         nbao:coachstat_1092,
@@ -322,7 +322,7 @@ nbao:coach_adelmri01 a nbao:Coach ;
     foaf:name "Richard Adelman"^^xsd:string .
 
 nbao:coach_attleal01 a nbao:Coach ;
-    nbao:birthdate "1936-11-07"^^xsd:date ;
+    nbao:birthDate "1936-11-07"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_365,
         nbao:coachstat_398,
         nbao:coachstat_430,
@@ -338,7 +338,7 @@ nbao:coach_attleal01 a nbao:Coach ;
     foaf:name "Alvin Attles"^^xsd:string .
 
 nbao:coach_bachjo01 a nbao:Coach ;
-    nbao:birthdate "1924-07-10"^^xsd:date ;
+    nbao:birthDate "1924-07-10"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_608,
         nbao:coachstat_713,
         nbao:coachstat_737,
@@ -346,7 +346,7 @@ nbao:coach_bachjo01 a nbao:Coach ;
     foaf:name "John Bach"^^xsd:string .
 
 nbao:coach_bickebe01 a nbao:Coach ;
-    nbao:birthdate "1944-02-11"^^xsd:date ;
+    nbao:birthDate "1944-02-11"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1030,
         nbao:coachstat_1062,
         nbao:coachstat_1095,
@@ -358,52 +358,52 @@ nbao:coach_bickebe01 a nbao:Coach ;
     foaf:name "Bernie Bickerstaff"^^xsd:string .
 
 nbao:coach_bucknqu01 a nbao:Coach ;
-    nbao:birthdate "1954-08-20"^^xsd:date ;
+    nbao:birthDate "1954-08-20"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1004 ;
     foaf:name "William Buckner"^^xsd:string .
 
 nbao:coach_butchdo01 a nbao:Coach ;
-    nbao:birthdate "1936-02-08"^^xsd:date ;
+    nbao:birthDate "1936-02-08"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_228,
         nbao:coachstat_244,
         nbao:coachstat_269 ;
     foaf:name "Donnis Butcher"^^xsd:string .
 
 nbao:coach_cartebu01 a nbao:Coach ;
-    nbao:birthdate "1958-06-11"^^xsd:date ;
+    nbao:birthDate "1958-06-11"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1135,
         nbao:coachstat_1170,
         nbao:coachstat_1200 ;
     foaf:name "Clarence Carter"^^xsd:string .
 
 nbao:coach_cartefr01 a nbao:Coach ;
-    nbao:birthdate "1945-02-14"^^xsd:date ;
+    nbao:birthDate "1945-02-14"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1005,
         nbao:coachstat_972 ;
     foaf:name "Frederick Carter"^^xsd:string .
 
 nbao:coach_cartwbi01 a nbao:Coach ;
-    nbao:birthdate "1957-07-30"^^xsd:date ;
+    nbao:birthDate "1957-07-30"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1265,
         nbao:coachstat_1301,
         nbao:coachstat_1336 ;
     foaf:name "James Cartwright"^^xsd:string .
 
 nbao:coach_caseydw01 a nbao:Coach ;
-    nbao:birthdate "1957-04-17"^^xsd:date ;
+    nbao:birthDate "1957-04-17"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1412,
         nbao:coachstat_1443,
         nbao:coachstat_1640 ;
     foaf:name "Dwane Casey"^^xsd:string .
 
 nbao:coach_cleamji01 a nbao:Coach ;
-    nbao:birthdate "1949-09-13"^^xsd:date ;
+    nbao:birthDate "1949-09-13"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1101,
         nbao:coachstat_1136 ;
     foaf:name "James Cleamons"^^xsd:string .
 
 nbao:coach_collido01 a nbao:Coach ;
-    nbao:birthdate "1951-07-28"^^xsd:date ;
+    nbao:birthDate "1951-07-28"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1068,
         nbao:coachstat_1102,
         nbao:coachstat_1137,
@@ -417,7 +417,7 @@ nbao:coach_collido01 a nbao:Coach ;
     foaf:name "Paul Collins"^^xsd:string .
 
 nbao:coach_costela01 a nbao:Coach ;
-    nbao:birthdate "1931-07-02"^^xsd:date ;
+    nbao:birthDate "1931-07-02"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_270,
         nbao:coachstat_304,
         nbao:coachstat_338,
@@ -431,13 +431,13 @@ nbao:coach_costela01 a nbao:Coach ;
     foaf:name "Lawrence Costello"^^xsd:string .
 
 nbao:coach_cowenda01 a nbao:Coach ;
-    nbao:birthdate "1948-10-25"^^xsd:date ;
+    nbao:birthDate "1948-10-25"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1232,
         nbao:coachstat_1269 ;
     foaf:name "David Cowens"^^xsd:string .
 
 nbao:coach_dalych01 a nbao:Coach ;
-    nbao:birthdate "1930-07-20"^^xsd:date ;
+    nbao:birthDate "1930-07-20"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_717,
         nbao:coachstat_741,
         nbao:coachstat_766,
@@ -450,19 +450,19 @@ nbao:coach_dalych01 a nbao:Coach ;
     foaf:name "Chuck Daly"^^xsd:string .
 
 nbao:coach_danieme01 a nbao:Coach ;
-    nbao:birthdate "1944-07-20"^^xsd:date ;
+    nbao:birthDate "1944-07-20"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_848 ;
     foaf:name "Melvin Daniels"^^xsd:string .
 
 nbao:coach_debusda01 a nbao:Coach ;
-    nbao:birthdate "1940-10-16"^^xsd:date ;
+    nbao:birthDate "1940-10-16"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_207,
         nbao:coachstat_219,
         nbao:coachstat_229 ;
     foaf:name "David DeBusschere"^^xsd:string .
 
 nbao:coach_delnevi01 a nbao:Coach ;
-    nbao:birthdate "1966-08-09"^^xsd:date ;
+    nbao:birthDate "1966-08-09"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1514,
         nbao:coachstat_1551,
         nbao:coachstat_1584,
@@ -470,7 +470,7 @@ nbao:coach_delnevi01 a nbao:Coach ;
     foaf:name "Vincent Del Negro"^^xsd:string .
 
 nbao:coach_eganjo01 a nbao:Coach ;
-    nbao:birthdate "1939-01-31"^^xsd:date ;
+    nbao:birthDate "1939-01-31"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_408,
         nbao:coachstat_436,
         nbao:coachstat_467,
@@ -478,12 +478,12 @@ nbao:coach_eganjo01 a nbao:Coach ;
     foaf:name "John Egan"^^xsd:string .
 
 nbao:coach_evansmi01 a nbao:Coach ;
-    nbao:birthdate "1955-04-19"^^xsd:date ;
+    nbao:birthDate "1955-04-19"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1270 ;
     foaf:name "Michael Evans"^^xsd:string .
 
 nbao:coach_fordch01 a nbao:Coach ;
-    nbao:birthdate "1949-01-11"^^xsd:date ;
+    nbao:birthDate "1949-01-11"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1107,
         nbao:coachstat_1142,
         nbao:coachstat_1177,
@@ -492,19 +492,19 @@ nbao:coach_fordch01 a nbao:Coach ;
     foaf:name "Christopher Ford"^^xsd:string .
 
 nbao:coach_guokama02 a nbao:Coach ;
-    nbao:birthdate "1944-02-25"^^xsd:date ;
+    nbao:birthDate "1944-02-25"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_770,
         nbao:coachstat_793,
         nbao:coachstat_818 ;
     foaf:name "Matthew Guokas"^^xsd:string .
 
 nbao:coach_hanzlbi01 a nbao:Coach ;
-    nbao:birthdate "1957-12-06"^^xsd:date ;
+    nbao:birthDate "1957-12-06"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1145 ;
     foaf:name "William Hanzlik"^^xsd:string .
 
 nbao:coach_harride02 a nbao:Coach ;
-    nbao:birthdate "1937-06-18"^^xsd:date ;
+    nbao:birthDate "1937-06-18"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1041,
         nbao:coachstat_1073,
         nbao:coachstat_1109,
@@ -522,13 +522,13 @@ nbao:coach_harride02 a nbao:Coach ;
     foaf:name "Del Harris"^^xsd:string .
 
 nbao:coach_iavarma01 a nbao:Coach ;
-    nbao:birthdate "1956-09-15"^^xsd:date ;
+    nbao:birthDate "1956-09-15"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1480,
         nbao:coachstat_1520 ;
     foaf:name "Marcus Iavaroni"^^xsd:string .
 
 nbao:coach_irvinge01 a nbao:Coach ;
-    nbao:birthdate "1948-02-01"^^xsd:date ;
+    nbao:birthDate "1948-02-01"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1209,
         nbao:coachstat_1237,
         nbao:coachstat_745,
@@ -537,7 +537,7 @@ nbao:coach_irvinge01 a nbao:Coach ;
     foaf:name "George Irvine"^^xsd:string .
 
 nbao:coach_isselda01 a nbao:Coach ;
-    nbao:birthdate "1948-10-25"^^xsd:date ;
+    nbao:birthDate "1948-10-25"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1012,
         nbao:coachstat_1044,
         nbao:coachstat_1210,
@@ -547,12 +547,12 @@ nbao:coach_isselda01 a nbao:Coach ;
     foaf:name "Daniel Issel"^^xsd:string .
 
 nbao:coach_johnsma02 a nbao:Coach ;
-    nbao:birthdate "1959-08-14"^^xsd:date ;
+    nbao:birthDate "1959-08-14"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1014 ;
     foaf:name "Earvin Johnson"^^xsd:string .
 
 nbao:coach_jordaed01 a nbao:Coach ;
-    nbao:birthdate "1955-01-29"^^xsd:date ;
+    nbao:birthDate "1955-01-29"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1114,
         nbao:coachstat_1149,
         nbao:coachstat_1347,
@@ -565,17 +565,17 @@ nbao:coach_jordaed01 a nbao:Coach ;
     foaf:name "Edward Jordan"^^xsd:string .
 
 nbao:coach_kauffbo01 a nbao:Coach ;
-    nbao:birthdate "1946-07-13"^^xsd:date ;
+    nbao:birthDate "1946-07-13"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_564 ;
     foaf:name "Robert Kauffman"^^xsd:string .
 
 nbao:coach_laniebo01 a nbao:Coach ;
-    nbao:birthdate "1948-09-10"^^xsd:date ;
+    nbao:birthDate "1948-09-10"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1047 ;
     foaf:name "Robert Lanier"^^xsd:string .
 
 nbao:coach_leonasl01 a nbao:Coach ;
-    nbao:birthdate "1932-07-17"^^xsd:date ;
+    nbao:birthDate "1932-07-17"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_537,
         nbao:coachstat_565,
         nbao:coachstat_589,
@@ -583,25 +583,25 @@ nbao:coach_leonasl01 a nbao:Coach ;
     foaf:name "William Leonard"^^xsd:string .
 
 nbao:coach_littlge01 a nbao:Coach ;
-    nbao:birthdate "1943-06-29"^^xsd:date ;
+    nbao:birthDate "1943-06-29"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1048 ;
     foaf:name "Eugene Littles"^^xsd:string .
 
 nbao:coach_maclejo01 a nbao:Coach ;
-    nbao:birthdate "1937-10-03"^^xsd:date ;
+    nbao:birthDate "1937-10-03"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_826,
         nbao:coachstat_857,
         nbao:coachstat_891 ;
     foaf:name "John MacLeod"^^xsd:string .
 
 nbao:coach_mccloja01 a nbao:Coach ;
-    nbao:birthdate "1925-09-19"^^xsd:date ;
+    nbao:birthDate "1925-09-19"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_419,
         nbao:coachstat_448 ;
     foaf:name "John McCloskey"^^xsd:string .
 
 nbao:coach_mcguidi01 a nbao:Coach ;
-    nbao:birthdate "1926-01-25"^^xsd:date ;
+    nbao:birthDate "1926-01-25"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_164,
         nbao:coachstat_172,
         nbao:coachstat_180,
@@ -609,7 +609,7 @@ nbao:coach_mcguidi01 a nbao:Coach ;
     foaf:name "Richard McGuire"^^xsd:string .
 
 nbao:coach_mcmilna01 a nbao:Coach ;
-    nbao:birthdate "1964-08-03"^^xsd:date ;
+    nbao:birthDate "1964-08-03"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1424,
         nbao:coachstat_1456,
         nbao:coachstat_1486,
@@ -620,24 +620,24 @@ nbao:coach_mcmilna01 a nbao:Coach ;
     foaf:name "Nathaniel McMillan"^^xsd:string .
 
 nbao:coach_montgmi01 a nbao:Coach ;
-    nbao:birthdate "1947-02-27"^^xsd:date ;
+    nbao:birthDate "1947-02-27"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1389,
         nbao:coachstat_1426 ;
     foaf:name "Mike Montgomery"^^xsd:string .
 
 nbao:coach_myerspe01 a nbao:Coach ;
-    nbao:birthdate "1963-09-15"^^xsd:date ;
+    nbao:birthDate "1963-09-15"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1350,
         nbao:coachstat_1488 ;
     foaf:name "Peter Myers"^^xsd:string .
 
 nbao:coach_nattke01 a nbao:Coach ;
-    nbao:birthdate "1958-10-05"^^xsd:date ;
+    nbao:birthDate "1958-10-05"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1527 ;
     foaf:name "Kenneth Natt"^^xsd:string .
 
 nbao:coach_obrieji03 a nbao:Coach ;
-    nbao:birthdate "1952-02-11"^^xsd:date ;
+    nbao:birthDate "1952-02-11"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1391,
         nbao:coachstat_1490,
         nbao:coachstat_1529,
@@ -646,14 +646,14 @@ nbao:coach_obrieji03 a nbao:Coach ;
     foaf:name "Jim O'Brien"^^xsd:string .
 
 nbao:coach_rambiku01 a nbao:Coach ;
-    nbao:birthdate "1958-02-25"^^xsd:date ;
+    nbao:birthDate "1958-02-25"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1186,
         nbao:coachstat_1565,
         nbao:coachstat_1595 ;
     foaf:name "Darrell Rambis"^^xsd:string .
 
 nbao:coach_ramsaja01 a nbao:Coach ;
-    nbao:birthdate "1925-02-21"^^xsd:date ;
+    nbao:birthDate "1925-02-21"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_287,
         nbao:coachstat_323,
         nbao:coachstat_353,
@@ -674,19 +674,19 @@ nbao:coach_ramsaja01 a nbao:Coach ;
     foaf:name "Jack Ramsay"^^xsd:string .
 
 nbao:coach_rochare01 a nbao:Coach ;
-    nbao:birthdate "1923-09-18"^^xsd:date ;
+    nbao:birthDate "1923-09-18"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_143,
         nbao:coachstat_154,
         nbao:coachstat_166 ;
     foaf:name "Ephraim Rocha"^^xsd:string .
 
 nbao:coach_russebi01 a nbao:Coach ;
-    nbao:birthdate "1934-02-12"^^xsd:date ;
+    nbao:birthDate "1934-02-12"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_833 ;
     foaf:name "William Russell"^^xsd:string .
 
 nbao:coach_saundfl01 a nbao:Coach ;
-    nbao:birthdate "1955-02-23"^^xsd:date ;
+    nbao:birthDate "1955-02-23"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1084,
         nbao:coachstat_1120,
         nbao:coachstat_1155,
@@ -706,7 +706,7 @@ nbao:coach_saundfl01 a nbao:Coach ;
     foaf:name "Flip Saunders"^^xsd:string .
 
 nbao:coach_schaufr01 a nbao:Coach ;
-    nbao:birthdate "1925-06-30"^^xsd:date ;
+    nbao:birthDate "1925-06-30"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_173,
         nbao:coachstat_184,
         nbao:coachstat_195,
@@ -717,7 +717,7 @@ nbao:coach_schaufr01 a nbao:Coach ;
     foaf:name "Frederick Schaus"^^xsd:string .
 
 nbao:coach_sloanje01 a nbao:Coach ;
-    nbao:birthdate "1942-03-28"^^xsd:date ;
+    nbao:birthDate "1942-03-28"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1022,
         nbao:coachstat_1055,
         nbao:coachstat_1085,
@@ -747,24 +747,24 @@ nbao:coach_sloanje01 a nbao:Coach ;
     foaf:name "Gerald Sloan"^^xsd:string .
 
 nbao:coach_smartke01 a nbao:Coach ;
-    nbao:birthdate "1964-09-21"^^xsd:date ;
+    nbao:birthDate "1964-09-21"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1602,
         nbao:coachstat_1638 ;
     foaf:name "Jonathan Smart"^^xsd:string .
 
 nbao:coach_thornro01 a nbao:Coach ;
-    nbao:birthdate "1941-05-23"^^xsd:date ;
+    nbao:birthDate "1941-05-23"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_685 ;
     foaf:name "Rodney Thorn"^^xsd:string .
 
 nbao:coach_toddro01 a nbao:Coach ;
-    nbao:birthdate "1934-04-26"^^xsd:date ;
+    nbao:birthDate "1934-04-26"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_360,
         nbao:coachstat_393 ;
     foaf:name "Rolland Todd"^^xsd:string .
 
 nbao:coach_tomjaru01 a nbao:Coach ;
-    nbao:birthdate "1948-11-24"^^xsd:date ;
+    nbao:birthDate "1948-11-24"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1024,
         nbao:coachstat_1057,
         nbao:coachstat_1087,
@@ -781,7 +781,7 @@ nbao:coach_tomjaru01 a nbao:Coach ;
     foaf:name "Rudolph Tomjanovich"^^xsd:string .
 
 nbao:coach_vanguje01 a nbao:Coach ;
-    nbao:birthdate "1962-01-19"^^xsd:date ;
+    nbao:birthDate "1962-01-19"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1363,
         nbao:coachstat_1402,
         nbao:coachstat_1435,
@@ -789,27 +789,27 @@ nbao:coach_vanguje01 a nbao:Coach ;
     foaf:name "Jeff Van Gundy"^^xsd:string .
 
 nbao:coach_vangust01 a nbao:Coach ;
-    nbao:birthdate "1959-08-26"^^xsd:date ;
+    nbao:birthDate "1959-08-26"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1364,
         nbao:coachstat_1403,
         nbao:coachstat_1436 ;
     foaf:name "Stan Van Gundy"^^xsd:string .
 
 nbao:coach_versadi01 a nbao:Coach ;
-    nbao:birthdate "1940-04-16"^^xsd:date ;
+    nbao:birthDate "1940-04-16"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_872,
         nbao:coachstat_902,
         nbao:coachstat_929 ;
     foaf:name "Dick Versace"^^xsd:string .
 
 nbao:coach_vitaldi01 a nbao:Coach ;
-    nbao:birthdate "1939-06-09"^^xsd:date ;
+    nbao:birthDate "1939-06-09"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_601,
         nbao:coachstat_627 ;
     foaf:name "Dick Vitale"^^xsd:string .
 
 nbao:coach_weissbo01 a nbao:Coach ;
-    nbao:birthdate "1942-05-07"^^xsd:date ;
+    nbao:birthDate "1942-05-07"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1026,
         nbao:coachstat_809,
         nbao:coachstat_837,
@@ -819,7 +819,7 @@ nbao:coach_weissbo01 a nbao:Coach ;
     foaf:name "Robert Weiss"^^xsd:string .
 
 nbao:coach_woodsmi01 a nbao:Coach ;
-    nbao:birthdate "1958-03-24"^^xsd:date ;
+    nbao:birthDate "1958-03-24"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1406,
         nbao:coachstat_1438,
         nbao:coachstat_1471,
@@ -1004,15 +1004,15 @@ nbao:player_895 a nbao:Coach ;
         nbao:coachstat_1641 .
 
 nbao:coach_auerbre01 a nbao:Coach ;
-    nbao:birthdate "1917-09-20"^^xsd:date ;
+    nbao:birthDate "1917-09-20"^^xsd:date ;
     foaf:name "Red Auerbach"^^xsd:string .
 
 nbao:coach_biancal01 a nbao:Coach ;
-    nbao:birthdate "1932-03-26"^^xsd:date ;
+    nbao:birthDate "1932-03-26"^^xsd:date ;
     foaf:name "Alfred Bianchi"^^xsd:string .
 
 nbao:coach_carliri01 a nbao:Coach ;
-    nbao:birthdate "1959-10-27"^^xsd:date ;
+    nbao:birthDate "1959-10-27"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1264,
         nbao:coachstat_1300,
         nbao:coachstat_1334,
@@ -1026,7 +1026,7 @@ nbao:coach_carliri01 a nbao:Coach ;
     foaf:name "Richard Carlisle"^^xsd:string .
 
 nbao:coach_chanedo01 a nbao:Coach ;
-    nbao:birthdate "1946-03-22"^^xsd:date ;
+    nbao:birthDate "1946-03-22"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1006,
         nbao:coachstat_1035,
         nbao:coachstat_739,
@@ -1039,12 +1039,12 @@ nbao:coach_chanedo01 a nbao:Coach ;
     foaf:name "Donald Chaney"^^xsd:string .
 
 nbao:coach_dantomi01 a nbao:Coach ;
-    nbao:birthdate "1951-05-08"^^xsd:date ;
+    nbao:birthDate "1951-05-08"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1174 ;
     foaf:name "Michael D'Antoni"^^xsd:string .
 
 nbao:coach_dunlemi01 a nbao:Coach ;
-    nbao:birthdate "1954-03-21"^^xsd:date ;
+    nbao:birthDate "1954-03-21"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1008,
         nbao:coachstat_1036,
         nbao:coachstat_1069,
@@ -1065,7 +1065,7 @@ nbao:coach_dunlemi01 a nbao:Coach ;
     foaf:name "Michael Dunleavy"^^xsd:string .
 
 nbao:coach_fratemi01 a nbao:Coach ;
-    nbao:birthdate "1947-02-24"^^xsd:date ;
+    nbao:birthDate "1947-02-24"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1379,
         nbao:coachstat_1417,
         nbao:coachstat_1448,
@@ -1080,7 +1080,7 @@ nbao:coach_fratemi01 a nbao:Coach ;
     foaf:name "Mike Fratello"^^xsd:string .
 
 nbao:coach_gueriri01 a nbao:Coach ;
-    nbao:birthdate "1932-05-29"^^xsd:date ;
+    nbao:birthDate "1932-05-29"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_271,
         nbao:coachstat_306,
         nbao:coachstat_343,
@@ -1088,15 +1088,15 @@ nbao:coach_gueriri01 a nbao:Coach ;
     foaf:name "Richard Guerin"^^xsd:string .
 
 nbao:coach_heinsto01 a nbao:Coach ;
-    nbao:birthdate "1934-08-26"^^xsd:date ;
+    nbao:birthDate "1934-08-26"^^xsd:date ;
     foaf:name "Thomas Heinsohn"^^xsd:string .
 
 nbao:coach_holzmre01 a nbao:Coach ;
-    nbao:birthdate "1920-08-10"^^xsd:date ;
+    nbao:birthDate "1920-08-10"^^xsd:date ;
     foaf:name "William Holzman"^^xsd:string .
 
 nbao:coach_jacksph01 a nbao:Coach ;
-    nbao:birthdate "1945-09-17"^^xsd:date ;
+    nbao:birthDate "1945-09-17"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1013,
         nbao:coachstat_1045,
         nbao:coachstat_1076,
@@ -1120,13 +1120,13 @@ nbao:coach_jacksph01 a nbao:Coach ;
     foaf:name "Philip Jackson"^^xsd:string .
 
 nbao:coach_kerrjo01 a nbao:Coach ;
-    nbao:birthdate "1932-08-17"^^xsd:date ;
+    nbao:birthDate "1932-08-17"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_234,
         nbao:coachstat_254 ;
     foaf:name "John Kerr"^^xsd:string .
 
 nbao:coach_mitchsa01 a nbao:Coach ;
-    nbao:birthdate "1963-09-02"^^xsd:date ;
+    nbao:birthDate "1963-09-02"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1388,
         nbao:coachstat_1425,
         nbao:coachstat_1457,
@@ -1135,7 +1135,7 @@ nbao:coach_mitchsa01 a nbao:Coach ;
     foaf:name "Samuel Mitchell"^^xsd:string .
 
 nbao:coach_moedo01 a nbao:Coach ;
-    nbao:birthdate "1938-09-21"^^xsd:date ;
+    nbao:birthDate "1938-09-21"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_542,
         nbao:coachstat_568,
         nbao:coachstat_592,
@@ -1154,7 +1154,7 @@ nbao:coach_moedo01 a nbao:Coach ;
     foaf:name "Douglas Moe"^^xsd:string .
 
 nbao:coach_mottadi01 a nbao:Coach ;
-    nbao:birthdate "1931-09-03"^^xsd:date ;
+    nbao:birthDate "1931-09-03"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1052,
         nbao:coachstat_1081,
         nbao:coachstat_1117,
@@ -1179,24 +1179,24 @@ nbao:coach_mottadi01 a nbao:Coach ;
     foaf:name "Dick Motta"^^xsd:string .
 
 nbao:coach_mullajo01 a nbao:Coach ;
-    nbao:birthdate "1925-11-17"^^xsd:date ;
+    nbao:birthDate "1925-11-17"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_321,
         nbao:coachstat_352 ;
     foaf:name "Joseph Mullaney"^^xsd:string .
 
 nbao:coach_riverdo01 a nbao:Coach ;
-    nbao:birthdate "1961-10-13"^^xsd:date ;
+    nbao:birthDate "1961-10-13"^^xsd:date ;
     foaf:name "Glenn Rivers"^^xsd:string .
 
 nbao:coach_schaydo01 a nbao:Coach ;
-    nbao:birthdate "1928-05-19"^^xsd:date ;
+    nbao:birthDate "1928-05-19"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_204,
         nbao:coachstat_216,
         nbao:coachstat_226 ;
     foaf:name "Adolph Schayes"^^xsd:string .
 
 nbao:coach_scottra01 a nbao:Coach ;
-    nbao:birthdate "1938-07-12"^^xsd:date ;
+    nbao:birthDate "1938-07-12"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_425,
         nbao:coachstat_454,
         nbao:coachstat_486,
@@ -1204,7 +1204,7 @@ nbao:coach_scottra01 a nbao:Coach ;
     foaf:name "John Scott"^^xsd:string .
 
 nbao:coach_wilkele01 a nbao:Coach ;
-    nbao:birthdate "1937-10-28"^^xsd:date ;
+    nbao:birthDate "1937-10-28"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1028,
         nbao:coachstat_1059,
         nbao:coachstat_1090,
@@ -5242,7 +5242,7 @@ nbao:player_422 a nbao:Coach ;
 nbao:player_76773 a nbao:Coach .
 
 nbao:coach_brownhu01 a nbao:Coach ;
-    nbao:birthdate "1933-09-25"^^xsd:date ;
+    nbao:birthDate "1933-09-25"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1297,
         nbao:coachstat_1331,
         nbao:coachstat_1369,
@@ -5254,7 +5254,7 @@ nbao:coach_brownhu01 a nbao:Coach ;
     foaf:name "Hubie Brown"^^xsd:string .
 
 nbao:coach_fitchbi01 a nbao:Coach ;
-    nbao:birthdate "1934-05-19"^^xsd:date ;
+    nbao:birthDate "1934-05-19"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1037,
         nbao:coachstat_1070,
         nbao:coachstat_1105,
@@ -5267,7 +5267,7 @@ nbao:coach_fitchbi01 a nbao:Coach ;
     foaf:name "Bill Fitch"^^xsd:string .
 
 nbao:coach_fitzsco01 a nbao:Coach ;
-    nbao:birthdate "1931-10-07"^^xsd:date ;
+    nbao:birthDate "1931-10-07"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_410,
         nbao:coachstat_438,
         nbao:coachstat_469,
@@ -5277,13 +5277,13 @@ nbao:coach_fitzsco01 a nbao:Coach ;
     foaf:name "Cotton Fitzsimmons"^^xsd:string .
 
 nbao:coach_hannual01 a nbao:Coach ;
-    nbao:birthdate "1923-07-19"^^xsd:date ;
+    nbao:birthDate "1923-07-19"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_232,
         nbao:coachstat_251 ;
     foaf:name "Alexander Hannum"^^xsd:string .
 
 nbao:coach_sharmbi01 a nbao:Coach ;
-    nbao:birthdate "1926-05-25"^^xsd:date ;
+    nbao:birthDate "1926-05-25"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_391,
         nbao:coachstat_426,
         nbao:coachstat_455,
@@ -5292,7 +5292,7 @@ nbao:coach_sharmbi01 a nbao:Coach ;
     foaf:name "William Sharman"^^xsd:string .
 
 nbao:coach_shuege01 a nbao:Coach ;
-    nbao:birthdate "1931-12-18"^^xsd:date ;
+    nbao:birthDate "1931-12-18"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_456,
         nbao:coachstat_489,
         nbao:coachstat_521,
@@ -5303,7 +5303,7 @@ nbao:coach_shuege01 a nbao:Coach ;
     foaf:name "Eugene Shue"^^xsd:string .
 
 nbao:coach_nelsodo01 a nbao:Coach ;
-    nbao:birthdate "1940-05-15"^^xsd:date ;
+    nbao:birthDate "1940-05-15"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1019,
         nbao:coachstat_1053,
         nbao:coachstat_1151,
@@ -5337,7 +5337,7 @@ nbao:coach_nelsodo01 a nbao:Coach ;
     foaf:name "Donald Nelson"^^xsd:string .
 
 nbao:coach_rileypa01 a nbao:Coach ;
-    nbao:birthdate "1945-03-20"^^xsd:date ;
+    nbao:birthDate "1945-03-20"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1083,
         nbao:coachstat_1119,
         nbao:coachstat_1154,
@@ -5361,7 +5361,7 @@ nbao:coach_rileypa01 a nbao:Coach ;
     foaf:name "Patrick Riley"^^xsd:string .
 
 nbao:coach_brownla01 a nbao:Coach ;
-    nbao:birthdate "1940-09-14"^^xsd:date ;
+    nbao:birthDate "1940-09-14"^^xsd:date ;
     nbao:hasCoachStat nbao:coachstat_1003,
         nbao:coachstat_1033,
         nbao:coachstat_1065,
